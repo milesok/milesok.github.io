@@ -2,6 +2,7 @@
 published: false
 ---
 ---
+title: Creating a GitHub Pages Site with Jekyll, Part 1
 subtitle: A page about how this page was made
 categories: projects
 layout:post
