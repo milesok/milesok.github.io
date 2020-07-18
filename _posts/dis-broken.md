@@ -5,6 +5,7 @@ categories: projects website
 layout:post
 published:true
 ---
+
 Jekyll is a static site generator that is integrated with GitHub Pages. That makes things pretty easy on us. It is a nice middle ground between being easy to build out of the box but fully customizable with HTML, CSS, etc.
 
 [Here's a link](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB) to the video tutorials I used to get started and to the [jekyll documentation tutorial](https://jekyllrb.com/docs/step-by-step).
