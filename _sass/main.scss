@@ -1,6 +1,7 @@
 $font-stack: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $primary-color: #000000;
-$nav-color: 'midnight blue'
+$nav-background: 'midnight blue'
+$nav-link: 'white'
 
 body {
   font: 100% $font-stack;
@@ -11,5 +12,8 @@ h1 {
   color: $primary-color;
 }
 nav {
-  color: $nav-color
+  background-color: $nav-background;
+    a {
+      color: $nav-link;
+        }
 }
