@@ -47,8 +47,6 @@ Basically anything that's not a blog. The frontmatter 'permalink' variable allow
 
 That's about enough for one day. I have a site now though. Pretty cool.
 
-
-
-
+![](assets/img/creating-github-page/v1.png)
 
 I lied I went and made a [404 page](https://milesok.github.io/404). Now I'm done.
