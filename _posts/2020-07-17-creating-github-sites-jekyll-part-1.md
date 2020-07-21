@@ -40,7 +40,7 @@ They can be written in Markdown which makes things easy
 3. Within \_posts you can make separate directories and it doesn't mess with how Jekyll processes everything
 4. We can use a \_drafts folder for unfinished stuff - ```jekyll serve --draft``` will show what the page looks like with drafts
 
-Side note I'm using [prose.io](prose.io) to edit markdown and easily save changes/preview/etc. within the browser.
+Side note I'm using [prose.io](https://prose.io) to edit markdown and easily save changes/preview/etc. within the browser.
 
 ### Pages!
 Basically anything that's not a blog. The frontmatter 'permalink' variable allows us to override the link path. We can give it a string to define the path, or a pattern (e.g. /:categories/:year/:month/:day/:title). I made a ['/now' page](https://nownownow.com/about) to test this out which is now [here](https://milesok.github.io/now).
