@@ -1,6 +1,6 @@
 $font-stack: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $primary-color: #000000;
-$burnt-orange: #bf5700;
+$nav-color: 'midnight blue'
 
 body {
   font: 100% $font-stack;
@@ -8,5 +8,8 @@ body {
 }
 h1 {
   font: 200% $font-stack;
-  color: $burnt-orange;
+  color: $primary-color;
+}
+nav {
+  color: $nav-color
 }
