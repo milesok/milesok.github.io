@@ -45,7 +45,34 @@ Side note I'm using [prose.io](https://prose.io) to edit markdown and easily sav
 ### Pages!
 Basically anything that's not a blog. The frontmatter 'permalink' variable allows us to override the link path. We can give it a string to define the path, or a pattern (e.g. /:categories/:year/:month/:day/:title). I made a ['/now' page](https://nownownow.com/about) to test this out which is now [here](https://milesok.github.io/now).
 
-That's about enough for one day. I have a site now though. Pretty cool.
+### Layouts!
+This is how we'll make everything look all nice and pretty. For example, this is what our home page layout file looks like right now:
+```
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <div class="posts-list">
+    {% for post in site.posts %}
+    <article class="post-preview">
+      <a href="{{ post.url | relative_url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+     </article>
+    {% endfor %}
+  </div>
+
+</div>
+```
+The frontmatter means all of this html is inserted into the default layout where the {{content}} tag is placed. We have an if statement that will show the page title if it exists (this makes the very large "Home" at the top of the page). Then we have the content, which is everything in our `index.md` file. Finally we have a for loop that makes a link for each article in the `_posts` folder.
+
+That's about enough for one day. I have a site now though. Pretty cool. Next time I'll spice it up with some styling and navigation!
 
 ![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/creating-github-page/v1.PNG)
 
