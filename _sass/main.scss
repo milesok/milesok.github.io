@@ -1,3 +1,11 @@
-.current {
-  color: green;
-}
+$font-stack:    Helvetica, sans-serif
+$primary-color: #333
+$burnt-orange: #bf5700
+
+body
+  font: 100% $font-stack
+  color: $primary-color
+
+h3
+  font: 200% $font-stack
+  color: $burnt-orange
