@@ -49,4 +49,4 @@ That's about enough for one day. I have a site now though. Pretty cool.
 
 ![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/creating-github-page/v1.PNG?raw=true)
 
-I lied I went and made a [404 page](https://milesok.github.io/404). Now I'm done.
+I lied I went and made a [404 page](https://milesok.github.io/404) too just for fun. Now I'm done.
