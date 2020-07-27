@@ -28,6 +28,9 @@ So the first thing to do when starting from scratch is figuring out what we're w
 - position: Player's primary position - this is not always accurate on the roster pages, so we might need to keep an eye on it and use starting lineups instead
 - contest_id: these are linked on the scoreboard page
 - game_id: used to get play by play, box score, situational statistics
+- location: name of home team school or alt location
+- away_team: id of the away team
+- home_team: id of the home team
 - umpire_name: home plate umpire's name
 - umpire_id: created ids for each home plate umpire
 - all the fields that go with the play-by-play (these will come from imported flat files so I'm gonna leave them all together)
