@@ -1,6 +1,53 @@
 ---
 published: false
 ---
-## A New Post
+---
+title:Creating a College Baseball Database, Part 1
+subtitle:Database Design!
+layout:post
+categories:projects ncaa-database
+tags: ncaa database
+---
+Recently, I noticed I had an MLB database from the many data sources publicly available (Lahman, Retrosheet, Statcast, etc.) BUT for college data I just have a bunch of scripts to scrape the data. I want to get all my NCAA baseball data into a SQL database to make doing college baseball analysis easier, cleaner, and more efficient. To do this, I'm going to have to do a bunch of things, like collecting and formatting the data, analyzing it's viability and cleaning it, and creating pipelines to keep the database updated. But first, I'm going to sketch out a database design as a sort of project plan.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+For this project, I'm going to use a relational database structure, and personally, I'm planning to use MySQL but this post is more conceptual than technical.
+
+So the first thing to do when starting from scratch is figuring out what we're working from. Which is...
+
+### A Big List of Fields
+- season: what year is it (ex. 2019, 2020)
+- season_id: used with team id to get the team page for a specific season
+- team_id: used with season id to get the team page for a specific season
+- team_name: what school the id represents
+- team_abb: abbreviation code for the team
+- division: what division the team is in (this could change year to year)
+- scoreboard_id: the id used to access the scoreboard page for a given date within the corresponding season
+- player_id: ID assigned by the ncaa for each player
+- player_name: Player's full name
+- player_year: Player's year in school
+- position: Player's primary position - this is not always accurate on the roster pages, so we might need to keep an eye on it and use starting lineups instead
+- contest_id: these are linked on the scoreboard page
+- game_id: used to get play by play, box score, situational statistics
+- umpire_name: home plate umpire's name
+- umpire_id: created ids for each home plate umpire
+- all the fields that go with the play-by-play (these will come from imported flat files so I'm gonna leave them all together)
+
+
+##### Other things I might add on later but that would mean I would need a billion more fields
+These should be relatively easy to add on later because they should be keyed on existing fields and wouldn't require any changes to the tables we're about to create, just making new tables (or that's the goal at least).
+- game logs and included variables
+- full season statistics and included variables
+- split statistics (same variables as full season)
+- bridges to incorporate this data into my larger baseball database to do analysis on players that go on to play professionally
+
+### Group Fields Into Tables
+- 
+
+
+### Identify Key Fields
+
+
+### Describe Relationships
+
+
+
