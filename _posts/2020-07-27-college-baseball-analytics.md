@@ -57,3 +57,6 @@ WAR also has a problem in that a “replacement player” doesn’t really exist
 With a proper foundation established about the sabermetric mechanics of college baseball, we can look ahead to using Trackman data for skill-oriented analytics. 
 
 This would unlock the ability to measure up our players against a wider and more representative sample and take a lot of the human error and guesswork out of what we do. As more and more programs push into the frontier of data, our ability to effectively use what we do have for scouting, player development, strategy, and learning about the game will increase, and if we can build a solid foundation for how the college game works, we can push towards a future with widespread college baseball analytics because it will improve the game.
+
+### So What Can We Do?
+Knowing all of this, the question now is what *can* we do with the data we have, and what kinds of data can we find ways to collect in order to expand the possibilities.
