@@ -1,8 +1,8 @@
 ---
-title:Creating a College Baseball Database, Part 1
-subtitle:Database Design!
-layout:post
-categories:projects ncaa-database
+title: Creating a College Baseball Database, Part 1
+subtitle: Database Design!
+layout: post
+categories: projects ncaa-database
 tags: ncaa database
 published: true
 ---
