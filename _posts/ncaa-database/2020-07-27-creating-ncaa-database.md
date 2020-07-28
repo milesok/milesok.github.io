@@ -60,6 +60,6 @@ These should be relatively easy to add on later as I continue to develop the dat
 ### Identify Key Fields and Describe Relationships
 I'm just gonna use a diagram for this part because it makes a heck of a lot more sense to do it visually.
 
-![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/ncaa-database/db_diagram_v1.PNG?raw=true =300x)
+<img src="https://github.com/milesok/milesok.github.io/blob/master/assets/img/ncaa-database/db_diagram_v1.PNG?raw=true" width="40%">
 
 So this is the framework I'm going to be going off of when collecting data. The next post will be about how I'm collecting the data.
