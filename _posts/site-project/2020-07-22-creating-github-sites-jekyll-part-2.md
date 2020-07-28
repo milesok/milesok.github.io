@@ -10,6 +10,39 @@ tags: jekyll webdev
 Okay so what we have right now is a website but it's reeeeeal ugly and that's mostly cause I haven't done anything to actually style it. So I'm going to use SASS and some cool Jekyll functions to give it a bit of personality.
 
 ### Fonts and Colors
+To define the styles for this webpage, I decided to use [SASS](https://sass-lang.com/). I set it up by making a folder called `_sass` in the root directory. I created a SASS stylesheet called `main.scss` with these contents:
+```{sass}
+$font-stack: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$primary-color: #000000;
 
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+h1 {
+  font: 200% $font-stack;
+  color: $primary-color;
+}
+```
+The way that Jekyll processes SASS, we can just add this line to the base.html to link to the generated css sheet:
+```{html}
+<link rel="stylesheet" href="assets/css/styles.css">
+```
 
 ### Nav Bar!
+
+Next I added to the sass sheet to make the nav bar stand out a bit:
+```{sass}
+$nav-background: midnightblue;
+$nav-link: white;
+
+...
+
+nav {
+  background-color: $nav-background;
+    a {
+      color: $nav-link;
+        }
+}
+```
+
