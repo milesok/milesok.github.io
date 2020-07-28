@@ -15,5 +15,5 @@ Last updated: {{%page.date%}}
 ### Personal Projects
 - Building this website
 
-### Reading ([past reads](/library))
+### Reading ([past reads](https://milesok.github.io/library))
 - Swing Kings by Jared Diamond
