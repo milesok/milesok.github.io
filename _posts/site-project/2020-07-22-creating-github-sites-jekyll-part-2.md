@@ -89,5 +89,5 @@ nav {
   }
 }
 ```
-
+![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/creating-github-page/v2.PNG?raw=true)
 This is all fairly basic stuff but it makes a heck of a lot of difference. For the next post, I'm hoping to style up the home page and articles.
