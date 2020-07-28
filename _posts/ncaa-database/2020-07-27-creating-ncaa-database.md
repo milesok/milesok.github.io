@@ -1,12 +1,10 @@
 ---
-published: true
----
----
 title:Creating a College Baseball Database, Part 1
 subtitle:Database Design!
 layout:post
 categories:projects ncaa-database
 tags: ncaa database
+published: true
 ---
 
 Recently, I noticed I had an MLB database from the many data sources publicly available (Lahman, Retrosheet, Statcast, etc.) BUT for college data I just have a bunch of scripts to scrape the data. I want to get all my NCAA baseball data into a SQL database to make doing college baseball analysis easier, cleaner, and more efficient. To do this, I'm going to have to do a bunch of things, like collecting and formatting the data, analyzing it's viability and cleaning it, and creating pipelines to keep the database updated. But first, I'm going to sketch out a database design as a sort of project plan.
@@ -62,6 +60,6 @@ These should be relatively easy to add on later as I continue to develop the dat
 ### Identify Key Fields and Describe Relationships
 I'm just gonna use a diagram for this part because it makes a heck of a lot more sense to do it visually.
 
-![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/ncaa-database/db_diagram_v1.PNG?raw=true =300)
+![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/ncaa-database/db_diagram_v1.PNG?raw=true =300x)
 
 So this is the framework I'm going to be going off of when collecting data. The next post will be about how I'm collecting the data.
