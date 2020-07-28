@@ -24,12 +24,41 @@ h1 {
   color: $primary-color;
 }
 ```
-The way that Jekyll processes SASS, we can just add this line to the base.html to link to the generated css sheet:
+Then we just put this into ```assets/css/styles.scss```:
+```{sass}
+---
+---
+@import "main";
+```
+
+The way that Jekyll compiles SASS, we can now add this line to the base.html to link to the generated css sheet:
+
 ```{html}
 <link rel="stylesheet" href="assets/css/styles.css">
 ```
 
 ### Nav Bar!
+Another cool feature of Jekyll is the ability to use the ```include``` tag to add code snippets. This is especially useful for something like a navigation bar or footer. I added an ```_includes``` folder and put a file called ```navigation.html``` containing code for a simple nav bar that has links for each page I put into a ```_data/navigation.yml``` file:
+```{html}
+
+<nav>
+  <ul>
+  {% for item in site.data.navigation %}
+    <li><a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>
+      {{ item.name }}
+      </a></li>
+  {% endfor %}
+  </ul>
+</nav>
+```
+
+In the YAML file, I added a couple links 
+```{yaml}
+- name: Home
+  link: /
+- name: Now
+  link: /now
+```
 
 Next I added to the sass sheet to make the nav bar stand out a bit:
 ```{sass}
@@ -39,10 +68,26 @@ $nav-link: white;
 ...
 
 nav {
-  background-color: $nav-background;
-    a {
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    background-color: $nav-background;
+  }
+  li{
+      display: inline;
+      float: left;
+      a {
       color: $nav-link;
+      display: block;
+      padding: 14px 16px;
+      text-decoration: none;
+      &:hover {
+        background-color: steelblue;
+      }
         }
+  }
 }
 ```
 
