@@ -13,15 +13,6 @@ h1 {
 }
 nav {
   background-color: $nav-background;
-    a {
-      color: $nav-link;
-      display: block;
-      padding: 14px 16px;
-      text-decoration: none;
-      &:hover {
-        background-color: cyan;
-      }
-        }
   ul {
     list-style-type: none;
     margin: 0;
@@ -32,5 +23,14 @@ nav {
   li{
       display: inline;
       float: left;
+      a {
+      color: $nav-link;
+      display: block;
+      padding: 14px 16px;
+      text-decoration: none;
+      &:hover {
+        background-color: cyan;
+      }
+        }
   }
 }
