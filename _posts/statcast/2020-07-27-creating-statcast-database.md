@@ -322,7 +322,7 @@ print(paste0('Uploading games from ', date, ' to database.'))
 delete_and_upload_daily(d, date, db_connector)
 ```
 
-Also, it's helpful to create indexes (indices?) to make queries run a bit faster.
+Also, it's helpful to create indexes (indices?) to make queries run a bit faster. Here is the syntax for doing it in a MySQL database:
 ```{r}
 dbGetQuery(statcast_db, "alter table statcast drop index statcast_index")
 
