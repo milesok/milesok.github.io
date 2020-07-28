@@ -40,7 +40,6 @@ The way that Jekyll compiles SASS, we can now add this line to the base.html to 
 ### Nav Bar!
 Another cool feature of Jekyll is the ability to use the ```include``` tag to add code snippets. This is especially useful for something like a navigation bar or footer. I added an ```_includes``` folder and put a file called ```navigation.html``` containing code for a simple nav bar that has links for each page I put into a ```_data/navigation.yml``` file:
 ```{html}
-
 <nav>
   <ul>
   {% for item in site.data.navigation %}
@@ -60,7 +59,7 @@ In the YAML file, I added a couple links
   link: /now
 ```
 
-Next I added to the sass sheet to make the nav bar stand out a bit:
+Next I added to the sass sheet to make the nav bar look nice and stand out a bit:
 ```{sass}
 $nav-background: midnightblue;
 $nav-link: white;
@@ -91,3 +90,4 @@ nav {
 }
 ```
 
+This is all fairly basic stuff but it makes a heck of a lot of difference. For the next post, I'm hoping to style up the home page and articles.
