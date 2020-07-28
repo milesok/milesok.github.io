@@ -12,13 +12,12 @@ h1 {
   color: $primary-color;
 }
 nav {
-  background-color: $nav-background;
   ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow:hidden;
-    background-color: #191970;
+    background-color: $nav-background;
   }
   li{
       display: inline;
@@ -29,7 +28,7 @@ nav {
       padding: 14px 16px;
       text-decoration: none;
       &:hover {
-        background-color: cyan;
+        background-color: steel blue;
       }
         }
   }
