@@ -4,14 +4,13 @@ title: Creating a Statcast MySQL Database
 layout: post
 date: 2020-07-27T00:00:00.000Z
 ---
-This is largely based off of [Bill Petti's post](https://billpetti.github.io/2020-05-26-build-statcast-database-rstats-version-2.0/) which demonstrates how to use his baseballr package to gather Statcast data into a database.
+This is largely based off of [Bill Petti's post](https://billpetti.github.io/2020-05-26-build-statcast-database-rstats-version-2.0/) which demonstrates how to use his [baseballr package](https://github.com/BillPetti/baseballr) to gather Statcast data into a database (you can go to that repository for installation instructions).
 
 ```{r}
 library(baseballr)
 library(tidyverse)
 library(DBI)
 ```
-
 
 Before starting, you need to have access to a database - this will be for MySQL but other database types can be switched in fairly easily. I made a simple custom function that connects to my local database when called
 
