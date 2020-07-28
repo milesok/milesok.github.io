@@ -8,6 +8,7 @@ layout:post
 categories:projects ncaa-database
 tags: ncaa database
 ---
+
 Recently, I noticed I had an MLB database from the many data sources publicly available (Lahman, Retrosheet, Statcast, etc.) BUT for college data I just have a bunch of scripts to scrape the data. I want to get all my NCAA baseball data into a SQL database to make doing college baseball analysis easier, cleaner, and more efficient. To do this, I'm going to have to do a bunch of things, like collecting and formatting the data, analyzing it's viability and cleaning it, and creating pipelines to keep the database updated. But first, I'm going to sketch out a database design as a sort of project plan.
 
 Basically this is just going to document my train of thought throughout this whole thing, so I'm going to try and go relatively sequentially to document what I'm doing and why. For this project, I'm going to use a relational database structure so I can use SQL to query it, and personally, I'm planning to use MySQL but this post is more conceptual than technical so that won't matter much here.
