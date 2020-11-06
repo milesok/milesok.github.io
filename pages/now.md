@@ -23,6 +23,10 @@ This is what I'm up to right now!!
 - Computational Methods for Biomedical Engineering
 - Senior Capstone Design
 
+### Personal Learning
+- PyTorch using [d2l.ai](http://d2l.ai/)
+- Basics of [Quantum Computing](https://quantum.country/qcvc)
+
 ### Currently Reading
 - *The Signal and the Noise* - Nate Silver
 - *The Rise of Superman* - Steven Kotler
