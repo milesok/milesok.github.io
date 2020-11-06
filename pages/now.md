@@ -9,6 +9,7 @@ Last updated: {{%page.date%}}
 ### Texas Baseball
 - Redesigning team MySQL Database
 - Building a [ncaa play-by-play scraper](https://github.com/milesok/pbpy/)
+- Automating Data and Video Pipelines
 
 ### The University of Texas at Austin
 - I'm entering my fourth year in Biomedical Engineering, and starting to take graduate classes as part of the integrated BS/MSE program this fall
@@ -20,3 +21,7 @@ Last updated: {{%page.date%}}
 
 ### Personal Projects
 - Building this website
+
+### Currently Reading
+- *The Signal and the Noise* - Nate Silver
+- *The Rise of Superman* - Steven Kotler
