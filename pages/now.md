@@ -1,8 +1,9 @@
 ---
-permalink: '/now'
+permalink: /now
 layout: page
-title: "Now"
-date: 2020-07-28
+title: Now
+date: {}
+published: true
 ---
 Last updated: {{%page.date%}}
 ### Texas Baseball
@@ -12,8 +13,10 @@ Last updated: {{%page.date%}}
 ### The University of Texas at Austin
 - I'm entering my fourth year in Biomedical Engineering, and starting to take graduate classes as part of the integrated BS/MSE program this fall
 
+*Current Coursework*
+- Foundations of Predictive Machine Learning
+- Biomechanics of Human Movement
+- Computational Methods for Biomedical Engineering
+
 ### Personal Projects
 - Building this website
-
-### Reading ([past reads](https://milesok.github.io/library))
-- Swing Kings by Jared Diamond
