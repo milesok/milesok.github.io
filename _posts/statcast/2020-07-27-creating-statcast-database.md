@@ -2,7 +2,7 @@
 published: true
 title: Creating a Statcast MySQL Database
 layout: post
-date: 2020-07-27T00:00:00.000Z
+date: {}
 ---
 This is largely based off of [Bill Petti's post](https://billpetti.github.io/2020-05-26-build-statcast-database-rstats-version-2.0/) which demonstrates how to use his [baseballr package](https://github.com/BillPetti/baseballr) to gather Statcast data into a database (you can go to that repository for installation instructions).
 
@@ -322,7 +322,7 @@ print(paste0('Uploading games from ', date, ' to database.'))
 delete_and_upload_daily(d, date, db_connector)
 ```
 
-Also, it's helpful to create indexes (indices?) to make queries run a bit faster. Here is the syntax for doing it in a MySQL database:
+Also, it's helpful to create indexes to make queries run a bit faster. Here is the syntax for doing it in a MySQL database:
 ```{r}
 dbGetQuery(statcast_db, "alter table statcast drop index statcast_index")
 
@@ -346,4 +346,4 @@ dbGetQuery(statcast_db, "alter table statcast add index statcast_batter_index(ba
 
 ```
 
-Congrats now you have a Statcast database!
+Yay! You did it! The world is your oyster now!!
