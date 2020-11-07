@@ -2,7 +2,7 @@
 published: true
 title: Creating a Statcast MySQL Database
 layout: post
-date: {}
+date: 2020-07-27T00:00:00.000Z
 ---
 This is largely based off of [Bill Petti's post](https://billpetti.github.io/2020-05-26-build-statcast-database-rstats-version-2.0/) which demonstrates how to use his [baseballr package](https://github.com/BillPetti/baseballr) to gather Statcast data into a database (you can go to that repository for installation instructions).
 
