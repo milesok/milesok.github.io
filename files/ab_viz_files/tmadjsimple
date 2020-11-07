@@ -1,0 +1,38 @@
+tmadjsimple <- function(d){
+  vxrall = NULL
+  vyrall = NULL
+  vzrall = NULL
+  tfall = NULL
+
+  for (i in 1:nrow(d)) {
+    pitch <- d[i,]
+    xr = -1*as.double(pitch['RelSide'])
+    ext = as.double(pitch['Extension'])
+    yr = as.double(60.5 - ext)
+    zr = as.double(pitch['RelHeight'])
+    vx0 = as.double(pitch['vx0'])
+    vy0 = as.double(pitch['vy0'])
+    vz0 = as.double(pitch['vz0'])
+    ax = as.double(pitch['ax0'])
+    ay = as.double(pitch['ay0'])
+    az = as.double(pitch['az0'])
+
+    tr = (-vy0 - sqrt(vy0 ^ 2 - 2 * ay * (50 - yr))) / ay #release time
+    vxr= vx0 + ax * tr
+    vyr = vy0 + ay * tr
+    vzr = vz0 + az * tr
+    tf = (-vyr - sqrt(vyr ^ 2 - 2 * ay * (yr - 17 / 12))) / ay
+
+    vxrall[i] = vxr
+    vyrall[i] = vyr
+    vzrall[i] = vzr
+    tfall[i] = tf
+  }
+  d %>%
+    mutate(
+      vxr = vxrall,
+      vyr = vyrall,
+      vzr = vzrall,
+      tf = tfall
+    )
+}

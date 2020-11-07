@@ -1,0 +1,12 @@
+Field Number,Header
+0,home
+1,home_abb
+2,home_seed
+3,home_score
+4,away
+5,away_abb
+6,away_seed
+7,away_score
+8,location
+9,innings
+10,date

@@ -1,0 +1,5515 @@
+school,conference,school_id,year,division,conference_id
+A&M-Corpus Christi,Independent,26172,2003,1,0
+A&M-Corpus Christi,Independent,26172,2004,1,0
+A&M-Corpus Christi,Independent,26172,2005,1,0
+A&M-Corpus Christi,Independent,26172,2006,1,0
+A&M-Corpus Christi,Southland,26172,2007,1,914
+A&M-Corpus Christi,Southland,26172,2008,1,914
+A&M-Corpus Christi,Southland,26172,2009,1,914
+A&M-Corpus Christi,Southland,26172,2010,1,914
+A&M-Corpus Christi,Southland,26172,2011,1,914
+A&M-Corpus Christi,Southland,26172,2012,1,914
+A&M-Corpus Christi,Southland,26172,2013,1,914
+A&M-Corpus Christi,Southland,26172,2014,1,914
+A&M-Corpus Christi,Southland,26172,2015,1,914
+A&M-Corpus Christi,Southland,26172,2016,1,914
+A&M-Corpus Christi,Southland,26172,2017,1,914
+A&M-Corpus Christi,Southland,26172,2018,1,914
+A&M-Corpus Christi,Southland,26172,2019,1,914
+Abilene Christian,Southland,2,2014,1,914
+Abilene Christian,Southland,2,2015,1,914
+Abilene Christian,Southland,2,2016,1,914
+Abilene Christian,Southland,2,2017,1,914
+Abilene Christian,Southland,2,2018,1,914
+Abilene Christian,Southland,2,2019,1,914
+Air Force,MWC,721,2002,1,5486
+Air Force,MWC,721,2003,1,5486
+Air Force,MWC,721,2004,1,5486
+Air Force,MWC,721,2005,1,5486
+Air Force,MWC,721,2006,1,5486
+Air Force,MWC,721,2007,1,5486
+Air Force,MWC,721,2008,1,5486
+Air Force,MWC,721,2009,1,5486
+Air Force,MWC,721,2010,1,5486
+Air Force,MWC,721,2011,1,5486
+Air Force,MWC,721,2012,1,5486
+Air Force,MWC,721,2013,1,5486
+Air Force,MWC,721,2014,1,5486
+Air Force,MWC,721,2015,1,5486
+Air Force,MWC,721,2016,1,5486
+Air Force,MWC,721,2017,1,5486
+Air Force,MWC,721,2018,1,5486
+Air Force,MWC,721,2019,1,5486
+Akron,MAC,5,2002,1,875
+Akron,MAC,5,2003,1,875
+Akron,MAC,5,2004,1,875
+Akron,MAC,5,2005,1,875
+Akron,MAC,5,2006,1,875
+Akron,MAC,5,2007,1,875
+Akron,MAC,5,2008,1,875
+Akron,MAC,5,2009,1,875
+Akron,MAC,5,2010,1,875
+Akron,MAC,5,2011,1,875
+Akron,MAC,5,2012,1,875
+Akron,MAC,5,2013,1,875
+Akron,MAC,5,2014,1,875
+Akron,MAC,5,2015,1,875
+Akron,MAC,5,2016,1,875
+Alabama,SEC,8,2002,1,911
+Alabama,SEC,8,2003,1,911
+Alabama,SEC,8,2004,1,911
+Alabama,SEC,8,2005,1,911
+Alabama,SEC,8,2006,1,911
+Alabama,SEC,8,2007,1,911
+Alabama,SEC,8,2008,1,911
+Alabama,SEC,8,2009,1,911
+Alabama,SEC,8,2010,1,911
+Alabama,SEC,8,2011,1,911
+Alabama,SEC,8,2012,1,911
+Alabama,SEC,8,2013,1,911
+Alabama,SEC,8,2014,1,911
+Alabama,SEC,8,2015,1,911
+Alabama,SEC,8,2016,1,911
+Alabama,SEC,8,2017,1,911
+Alabama,SEC,8,2018,1,911
+Alabama,SEC,8,2019,1,911
+Alabama A&M,SWAC,6,2002,1,916
+Alabama A&M,SWAC,6,2003,1,916
+Alabama A&M,SWAC,6,2004,1,916
+Alabama A&M,SWAC,6,2005,1,916
+Alabama A&M,SWAC,6,2006,1,916
+Alabama A&M,SWAC,6,2007,1,916
+Alabama A&M,SWAC,6,2008,1,916
+Alabama A&M,SWAC,6,2009,1,916
+Alabama A&M,SWAC,6,2010,1,916
+Alabama A&M,SWAC,6,2011,1,916
+Alabama A&M,SWAC,6,2012,1,916
+Alabama A&M,SWAC,6,2013,1,916
+Alabama A&M,SWAC,6,2014,1,916
+Alabama A&M,SWAC,6,2015,1,916
+Alabama A&M,SWAC,6,2016,1,916
+Alabama A&M,SWAC,6,2017,1,916
+Alabama A&M,SWAC,6,2018,1,916
+Alabama A&M,SWAC,6,2019,1,916
+Alabama St.,SWAC,7,2002,1,916
+Alabama St.,SWAC,7,2003,1,916
+Alabama St.,SWAC,7,2004,1,916
+Alabama St.,SWAC,7,2005,1,916
+Alabama St.,SWAC,7,2006,1,916
+Alabama St.,SWAC,7,2007,1,916
+Alabama St.,SWAC,7,2008,1,916
+Alabama St.,SWAC,7,2009,1,916
+Alabama St.,SWAC,7,2010,1,916
+Alabama St.,SWAC,7,2011,1,916
+Alabama St.,SWAC,7,2012,1,916
+Alabama St.,SWAC,7,2013,1,916
+Alabama St.,SWAC,7,2014,1,916
+Alabama St.,SWAC,7,2015,1,916
+Alabama St.,SWAC,7,2016,1,916
+Alabama St.,SWAC,7,2017,1,916
+Alabama St.,SWAC,7,2018,1,916
+Alabama St.,SWAC,7,2019,1,916
+Albany (NY),America East,14,2002,1,845
+Albany (NY),America East,14,2003,1,845
+Albany (NY),America East,14,2004,1,845
+Albany (NY),America East,14,2005,1,845
+Albany (NY),America East,14,2006,1,845
+Albany (NY),America East,14,2007,1,845
+Albany (NY),America East,14,2008,1,845
+Albany (NY),America East,14,2009,1,845
+Albany (NY),America East,14,2010,1,845
+Albany (NY),America East,14,2011,1,845
+Albany (NY),America East,14,2012,1,845
+Albany (NY),America East,14,2013,1,845
+Albany (NY),America East,14,2014,1,845
+Albany (NY),America East,14,2015,1,845
+Albany (NY),America East,14,2016,1,845
+Albany (NY),America East,14,2017,1,845
+Albany (NY),America East,14,2018,1,845
+Albany (NY),America East,14,2019,1,845
+Alcorn,SWAC,17,2002,1,916
+Alcorn,SWAC,17,2003,1,916
+Alcorn,SWAC,17,2004,1,916
+Alcorn,SWAC,17,2005,1,916
+Alcorn,SWAC,17,2006,1,916
+Alcorn,SWAC,17,2007,1,916
+Alcorn,SWAC,17,2008,1,916
+Alcorn,SWAC,17,2009,1,916
+Alcorn,SWAC,17,2010,1,916
+Alcorn,SWAC,17,2011,1,916
+Alcorn,SWAC,17,2012,1,916
+Alcorn,SWAC,17,2013,1,916
+Alcorn,SWAC,17,2014,1,916
+Alcorn,SWAC,17,2015,1,916
+Alcorn,SWAC,17,2016,1,916
+Alcorn,SWAC,17,2017,1,916
+Alcorn,SWAC,17,2018,1,916
+Alcorn,SWAC,17,2019,1,916
+Appalachian St.,SoCon,27,2002,1,912
+Appalachian St.,SoCon,27,2003,1,912
+Appalachian St.,SoCon,27,2004,1,912
+Appalachian St.,SoCon,27,2005,1,912
+Appalachian St.,SoCon,27,2006,1,912
+Appalachian St.,SoCon,27,2007,1,912
+Appalachian St.,SoCon,27,2008,1,912
+Appalachian St.,SoCon,27,2009,1,912
+Appalachian St.,SoCon,27,2010,1,912
+Appalachian St.,SoCon,27,2011,1,912
+Appalachian St.,SoCon,27,2012,1,912
+Appalachian St.,SoCon,27,2013,1,912
+Appalachian St.,SoCon,27,2014,1,912
+Appalachian St.,Sun Belt,27,2015,1,818
+Appalachian St.,Sun Belt,27,2016,1,818
+Appalachian St.,Sun Belt,27,2017,1,818
+Appalachian St.,Sun Belt,27,2018,1,818
+Appalachian St.,Sun Belt,27,2019,1,818
+Arizona,Pac-12,29,2002,1,905
+Arizona,Pac-12,29,2003,1,905
+Arizona,Pac-12,29,2004,1,905
+Arizona,Pac-12,29,2005,1,905
+Arizona,Pac-12,29,2006,1,905
+Arizona,Pac-12,29,2007,1,905
+Arizona,Pac-12,29,2008,1,905
+Arizona,Pac-12,29,2009,1,905
+Arizona,Pac-12,29,2010,1,905
+Arizona,Pac-12,29,2011,1,905
+Arizona,Pac-12,29,2012,1,905
+Arizona,Pac-12,29,2013,1,905
+Arizona,Pac-12,29,2014,1,905
+Arizona,Pac-12,29,2015,1,905
+Arizona,Pac-12,29,2016,1,905
+Arizona,Pac-12,29,2017,1,905
+Arizona,Pac-12,29,2018,1,905
+Arizona,Pac-12,29,2019,1,905
+Arizona St.,Pac-12,28,2002,1,905
+Arizona St.,Pac-12,28,2003,1,905
+Arizona St.,Pac-12,28,2004,1,905
+Arizona St.,Pac-12,28,2005,1,905
+Arizona St.,Pac-12,28,2006,1,905
+Arizona St.,Pac-12,28,2007,1,905
+Arizona St.,Pac-12,28,2008,1,905
+Arizona St.,Pac-12,28,2009,1,905
+Arizona St.,Pac-12,28,2010,1,905
+Arizona St.,Pac-12,28,2011,1,905
+Arizona St.,Pac-12,28,2012,1,905
+Arizona St.,Pac-12,28,2013,1,905
+Arizona St.,Pac-12,28,2014,1,905
+Arizona St.,Pac-12,28,2015,1,905
+Arizona St.,Pac-12,28,2016,1,905
+Arizona St.,Pac-12,28,2017,1,905
+Arizona St.,Pac-12,28,2018,1,905
+Arizona St.,Pac-12,28,2019,1,905
+Ark.-Pine Bluff,SWAC,2678,2002,1,916
+Ark.-Pine Bluff,SWAC,2678,2003,1,916
+Ark.-Pine Bluff,SWAC,2678,2004,1,916
+Ark.-Pine Bluff,SWAC,2678,2005,1,916
+Ark.-Pine Bluff,SWAC,2678,2006,1,916
+Ark.-Pine Bluff,SWAC,2678,2007,1,916
+Ark.-Pine Bluff,SWAC,2678,2008,1,916
+Ark.-Pine Bluff,SWAC,2678,2009,1,916
+Ark.-Pine Bluff,SWAC,2678,2010,1,916
+Ark.-Pine Bluff,SWAC,2678,2011,1,916
+Ark.-Pine Bluff,SWAC,2678,2012,1,916
+Ark.-Pine Bluff,SWAC,2678,2013,1,916
+Ark.-Pine Bluff,SWAC,2678,2014,1,916
+Ark.-Pine Bluff,SWAC,2678,2015,1,916
+Ark.-Pine Bluff,SWAC,2678,2016,1,916
+Ark.-Pine Bluff,SWAC,2678,2017,1,916
+Ark.-Pine Bluff,SWAC,2678,2018,1,916
+Ark.-Pine Bluff,SWAC,2678,2019,1,916
+Arkansas,SEC,31,2002,1,911
+Arkansas,SEC,31,2003,1,911
+Arkansas,SEC,31,2004,1,911
+Arkansas,SEC,31,2005,1,911
+Arkansas,SEC,31,2006,1,911
+Arkansas,SEC,31,2007,1,911
+Arkansas,SEC,31,2008,1,911
+Arkansas,SEC,31,2009,1,911
+Arkansas,SEC,31,2010,1,911
+Arkansas,SEC,31,2011,1,911
+Arkansas,SEC,31,2012,1,911
+Arkansas,SEC,31,2013,1,911
+Arkansas,SEC,31,2014,1,911
+Arkansas,SEC,31,2015,1,911
+Arkansas,SEC,31,2016,1,911
+Arkansas,SEC,31,2017,1,911
+Arkansas,SEC,31,2018,1,911
+Arkansas,SEC,31,2019,1,911
+Arkansas St.,Sun Belt,30,2002,1,818
+Arkansas St.,Sun Belt,30,2003,1,818
+Arkansas St.,Sun Belt,30,2004,1,818
+Arkansas St.,Sun Belt,30,2005,1,818
+Arkansas St.,Sun Belt,30,2006,1,818
+Arkansas St.,Sun Belt,30,2007,1,818
+Arkansas St.,Sun Belt,30,2008,1,818
+Arkansas St.,Sun Belt,30,2009,1,818
+Arkansas St.,Sun Belt,30,2010,1,818
+Arkansas St.,Sun Belt,30,2011,1,818
+Arkansas St.,Sun Belt,30,2012,1,818
+Arkansas St.,Sun Belt,30,2013,1,818
+Arkansas St.,Sun Belt,30,2014,1,818
+Arkansas St.,Sun Belt,30,2015,1,818
+Arkansas St.,Sun Belt,30,2016,1,818
+Arkansas St.,Sun Belt,30,2017,1,818
+Arkansas St.,Sun Belt,30,2018,1,818
+Arkansas St.,Sun Belt,30,2019,1,818
+Army West Point,Patriot,725,2002,1,838
+Army West Point,Patriot,725,2003,1,838
+Army West Point,Patriot,725,2004,1,838
+Army West Point,Patriot,725,2005,1,838
+Army West Point,Patriot,725,2006,1,838
+Army West Point,Patriot,725,2007,1,838
+Army West Point,Patriot,725,2008,1,838
+Army West Point,Patriot,725,2009,1,838
+Army West Point,Patriot,725,2010,1,838
+Army West Point,Patriot,725,2011,1,838
+Army West Point,Patriot,725,2012,1,838
+Army West Point,Patriot,725,2013,1,838
+Army West Point,Patriot,725,2014,1,838
+Army West Point,Patriot,725,2015,1,838
+Army West Point,Patriot,725,2016,1,838
+Army West Point,Patriot,725,2017,1,838
+Army West Point,Patriot,725,2018,1,838
+Army West Point,Patriot,725,2019,1,838
+Auburn,SEC,37,2002,1,911
+Auburn,SEC,37,2003,1,911
+Auburn,SEC,37,2004,1,911
+Auburn,SEC,37,2005,1,911
+Auburn,SEC,37,2006,1,911
+Auburn,SEC,37,2007,1,911
+Auburn,SEC,37,2008,1,911
+Auburn,SEC,37,2009,1,911
+Auburn,SEC,37,2010,1,911
+Auburn,SEC,37,2011,1,911
+Auburn,SEC,37,2012,1,911
+Auburn,SEC,37,2013,1,911
+Auburn,SEC,37,2014,1,911
+Auburn,SEC,37,2015,1,911
+Auburn,SEC,37,2016,1,911
+Auburn,SEC,37,2017,1,911
+Auburn,SEC,37,2018,1,911
+Auburn,SEC,37,2019,1,911
+Austin Peay,OVC,43,2002,1,902
+Austin Peay,OVC,43,2003,1,902
+Austin Peay,OVC,43,2004,1,902
+Austin Peay,OVC,43,2005,1,902
+Austin Peay,OVC,43,2006,1,902
+Austin Peay,OVC,43,2007,1,902
+Austin Peay,OVC,43,2008,1,902
+Austin Peay,OVC,43,2009,1,902
+Austin Peay,OVC,43,2010,1,902
+Austin Peay,OVC,43,2011,1,902
+Austin Peay,OVC,43,2012,1,902
+Austin Peay,OVC,43,2013,1,902
+Austin Peay,OVC,43,2014,1,902
+Austin Peay,OVC,43,2015,1,902
+Austin Peay,OVC,43,2016,1,902
+Austin Peay,OVC,43,2017,1,902
+Austin Peay,OVC,43,2018,1,902
+Austin Peay,OVC,43,2019,1,902
+Ball St.,MAC,47,2002,1,875
+Ball St.,MAC,47,2003,1,875
+Ball St.,MAC,47,2004,1,875
+Ball St.,MAC,47,2005,1,875
+Ball St.,MAC,47,2006,1,875
+Ball St.,MAC,47,2007,1,875
+Ball St.,MAC,47,2008,1,875
+Ball St.,MAC,47,2009,1,875
+Ball St.,MAC,47,2010,1,875
+Ball St.,MAC,47,2011,1,875
+Ball St.,MAC,47,2012,1,875
+Ball St.,MAC,47,2013,1,875
+Ball St.,MAC,47,2014,1,875
+Ball St.,MAC,47,2015,1,875
+Ball St.,MAC,47,2016,1,875
+Ball St.,MAC,47,2017,1,875
+Ball St.,MAC,47,2018,1,875
+Ball St.,MAC,47,2019,1,875
+Baylor,Big 12,51,2002,1,25354
+Baylor,Big 12,51,2003,1,25354
+Baylor,Big 12,51,2004,1,25354
+Baylor,Big 12,51,2005,1,25354
+Baylor,Big 12,51,2006,1,25354
+Baylor,Big 12,51,2007,1,25354
+Baylor,Big 12,51,2008,1,25354
+Baylor,Big 12,51,2009,1,25354
+Baylor,Big 12,51,2010,1,25354
+Baylor,Big 12,51,2011,1,25354
+Baylor,Big 12,51,2012,1,25354
+Baylor,Big 12,51,2013,1,25354
+Baylor,Big 12,51,2014,1,25354
+Baylor,Big 12,51,2015,1,25354
+Baylor,Big 12,51,2016,1,25354
+Baylor,Big 12,51,2017,1,25354
+Baylor,Big 12,51,2018,1,25354
+Baylor,Big 12,51,2019,1,25354
+Becker,Independent,26107,2002,1,0
+Becker,Independent,26107,2003,1,0
+Belmont,ASUN,14927,2002,1,920
+Belmont,ASUN,14927,2003,1,920
+Belmont,ASUN,14927,2004,1,920
+Belmont,ASUN,14927,2005,1,920
+Belmont,ASUN,14927,2006,1,920
+Belmont,ASUN,14927,2007,1,920
+Belmont,ASUN,14927,2008,1,920
+Belmont,ASUN,14927,2009,1,920
+Belmont,ASUN,14927,2010,1,920
+Belmont,ASUN,14927,2011,1,920
+Belmont,ASUN,14927,2012,1,920
+Belmont,OVC,14927,2013,1,902
+Belmont,OVC,14927,2014,1,902
+Belmont,OVC,14927,2015,1,902
+Belmont,OVC,14927,2016,1,902
+Belmont,OVC,14927,2017,1,902
+Belmont,OVC,14927,2018,1,902
+Belmont,OVC,14927,2019,1,902
+Berea,Independent,30171,2017,1,0
+Bethany Lutheran,Independent,30038,2008,1,0
+Bethune-Cookman,MEAC,61,2002,1,876
+Bethune-Cookman,MEAC,61,2003,1,876
+Bethune-Cookman,MEAC,61,2004,1,876
+Bethune-Cookman,MEAC,61,2005,1,876
+Bethune-Cookman,MEAC,61,2006,1,876
+Bethune-Cookman,MEAC,61,2007,1,876
+Bethune-Cookman,MEAC,61,2008,1,876
+Bethune-Cookman,MEAC,61,2009,1,876
+Bethune-Cookman,MEAC,61,2010,1,876
+Bethune-Cookman,MEAC,61,2011,1,876
+Bethune-Cookman,MEAC,61,2012,1,876
+Bethune-Cookman,MEAC,61,2013,1,876
+Bethune-Cookman,MEAC,61,2014,1,876
+Bethune-Cookman,MEAC,61,2015,1,876
+Bethune-Cookman,MEAC,61,2016,1,876
+Bethune-Cookman,MEAC,61,2017,1,876
+Bethune-Cookman,MEAC,61,2018,1,876
+Bethune-Cookman,MEAC,61,2019,1,876
+Binghamton,America East,62,2002,1,845
+Binghamton,America East,62,2003,1,845
+Binghamton,America East,62,2004,1,845
+Binghamton,America East,62,2005,1,845
+Binghamton,America East,62,2006,1,845
+Binghamton,America East,62,2007,1,845
+Binghamton,America East,62,2008,1,845
+Binghamton,America East,62,2009,1,845
+Binghamton,America East,62,2010,1,845
+Binghamton,America East,62,2011,1,845
+Binghamton,America East,62,2012,1,845
+Binghamton,America East,62,2013,1,845
+Binghamton,America East,62,2014,1,845
+Binghamton,America East,62,2015,1,845
+Binghamton,America East,62,2016,1,845
+Binghamton,America East,62,2017,1,845
+Binghamton,America East,62,2018,1,845
+Binghamton,America East,62,2019,1,845
+Birmingham-So.,Big South,28593,2004,1,826
+Birmingham-So.,Big South,28593,2005,1,826
+Birmingham-So.,Big South,28593,2006,1,826
+Birmingham-So.,Big South,28593,2007,1,826
+Birmingham-So.,Big South,28593,2008,1,826
+Bluefield St.,Independent,985,2015,1,0
+Bluefield St.,Independent,985,2016,1,0
+Bluefield St.,Independent,985,2017,1,0
+Boston College,AAC,67,2002,1,823
+Boston College,AAC,67,2003,1,823
+Boston College,AAC,67,2004,1,823
+Boston College,AAC,67,2005,1,823
+Boston College,ACC,67,2006,1,821
+Boston College,ACC,67,2007,1,821
+Boston College,ACC,67,2008,1,821
+Boston College,ACC,67,2009,1,821
+Boston College,ACC,67,2010,1,821
+Boston College,ACC,67,2011,1,821
+Boston College,ACC,67,2012,1,821
+Boston College,ACC,67,2013,1,821
+Boston College,ACC,67,2014,1,821
+Boston College,ACC,67,2015,1,821
+Boston College,ACC,67,2016,1,821
+Boston College,ACC,67,2017,1,821
+Boston College,ACC,67,2018,1,821
+Boston College,ACC,67,2019,1,821
+Bowling Green,MAC,71,2002,1,875
+Bowling Green,MAC,71,2003,1,875
+Bowling Green,MAC,71,2004,1,875
+Bowling Green,MAC,71,2005,1,875
+Bowling Green,MAC,71,2006,1,875
+Bowling Green,MAC,71,2007,1,875
+Bowling Green,MAC,71,2008,1,875
+Bowling Green,MAC,71,2009,1,875
+Bowling Green,MAC,71,2010,1,875
+Bowling Green,MAC,71,2011,1,875
+Bowling Green,MAC,71,2012,1,875
+Bowling Green,MAC,71,2013,1,875
+Bowling Green,MAC,71,2014,1,875
+Bowling Green,MAC,71,2015,1,875
+Bowling Green,MAC,71,2016,1,875
+Bowling Green,MAC,71,2017,1,875
+Bowling Green,MAC,71,2018,1,875
+Bowling Green,MAC,71,2019,1,875
+Bradley,MVC,72,2002,1,884
+Bradley,MVC,72,2003,1,884
+Bradley,MVC,72,2004,1,884
+Bradley,MVC,72,2005,1,884
+Bradley,MVC,72,2006,1,884
+Bradley,MVC,72,2007,1,884
+Bradley,MVC,72,2008,1,884
+Bradley,MVC,72,2009,1,884
+Bradley,MVC,72,2010,1,884
+Bradley,MVC,72,2011,1,884
+Bradley,MVC,72,2012,1,884
+Bradley,MVC,72,2013,1,884
+Bradley,MVC,72,2014,1,884
+Bradley,MVC,72,2015,1,884
+Bradley,MVC,72,2016,1,884
+Bradley,MVC,72,2017,1,884
+Bradley,MVC,72,2018,1,884
+Bradley,MVC,72,2019,1,884
+Brevard,Independent,30094,2008,1,0
+Brown,Ivy League,80,2002,1,865
+Brown,Ivy League,80,2003,1,865
+Brown,Ivy League,80,2004,1,865
+Brown,Ivy League,80,2005,1,865
+Brown,Ivy League,80,2006,1,865
+Brown,Ivy League,80,2007,1,865
+Brown,Ivy League,80,2008,1,865
+Brown,Ivy League,80,2009,1,865
+Brown,Ivy League,80,2010,1,865
+Brown,Ivy League,80,2011,1,865
+Brown,Ivy League,80,2012,1,865
+Brown,Ivy League,80,2013,1,865
+Brown,Ivy League,80,2014,1,865
+Brown,Ivy League,80,2015,1,865
+Brown,Ivy League,80,2016,1,865
+Brown,Ivy League,80,2017,1,865
+Brown,Ivy League,80,2018,1,865
+Brown,Ivy League,80,2019,1,865
+Bryant,NEC,81,2010,1,846
+Bryant,NEC,81,2011,1,846
+Bryant,NEC,81,2012,1,846
+Bryant,NEC,81,2013,1,846
+Bryant,NEC,81,2014,1,846
+Bryant,NEC,81,2015,1,846
+Bryant,NEC,81,2016,1,846
+Bryant,NEC,81,2017,1,846
+Bryant,NEC,81,2018,1,846
+Bryant,NEC,81,2019,1,846
+Bucknell,Patriot,83,2002,1,838
+Bucknell,Patriot,83,2003,1,838
+Bucknell,Patriot,83,2004,1,838
+Bucknell,Patriot,83,2005,1,838
+Bucknell,Patriot,83,2006,1,838
+Bucknell,Patriot,83,2007,1,838
+Bucknell,Patriot,83,2008,1,838
+Bucknell,Patriot,83,2009,1,838
+Bucknell,Patriot,83,2010,1,838
+Bucknell,Patriot,83,2011,1,838
+Bucknell,Patriot,83,2012,1,838
+Bucknell,Patriot,83,2013,1,838
+Bucknell,Patriot,83,2014,1,838
+Bucknell,Patriot,83,2015,1,838
+Bucknell,Patriot,83,2016,1,838
+Bucknell,Patriot,83,2017,1,838
+Bucknell,Patriot,83,2018,1,838
+Bucknell,Patriot,83,2019,1,838
+Buffalo,MAC,86,2002,1,875
+Buffalo,MAC,86,2003,1,875
+Buffalo,MAC,86,2004,1,875
+Buffalo,MAC,86,2005,1,875
+Buffalo,MAC,86,2006,1,875
+Buffalo,MAC,86,2007,1,875
+Buffalo,MAC,86,2008,1,875
+Buffalo,MAC,86,2009,1,875
+Buffalo,MAC,86,2010,1,875
+Buffalo,MAC,86,2011,1,875
+Buffalo,MAC,86,2012,1,875
+Buffalo,MAC,86,2013,1,875
+Buffalo,MAC,86,2014,1,875
+Buffalo,MAC,86,2015,1,875
+Buffalo,MAC,86,2016,1,875
+Buffalo,MAC,86,2017,1,875
+Butler,Horizon,87,2002,1,881
+Butler,Horizon,87,2003,1,881
+Butler,Horizon,87,2004,1,881
+Butler,Horizon,87,2005,1,881
+Butler,Horizon,87,2006,1,881
+Butler,Horizon,87,2007,1,881
+Butler,Horizon,87,2008,1,881
+Butler,Horizon,87,2009,1,881
+Butler,Horizon,87,2010,1,881
+Butler,Horizon,87,2011,1,881
+Butler,Horizon,87,2012,1,881
+Butler,Atlantic 10,87,2013,1,820
+Butler,Big East,87,2014,1,30184
+Butler,Big East,87,2015,1,30184
+Butler,Big East,87,2016,1,30184
+Butler,Big East,87,2017,1,30184
+Butler,Big East,87,2018,1,30184
+Butler,Big East,87,2019,1,30184
+BYU,MWC,77,2002,1,5486
+BYU,MWC,77,2003,1,5486
+BYU,MWC,77,2004,1,5486
+BYU,MWC,77,2005,1,5486
+BYU,MWC,77,2006,1,5486
+BYU,MWC,77,2007,1,5486
+BYU,MWC,77,2008,1,5486
+BYU,MWC,77,2009,1,5486
+BYU,MWC,77,2010,1,5486
+BYU,MWC,77,2011,1,5486
+BYU,WCC,77,2012,1,922
+BYU,WCC,77,2013,1,922
+BYU,WCC,77,2014,1,922
+BYU,WCC,77,2015,1,922
+BYU,WCC,77,2016,1,922
+BYU,WCC,77,2017,1,922
+BYU,WCC,77,2018,1,922
+BYU,WCC,77,2019,1,922
+Cairn,Independent,1305,2004,1,0
+Cal Poly,Big West,90,2002,1,904
+Cal Poly,Big West,90,2003,1,904
+Cal Poly,Big West,90,2004,1,904
+Cal Poly,Big West,90,2005,1,904
+Cal Poly,Big West,90,2006,1,904
+Cal Poly,Big West,90,2007,1,904
+Cal Poly,Big West,90,2008,1,904
+Cal Poly,Big West,90,2009,1,904
+Cal Poly,Big West,90,2010,1,904
+Cal Poly,Big West,90,2011,1,904
+Cal Poly,Big West,90,2012,1,904
+Cal Poly,Big West,90,2013,1,904
+Cal Poly,Big West,90,2014,1,904
+Cal Poly,Big West,90,2015,1,904
+Cal Poly,Big West,90,2016,1,904
+Cal Poly,Big West,90,2017,1,904
+Cal Poly,Big West,90,2018,1,904
+Cal Poly,Big West,90,2019,1,904
+Cal St. East Bay,Independent,98,2002,1,0
+Cal St. East Bay,Independent,98,2003,1,0
+Cal St. East Bay,Independent,98,2004,1,0
+Cal St. East Bay,Independent,98,2005,1,0
+Cal St. East Bay,Independent,98,2006,1,0
+Cal St. East Bay,Independent,98,2007,1,0
+Cal St. East Bay,Independent,98,2008,1,0
+Cal St. East Bay,Independent,98,2009,1,0
+Cal St. Fullerton,Big West,97,2002,1,904
+Cal St. Fullerton,Big West,97,2003,1,904
+Cal St. Fullerton,Big West,97,2004,1,904
+Cal St. Fullerton,Big West,97,2005,1,904
+Cal St. Fullerton,Big West,97,2006,1,904
+Cal St. Fullerton,Big West,97,2007,1,904
+Cal St. Fullerton,Big West,97,2008,1,904
+Cal St. Fullerton,Big West,97,2009,1,904
+Cal St. Fullerton,Big West,97,2010,1,904
+Cal St. Fullerton,Big West,97,2011,1,904
+Cal St. Fullerton,Big West,97,2012,1,904
+Cal St. Fullerton,Big West,97,2013,1,904
+Cal St. Fullerton,Big West,97,2014,1,904
+Cal St. Fullerton,Big West,97,2015,1,904
+Cal St. Fullerton,Big West,97,2016,1,904
+Cal St. Fullerton,Big West,97,2017,1,904
+Cal St. Fullerton,Big West,97,2018,1,904
+Cal St. Fullerton,Big West,97,2019,1,904
+Cal St. Monterey Bay,Independent,30055,2006,1,0
+California,Pac-12,107,2002,1,905
+California,Pac-12,107,2003,1,905
+California,Pac-12,107,2004,1,905
+California,Pac-12,107,2005,1,905
+California,Pac-12,107,2006,1,905
+California,Pac-12,107,2007,1,905
+California,Pac-12,107,2008,1,905
+California,Pac-12,107,2009,1,905
+California,Pac-12,107,2010,1,905
+California,Pac-12,107,2011,1,905
+California,Pac-12,107,2012,1,905
+California,Pac-12,107,2013,1,905
+California,Pac-12,107,2014,1,905
+California,Pac-12,107,2015,1,905
+California,Pac-12,107,2016,1,905
+California,Pac-12,107,2017,1,905
+California,Pac-12,107,2018,1,905
+California,Pac-12,107,2019,1,905
+California Baptist,WAC,30135,2019,1,923
+Campbell,ASUN,115,2002,1,920
+Campbell,ASUN,115,2003,1,920
+Campbell,ASUN,115,2004,1,920
+Campbell,ASUN,115,2005,1,920
+Campbell,ASUN,115,2006,1,920
+Campbell,ASUN,115,2007,1,920
+Campbell,ASUN,115,2008,1,920
+Campbell,ASUN,115,2009,1,920
+Campbell,ASUN,115,2010,1,920
+Campbell,ASUN,115,2011,1,920
+Campbell,Big South,115,2012,1,826
+Campbell,Big South,115,2013,1,826
+Campbell,Big South,115,2014,1,826
+Campbell,Big South,115,2015,1,826
+Campbell,Big South,115,2016,1,826
+Campbell,Big South,115,2017,1,826
+Campbell,Big South,115,2018,1,826
+Campbell,Big South,115,2019,1,826
+Canisius,MAAC,116,2002,1,871
+Canisius,MAAC,116,2003,1,871
+Canisius,MAAC,116,2004,1,871
+Canisius,MAAC,116,2005,1,871
+Canisius,MAAC,116,2006,1,871
+Canisius,MAAC,116,2007,1,871
+Canisius,MAAC,116,2008,1,871
+Canisius,MAAC,116,2009,1,871
+Canisius,MAAC,116,2010,1,871
+Canisius,MAAC,116,2011,1,871
+Canisius,MAAC,116,2012,1,871
+Canisius,MAAC,116,2013,1,871
+Canisius,MAAC,116,2014,1,871
+Canisius,MAAC,116,2015,1,871
+Canisius,MAAC,116,2016,1,871
+Canisius,MAAC,116,2017,1,871
+Canisius,MAAC,116,2018,1,871
+Canisius,MAAC,116,2019,1,871
+Castleton,Independent,123,2002,1,0
+Castleton,Independent,123,2003,1,0
+Cazenovia,Independent,23624,2002,1,0
+Cazenovia,Independent,23624,2003,1,0
+Cazenovia,Independent,23624,2004,1,0
+Centenary (LA),Independent,125,2002,1,0
+Centenary (LA),Independent,125,2003,1,0
+Centenary (LA),Summit League,125,2004,1,819
+Centenary (LA),Summit League,125,2005,1,819
+Centenary (LA),Summit League,125,2006,1,819
+Centenary (LA),Summit League,125,2007,1,819
+Centenary (LA),Summit League,125,2008,1,819
+Centenary (LA),Summit League,125,2009,1,819
+Centenary (LA),Summit League,125,2010,1,819
+Centenary (LA),Summit League,125,2011,1,819
+Centenary (NJ),ECAC,12884,2002,1,847
+Central Ark.,Southland,1004,2007,1,914
+Central Ark.,Southland,1004,2008,1,914
+Central Ark.,Southland,1004,2009,1,914
+Central Ark.,Southland,1004,2010,1,914
+Central Ark.,Southland,1004,2011,1,914
+Central Ark.,Southland,1004,2012,1,914
+Central Ark.,Southland,1004,2013,1,914
+Central Ark.,Southland,1004,2014,1,914
+Central Ark.,Southland,1004,2015,1,914
+Central Ark.,Southland,1004,2016,1,914
+Central Ark.,Southland,1004,2017,1,914
+Central Ark.,Southland,1004,2018,1,914
+Central Ark.,Southland,1004,2019,1,914
+Central Conn. St.,NEC,127,2002,1,846
+Central Conn. St.,NEC,127,2003,1,846
+Central Conn. St.,NEC,127,2004,1,846
+Central Conn. St.,NEC,127,2005,1,846
+Central Conn. St.,NEC,127,2006,1,846
+Central Conn. St.,NEC,127,2007,1,846
+Central Conn. St.,NEC,127,2008,1,846
+Central Conn. St.,NEC,127,2009,1,846
+Central Conn. St.,NEC,127,2010,1,846
+Central Conn. St.,NEC,127,2011,1,846
+Central Conn. St.,NEC,127,2012,1,846
+Central Conn. St.,NEC,127,2013,1,846
+Central Conn. St.,NEC,127,2014,1,846
+Central Conn. St.,NEC,127,2015,1,846
+Central Conn. St.,NEC,127,2016,1,846
+Central Conn. St.,NEC,127,2017,1,846
+Central Conn. St.,NEC,127,2018,1,846
+Central Conn. St.,NEC,127,2019,1,846
+Central Mich.,MAC,129,2002,1,875
+Central Mich.,MAC,129,2003,1,875
+Central Mich.,MAC,129,2004,1,875
+Central Mich.,MAC,129,2005,1,875
+Central Mich.,MAC,129,2006,1,875
+Central Mich.,MAC,129,2007,1,875
+Central Mich.,MAC,129,2008,1,875
+Central Mich.,MAC,129,2009,1,875
+Central Mich.,MAC,129,2010,1,875
+Central Mich.,MAC,129,2011,1,875
+Central Mich.,MAC,129,2012,1,875
+Central Mich.,MAC,129,2013,1,875
+Central Mich.,MAC,129,2014,1,875
+Central Mich.,MAC,129,2015,1,875
+Central Mich.,MAC,129,2016,1,875
+Central Mich.,MAC,129,2017,1,875
+Central Mich.,MAC,129,2018,1,875
+Central Mich.,MAC,129,2019,1,875
+Chapman,Independent,134,2002,1,0
+Chapman,Independent,134,2003,1,0
+Chapman,Independent,134,2004,1,0
+Chapman,Independent,134,2005,1,0
+Chapman,Independent,134,2006,1,0
+Chapman,Independent,134,2007,1,0
+Chapman,Independent,134,2008,1,0
+Chapman,Independent,134,2009,1,0
+Charleston So.,Big South,48,2002,1,826
+Charleston So.,Big South,48,2003,1,826
+Charleston So.,Big South,48,2004,1,826
+Charleston So.,Big South,48,2005,1,826
+Charleston So.,Big South,48,2006,1,826
+Charleston So.,Big South,48,2007,1,826
+Charleston So.,Big South,48,2008,1,826
+Charleston So.,Big South,48,2009,1,826
+Charleston So.,Big South,48,2010,1,826
+Charleston So.,Big South,48,2011,1,826
+Charleston So.,Big South,48,2012,1,826
+Charleston So.,Big South,48,2013,1,826
+Charleston So.,Big South,48,2014,1,826
+Charleston So.,Big South,48,2015,1,826
+Charleston So.,Big South,48,2016,1,826
+Charleston So.,Big South,48,2017,1,826
+Charleston So.,Big South,48,2018,1,826
+Charleston So.,Big South,48,2019,1,826
+Charlotte,C-USA,458,2002,1,24312
+Charlotte,C-USA,458,2003,1,24312
+Charlotte,C-USA,458,2004,1,24312
+Charlotte,C-USA,458,2005,1,24312
+Charlotte,Atlantic 10,458,2006,1,820
+Charlotte,Atlantic 10,458,2007,1,820
+Charlotte,Atlantic 10,458,2008,1,820
+Charlotte,Atlantic 10,458,2009,1,820
+Charlotte,Atlantic 10,458,2010,1,820
+Charlotte,Atlantic 10,458,2011,1,820
+Charlotte,Atlantic 10,458,2012,1,820
+Charlotte,Atlantic 10,458,2013,1,820
+Charlotte,C-USA,458,2014,1,24312
+Charlotte,C-USA,458,2015,1,24312
+Charlotte,C-USA,458,2016,1,24312
+Charlotte,C-USA,458,2017,1,24312
+Charlotte,C-USA,458,2018,1,24312
+Charlotte,C-USA,458,2019,1,24312
+Chicago,Independent,137,2005,1,0
+Chicago,Independent,137,2006,1,0
+Chicago,Independent,137,2007,1,0
+Chicago,Independent,137,2008,1,0
+Chicago St.,Summit League,136,2002,1,819
+Chicago St.,Summit League,136,2003,1,819
+Chicago St.,Summit League,136,2004,1,819
+Chicago St.,Summit League,136,2005,1,819
+Chicago St.,Summit League,136,2006,1,819
+Chicago St.,Independent,136,2007,1,0
+Chicago St.,Independent,136,2008,1,0
+Chicago St.,Independent,136,2009,1,0
+Chicago St.,GWC,136,2010,1,30062
+Chicago St.,GWC,136,2011,1,30062
+Chicago St.,GWC,136,2012,1,30062
+Chicago St.,GWC,136,2013,1,30156
+Chicago St.,WAC,136,2014,1,923
+Chicago St.,WAC,136,2015,1,923
+Chicago St.,WAC,136,2016,1,923
+Chicago St.,WAC,136,2017,1,923
+Chicago St.,WAC,136,2018,1,923
+Chicago St.,WAC,136,2019,1,923
+Chowan,Independent,8875,2005,1,0
+Chowan,Independent,8875,2006,1,0
+Chowan,Independent,8875,2007,1,0
+Chowan,Independent,8875,2008,1,0
+Chowan,Independent,8875,2009,1,0
+Cincinnati,C-USA,140,2002,1,24312
+Cincinnati,C-USA,140,2003,1,24312
+Cincinnati,C-USA,140,2004,1,24312
+Cincinnati,C-USA,140,2005,1,24312
+Cincinnati,AAC,140,2006,1,823
+Cincinnati,AAC,140,2007,1,823
+Cincinnati,AAC,140,2008,1,823
+Cincinnati,AAC,140,2009,1,823
+Cincinnati,AAC,140,2010,1,823
+Cincinnati,AAC,140,2011,1,823
+Cincinnati,AAC,140,2012,1,823
+Cincinnati,AAC,140,2013,1,823
+Cincinnati,AAC,140,2014,1,823
+Cincinnati,AAC,140,2015,1,823
+Cincinnati,AAC,140,2016,1,823
+Cincinnati,AAC,140,2017,1,823
+Cincinnati,AAC,140,2018,1,823
+Cincinnati,AAC,140,2019,1,823
+Clarke,Independent,1020,2007,1,0
+Clarke,Independent,1020,2008,1,0
+Clemson,ACC,147,2002,1,821
+Clemson,ACC,147,2003,1,821
+Clemson,ACC,147,2004,1,821
+Clemson,ACC,147,2005,1,821
+Clemson,ACC,147,2006,1,821
+Clemson,ACC,147,2007,1,821
+Clemson,ACC,147,2008,1,821
+Clemson,ACC,147,2009,1,821
+Clemson,ACC,147,2010,1,821
+Clemson,ACC,147,2011,1,821
+Clemson,ACC,147,2012,1,821
+Clemson,ACC,147,2013,1,821
+Clemson,ACC,147,2014,1,821
+Clemson,ACC,147,2015,1,821
+Clemson,ACC,147,2016,1,821
+Clemson,ACC,147,2017,1,821
+Clemson,ACC,147,2018,1,821
+Clemson,ACC,147,2019,1,821
+Cleveland St.,Horizon,148,2002,1,881
+Cleveland St.,Horizon,148,2003,1,881
+Cleveland St.,Horizon,148,2004,1,881
+Cleveland St.,Horizon,148,2005,1,881
+Cleveland St.,Horizon,148,2006,1,881
+Cleveland St.,Horizon,148,2007,1,881
+Cleveland St.,Horizon,148,2008,1,881
+Cleveland St.,Horizon,148,2009,1,881
+Cleveland St.,Horizon,148,2010,1,881
+Cleveland St.,Horizon,148,2011,1,881
+CMSV,Independent,451,2005,1,0
+Coastal Caro.,Big South,149,2002,1,826
+Coastal Caro.,Big South,149,2003,1,826
+Coastal Caro.,Big South,149,2004,1,826
+Coastal Caro.,Big South,149,2005,1,826
+Coastal Caro.,Big South,149,2006,1,826
+Coastal Caro.,Big South,149,2007,1,826
+Coastal Caro.,Big South,149,2008,1,826
+Coastal Caro.,Big South,149,2009,1,826
+Coastal Caro.,Big South,149,2010,1,826
+Coastal Caro.,Big South,149,2011,1,826
+Coastal Caro.,Big South,149,2012,1,826
+Coastal Caro.,Big South,149,2013,1,826
+Coastal Caro.,Big South,149,2014,1,826
+Coastal Caro.,Big South,149,2015,1,826
+Coastal Caro.,Big South,149,2016,1,826
+Coastal Caro.,Sun Belt,149,2017,1,818
+Coastal Caro.,Sun Belt,149,2018,1,818
+Coastal Caro.,Sun Belt,149,2019,1,818
+Col. of Charleston,SoCon,1014,2002,1,912
+Col. of Charleston,SoCon,1014,2003,1,912
+Col. of Charleston,SoCon,1014,2004,1,912
+Col. of Charleston,SoCon,1014,2005,1,912
+Col. of Charleston,SoCon,1014,2006,1,912
+Col. of Charleston,SoCon,1014,2007,1,912
+Col. of Charleston,SoCon,1014,2008,1,912
+Col. of Charleston,SoCon,1014,2009,1,912
+Col. of Charleston,SoCon,1014,2010,1,912
+Col. of Charleston,SoCon,1014,2011,1,912
+Col. of Charleston,SoCon,1014,2012,1,912
+Col. of Charleston,SoCon,1014,2013,1,912
+Col. of Charleston,CAA,1014,2014,1,837
+Col. of Charleston,CAA,1014,2015,1,837
+Col. of Charleston,CAA,1014,2016,1,837
+Col. of Charleston,CAA,1014,2017,1,837
+Col. of Charleston,CAA,1014,2018,1,837
+Col. of Charleston,CAA,1014,2019,1,837
+Columbia,Ivy League,158,2002,1,865
+Columbia,Ivy League,158,2003,1,865
+Columbia,Ivy League,158,2004,1,865
+Columbia,Ivy League,158,2005,1,865
+Columbia,Ivy League,158,2006,1,865
+Columbia,Ivy League,158,2007,1,865
+Columbia,Ivy League,158,2008,1,865
+Columbia,Ivy League,158,2009,1,865
+Columbia,Ivy League,158,2010,1,865
+Columbia,Ivy League,158,2011,1,865
+Columbia,Ivy League,158,2012,1,865
+Columbia,Ivy League,158,2013,1,865
+Columbia,Ivy League,158,2014,1,865
+Columbia,Ivy League,158,2015,1,865
+Columbia,Ivy League,158,2016,1,865
+Columbia,Ivy League,158,2017,1,865
+Columbia,Ivy League,158,2018,1,865
+Columbia,Ivy League,158,2019,1,865
+Coppin St.,MEAC,165,2002,1,876
+Coppin St.,MEAC,165,2003,1,876
+Coppin St.,MEAC,165,2004,1,876
+Coppin St.,MEAC,165,2005,1,876
+Coppin St.,MEAC,165,2006,1,876
+Coppin St.,MEAC,165,2007,1,876
+Coppin St.,MEAC,165,2008,1,876
+Coppin St.,MEAC,165,2009,1,876
+Coppin St.,MEAC,165,2010,1,876
+Coppin St.,MEAC,165,2011,1,876
+Coppin St.,MEAC,165,2012,1,876
+Coppin St.,MEAC,165,2013,1,876
+Coppin St.,MEAC,165,2014,1,876
+Coppin St.,MEAC,165,2015,1,876
+Coppin St.,MEAC,165,2016,1,876
+Coppin St.,MEAC,165,2017,1,876
+Coppin St.,MEAC,165,2018,1,876
+Coppin St.,MEAC,165,2019,1,876
+Cornell,Ivy League,167,2002,1,865
+Cornell,Ivy League,167,2003,1,865
+Cornell,Ivy League,167,2004,1,865
+Cornell,Ivy League,167,2005,1,865
+Cornell,Ivy League,167,2006,1,865
+Cornell,Ivy League,167,2007,1,865
+Cornell,Ivy League,167,2008,1,865
+Cornell,Ivy League,167,2009,1,865
+Cornell,Ivy League,167,2010,1,865
+Cornell,Ivy League,167,2011,1,865
+Cornell,Ivy League,167,2012,1,865
+Cornell,Ivy League,167,2013,1,865
+Cornell,Ivy League,167,2014,1,865
+Cornell,Ivy League,167,2015,1,865
+Cornell,Ivy League,167,2016,1,865
+Cornell,Ivy League,167,2017,1,865
+Cornell,Ivy League,167,2018,1,865
+Cornell,Ivy League,167,2019,1,865
+Creighton,MVC,169,2002,1,884
+Creighton,MVC,169,2003,1,884
+Creighton,MVC,169,2004,1,884
+Creighton,MVC,169,2005,1,884
+Creighton,MVC,169,2006,1,884
+Creighton,MVC,169,2007,1,884
+Creighton,MVC,169,2008,1,884
+Creighton,MVC,169,2009,1,884
+Creighton,MVC,169,2010,1,884
+Creighton,MVC,169,2011,1,884
+Creighton,MVC,169,2012,1,884
+Creighton,MVC,169,2013,1,884
+Creighton,Big East,169,2014,1,30184
+Creighton,Big East,169,2015,1,30184
+Creighton,Big East,169,2016,1,30184
+Creighton,Big East,169,2017,1,30184
+Creighton,Big East,169,2018,1,30184
+Creighton,Big East,169,2019,1,30184
+Crown (MN),Independent,30035,2008,1,0
+CSU Bakersfield,WAC,94,2013,1,923
+CSU Bakersfield,WAC,94,2014,1,923
+CSU Bakersfield,WAC,94,2015,1,923
+CSU Bakersfield,WAC,94,2016,1,923
+CSU Bakersfield,WAC,94,2017,1,923
+CSU Bakersfield,WAC,94,2018,1,923
+CSU Bakersfield,WAC,94,2019,1,923
+CSUN,Big West,101,2002,1,904
+CSUN,Big West,101,2003,1,904
+CSUN,Big West,101,2004,1,904
+CSUN,Big West,101,2005,1,904
+CSUN,Big West,101,2006,1,904
+CSUN,Big West,101,2007,1,904
+CSUN,Big West,101,2008,1,904
+CSUN,Big West,101,2009,1,904
+CSUN,Big West,101,2010,1,904
+CSUN,Big West,101,2011,1,904
+CSUN,Big West,101,2012,1,904
+CSUN,Big West,101,2013,1,904
+CSUN,Big West,101,2014,1,904
+CSUN,Big West,101,2015,1,904
+CSUN,Big West,101,2016,1,904
+CSUN,Big West,101,2017,1,904
+CSUN,Big West,101,2018,1,904
+CSUN,Big West,101,2019,1,904
+D'Youville,Independent,1059,2004,1,0
+Dallas,Independent,1044,2002,1,0
+Dallas,Independent,1044,2003,1,0
+Dallas,Independent,1044,2004,1,0
+Dallas,Independent,1044,2005,1,0
+Dallas,Independent,1044,2006,1,0
+Dallas,Independent,1044,2007,1,0
+Dallas,Independent,1044,2008,1,0
+Dallas,Independent,1044,2009,1,0
+Dartmouth,Ivy League,172,2002,1,865
+Dartmouth,Ivy League,172,2003,1,865
+Dartmouth,Ivy League,172,2004,1,865
+Dartmouth,Ivy League,172,2005,1,865
+Dartmouth,Ivy League,172,2006,1,865
+Dartmouth,Ivy League,172,2007,1,865
+Dartmouth,Ivy League,172,2008,1,865
+Dartmouth,Ivy League,172,2009,1,865
+Dartmouth,Ivy League,172,2010,1,865
+Dartmouth,Ivy League,172,2011,1,865
+Dartmouth,Ivy League,172,2012,1,865
+Dartmouth,Ivy League,172,2013,1,865
+Dartmouth,Ivy League,172,2014,1,865
+Dartmouth,Ivy League,172,2015,1,865
+Dartmouth,Ivy League,172,2016,1,865
+Dartmouth,Ivy League,172,2017,1,865
+Dartmouth,Ivy League,172,2018,1,865
+Dartmouth,Ivy League,172,2019,1,865
+Davidson,SoCon,173,2002,1,912
+Davidson,SoCon,173,2003,1,912
+Davidson,SoCon,173,2004,1,912
+Davidson,SoCon,173,2005,1,912
+Davidson,SoCon,173,2006,1,912
+Davidson,SoCon,173,2007,1,912
+Davidson,SoCon,173,2008,1,912
+Davidson,SoCon,173,2009,1,912
+Davidson,SoCon,173,2010,1,912
+Davidson,SoCon,173,2011,1,912
+Davidson,SoCon,173,2012,1,912
+Davidson,SoCon,173,2013,1,912
+Davidson,SoCon,173,2014,1,912
+Davidson,Atlantic 10,173,2015,1,820
+Davidson,Atlantic 10,173,2016,1,820
+Davidson,Atlantic 10,173,2017,1,820
+Davidson,Atlantic 10,173,2018,1,820
+Davidson,Atlantic 10,173,2019,1,820
+Dayton,Atlantic 10,175,2002,1,820
+Dayton,Atlantic 10,175,2003,1,820
+Dayton,Atlantic 10,175,2004,1,820
+Dayton,Atlantic 10,175,2005,1,820
+Dayton,Atlantic 10,175,2006,1,820
+Dayton,Atlantic 10,175,2007,1,820
+Dayton,Atlantic 10,175,2008,1,820
+Dayton,Atlantic 10,175,2009,1,820
+Dayton,Atlantic 10,175,2010,1,820
+Dayton,Atlantic 10,175,2011,1,820
+Dayton,Atlantic 10,175,2012,1,820
+Dayton,Atlantic 10,175,2013,1,820
+Dayton,Atlantic 10,175,2014,1,820
+Dayton,Atlantic 10,175,2015,1,820
+Dayton,Atlantic 10,175,2016,1,820
+Dayton,Atlantic 10,175,2017,1,820
+Dayton,Atlantic 10,175,2018,1,820
+Dayton,Atlantic 10,175,2019,1,820
+DBU,Independent,1045,2004,1,0
+DBU,Independent,1045,2005,1,0
+DBU,Independent,1045,2006,1,0
+DBU,Independent,1045,2007,1,0
+DBU,Independent,1045,2008,1,0
+DBU,Independent,1045,2009,1,0
+DBU,WAC,1045,2013,1,923
+DBU,MVC,1045,2014,1,884
+DBU,MVC,1045,2015,1,884
+DBU,MVC,1045,2016,1,884
+DBU,MVC,1045,2017,1,884
+DBU,MVC,1045,2018,1,884
+DBU,MVC,1045,2019,1,884
+Delaware,CAA,180,2002,1,837
+Delaware,CAA,180,2003,1,837
+Delaware,CAA,180,2004,1,837
+Delaware,CAA,180,2005,1,837
+Delaware,CAA,180,2006,1,837
+Delaware,CAA,180,2007,1,837
+Delaware,CAA,180,2008,1,837
+Delaware,CAA,180,2009,1,837
+Delaware,CAA,180,2010,1,837
+Delaware,CAA,180,2011,1,837
+Delaware,CAA,180,2012,1,837
+Delaware,CAA,180,2013,1,837
+Delaware,CAA,180,2014,1,837
+Delaware,CAA,180,2015,1,837
+Delaware,CAA,180,2016,1,837
+Delaware,CAA,180,2017,1,837
+Delaware,CAA,180,2018,1,837
+Delaware,CAA,180,2019,1,837
+Delaware St.,MEAC,178,2002,1,876
+Delaware St.,MEAC,178,2003,1,876
+Delaware St.,MEAC,178,2004,1,876
+Delaware St.,MEAC,178,2005,1,876
+Delaware St.,MEAC,178,2006,1,876
+Delaware St.,MEAC,178,2007,1,876
+Delaware St.,MEAC,178,2008,1,876
+Delaware St.,MEAC,178,2009,1,876
+Delaware St.,MEAC,178,2010,1,876
+Delaware St.,MEAC,178,2011,1,876
+Delaware St.,MEAC,178,2012,1,876
+Delaware St.,MEAC,178,2013,1,876
+Delaware St.,MEAC,178,2014,1,876
+Delaware St.,MEAC,178,2015,1,876
+Delaware St.,MEAC,178,2016,1,876
+Delaware St.,MEAC,178,2017,1,876
+Delaware St.,MEAC,178,2018,1,876
+Delaware St.,MEAC,178,2019,1,876
+Detroit Mercy,Horizon,184,2002,1,881
+Detroit Mercy,Horizon,184,2003,1,881
+Detroit Mercy,Horizon,184,2004,1,881
+Dixie St.,PacWest,30095,2009,1,19591
+Drexel,CAA,191,2002,1,837
+Drexel,CAA,191,2003,1,837
+Duke,ACC,193,2002,1,821
+Duke,ACC,193,2003,1,821
+Duke,ACC,193,2004,1,821
+Duke,ACC,193,2005,1,821
+Duke,ACC,193,2006,1,821
+Duke,ACC,193,2007,1,821
+Duke,ACC,193,2008,1,821
+Duke,ACC,193,2009,1,821
+Duke,ACC,193,2010,1,821
+Duke,ACC,193,2011,1,821
+Duke,ACC,193,2012,1,821
+Duke,ACC,193,2013,1,821
+Duke,ACC,193,2014,1,821
+Duke,ACC,193,2015,1,821
+Duke,ACC,193,2016,1,821
+Duke,ACC,193,2017,1,821
+Duke,ACC,193,2018,1,821
+Duke,ACC,193,2019,1,821
+Duquesne,Atlantic 10,194,2002,1,820
+Duquesne,Atlantic 10,194,2003,1,820
+Duquesne,Atlantic 10,194,2004,1,820
+Duquesne,Atlantic 10,194,2005,1,820
+Duquesne,Atlantic 10,194,2006,1,820
+Duquesne,Atlantic 10,194,2007,1,820
+Duquesne,Atlantic 10,194,2008,1,820
+Duquesne,Atlantic 10,194,2009,1,820
+Duquesne,Atlantic 10,194,2010,1,820
+East Carolina,C-USA,196,2002,1,24312
+East Carolina,C-USA,196,2003,1,24312
+East Carolina,C-USA,196,2004,1,24312
+East Carolina,C-USA,196,2005,1,24312
+East Carolina,C-USA,196,2006,1,24312
+East Carolina,C-USA,196,2007,1,24312
+East Carolina,C-USA,196,2008,1,24312
+East Carolina,C-USA,196,2009,1,24312
+East Carolina,C-USA,196,2010,1,24312
+East Carolina,C-USA,196,2011,1,24312
+East Carolina,C-USA,196,2012,1,24312
+East Carolina,C-USA,196,2013,1,24312
+East Carolina,C-USA,196,2014,1,24312
+East Carolina,AAC,196,2015,1,823
+East Carolina,AAC,196,2016,1,823
+East Carolina,AAC,196,2017,1,823
+East Carolina,AAC,196,2018,1,823
+East Carolina,AAC,196,2019,1,823
+East Stroudsburg,ECAC,197,2002,1,847
+Eastern Ill.,OVC,201,2002,1,902
+Eastern Ill.,OVC,201,2003,1,902
+Eastern Ill.,OVC,201,2004,1,902
+Eastern Ill.,OVC,201,2005,1,902
+Eastern Ill.,OVC,201,2006,1,902
+Eastern Ill.,OVC,201,2007,1,902
+Eastern Ill.,OVC,201,2008,1,902
+Eastern Ill.,OVC,201,2009,1,902
+Eastern Ill.,OVC,201,2010,1,902
+Eastern Ill.,OVC,201,2011,1,902
+Eastern Ill.,OVC,201,2012,1,902
+Eastern Ill.,OVC,201,2013,1,902
+Eastern Ill.,OVC,201,2014,1,902
+Eastern Ill.,OVC,201,2015,1,902
+Eastern Ill.,OVC,201,2016,1,902
+Eastern Ill.,OVC,201,2017,1,902
+Eastern Ill.,OVC,201,2018,1,902
+Eastern Ill.,OVC,201,2019,1,902
+Eastern Ky.,OVC,202,2002,1,902
+Eastern Ky.,OVC,202,2003,1,902
+Eastern Ky.,OVC,202,2004,1,902
+Eastern Ky.,OVC,202,2005,1,902
+Eastern Ky.,OVC,202,2006,1,902
+Eastern Ky.,OVC,202,2007,1,902
+Eastern Ky.,OVC,202,2008,1,902
+Eastern Ky.,OVC,202,2009,1,902
+Eastern Ky.,OVC,202,2010,1,902
+Eastern Ky.,OVC,202,2011,1,902
+Eastern Ky.,OVC,202,2012,1,902
+Eastern Ky.,OVC,202,2013,1,902
+Eastern Ky.,OVC,202,2014,1,902
+Eastern Ky.,OVC,202,2015,1,902
+Eastern Ky.,OVC,202,2016,1,902
+Eastern Ky.,OVC,202,2017,1,902
+Eastern Ky.,OVC,202,2018,1,902
+Eastern Ky.,OVC,202,2019,1,902
+Eastern Mich.,MAC,204,2002,1,875
+Eastern Mich.,MAC,204,2003,1,875
+Eastern Mich.,MAC,204,2004,1,875
+Eastern Mich.,MAC,204,2005,1,875
+Eastern Mich.,MAC,204,2006,1,875
+Eastern Mich.,MAC,204,2007,1,875
+Eastern Mich.,MAC,204,2008,1,875
+Eastern Mich.,MAC,204,2009,1,875
+Eastern Mich.,MAC,204,2010,1,875
+Eastern Mich.,MAC,204,2011,1,875
+Eastern Mich.,MAC,204,2012,1,875
+Eastern Mich.,MAC,204,2013,1,875
+Eastern Mich.,MAC,204,2014,1,875
+Eastern Mich.,MAC,204,2015,1,875
+Eastern Mich.,MAC,204,2016,1,875
+Eastern Mich.,MAC,204,2017,1,875
+Eastern Mich.,MAC,204,2018,1,875
+Eastern Mich.,MAC,204,2019,1,875
+Elon,Big South,1068,2002,1,826
+Elon,Big South,1068,2003,1,826
+Elon,SoCon,1068,2004,1,912
+Elon,SoCon,1068,2005,1,912
+Elon,SoCon,1068,2006,1,912
+Elon,SoCon,1068,2007,1,912
+Elon,SoCon,1068,2008,1,912
+Elon,SoCon,1068,2009,1,912
+Elon,SoCon,1068,2010,1,912
+Elon,SoCon,1068,2011,1,912
+Elon,SoCon,1068,2012,1,912
+Elon,SoCon,1068,2013,1,912
+Elon,SoCon,1068,2014,1,912
+Elon,CAA,1068,2015,1,837
+Elon,CAA,1068,2016,1,837
+Elon,CAA,1068,2017,1,837
+Elon,CAA,1068,2018,1,837
+Elon,CAA,1068,2019,1,837
+ETSU,SoCon,198,2002,1,912
+ETSU,SoCon,198,2003,1,912
+ETSU,SoCon,198,2004,1,912
+ETSU,SoCon,198,2005,1,912
+ETSU,ASUN,198,2006,1,920
+ETSU,ASUN,198,2007,1,920
+ETSU,ASUN,198,2008,1,920
+ETSU,ASUN,198,2009,1,920
+ETSU,ASUN,198,2010,1,920
+ETSU,ASUN,198,2011,1,920
+ETSU,ASUN,198,2012,1,920
+ETSU,ASUN,198,2013,1,920
+ETSU,ASUN,198,2014,1,920
+ETSU,SoCon,198,2015,1,912
+ETSU,SoCon,198,2016,1,912
+ETSU,SoCon,198,2017,1,912
+ETSU,SoCon,198,2018,1,912
+ETSU,SoCon,198,2019,1,912
+Evansville,MVC,219,2002,1,884
+Evansville,MVC,219,2003,1,884
+Evansville,MVC,219,2004,1,884
+Evansville,MVC,219,2005,1,884
+Evansville,MVC,219,2006,1,884
+Evansville,MVC,219,2007,1,884
+Evansville,MVC,219,2008,1,884
+Evansville,MVC,219,2009,1,884
+Evansville,MVC,219,2010,1,884
+Evansville,MVC,219,2011,1,884
+Evansville,MVC,219,2012,1,884
+Evansville,MVC,219,2013,1,884
+Evansville,MVC,219,2014,1,884
+Evansville,MVC,219,2015,1,884
+Evansville,MVC,219,2016,1,884
+Evansville,MVC,219,2017,1,884
+Evansville,MVC,219,2018,1,884
+Evansville,MVC,219,2019,1,884
+Fairfield,MAAC,220,2002,1,871
+Fairfield,MAAC,220,2003,1,871
+Fairfield,MAAC,220,2004,1,871
+Fairfield,MAAC,220,2005,1,871
+Fairfield,MAAC,220,2006,1,871
+Fairfield,MAAC,220,2007,1,871
+Fairfield,MAAC,220,2008,1,871
+Fairfield,MAAC,220,2009,1,871
+Fairfield,MAAC,220,2010,1,871
+Fairfield,MAAC,220,2011,1,871
+Fairfield,MAAC,220,2012,1,871
+Fairfield,MAAC,220,2013,1,871
+Fairfield,MAAC,220,2014,1,871
+Fairfield,MAAC,220,2015,1,871
+Fairfield,MAAC,220,2016,1,871
+Fairfield,MAAC,220,2017,1,871
+Fairfield,MAAC,220,2018,1,871
+Fairfield,MAAC,220,2019,1,871
+Fairleigh Dickinson,NEC,222,2002,1,846
+Fairleigh Dickinson,NEC,222,2003,1,846
+Fairleigh Dickinson,NEC,222,2004,1,846
+Fairleigh Dickinson,NEC,222,2005,1,846
+Fairleigh Dickinson,NEC,222,2006,1,846
+Fairleigh Dickinson,NEC,222,2007,1,846
+Fairleigh Dickinson,NEC,222,2008,1,846
+Fairleigh Dickinson,NEC,222,2009,1,846
+Fairleigh Dickinson,NEC,222,2010,1,846
+Fairleigh Dickinson,NEC,222,2011,1,846
+Fairleigh Dickinson,NEC,222,2012,1,846
+Fairleigh Dickinson,NEC,222,2013,1,846
+Fairleigh Dickinson,NEC,222,2014,1,846
+Fairleigh Dickinson,NEC,222,2015,1,846
+Fairleigh Dickinson,NEC,222,2016,1,846
+Fairleigh Dickinson,NEC,222,2017,1,846
+Fairleigh Dickinson,NEC,222,2018,1,846
+Fairleigh Dickinson,NEC,222,2019,1,846
+FGCU,Independent,28755,2005,1,0
+FGCU,Independent,28755,2006,1,0
+FGCU,Independent,28755,2007,1,0
+FGCU,ASUN,28755,2008,1,920
+FGCU,ASUN,28755,2009,1,920
+FGCU,ASUN,28755,2010,1,920
+FGCU,ASUN,28755,2011,1,920
+FGCU,ASUN,28755,2012,1,920
+FGCU,ASUN,28755,2013,1,920
+FGCU,ASUN,28755,2014,1,920
+FGCU,ASUN,28755,2015,1,920
+FGCU,ASUN,28755,2016,1,920
+FGCU,ASUN,28755,2017,1,920
+FGCU,ASUN,28755,2018,1,920
+FGCU,ASUN,28755,2019,1,920
+Finlandia,Independent,30032,2007,1,0
+Finlandia,Independent,30032,2008,1,0
+Finlandia,Independent,30032,2009,1,0
+Fisk,Independent,226,2007,1,0
+Fisk,Independent,226,2008,1,0
+FIU,Sun Belt,231,2002,1,818
+FIU,Sun Belt,231,2003,1,818
+FIU,Sun Belt,231,2004,1,818
+FIU,Sun Belt,231,2005,1,818
+FIU,Sun Belt,231,2006,1,818
+FIU,Sun Belt,231,2007,1,818
+FIU,Sun Belt,231,2008,1,818
+FIU,Sun Belt,231,2009,1,818
+FIU,Sun Belt,231,2010,1,818
+FIU,Sun Belt,231,2011,1,818
+FIU,Sun Belt,231,2012,1,818
+FIU,Sun Belt,231,2013,1,818
+FIU,C-USA,231,2014,1,24312
+FIU,C-USA,231,2015,1,24312
+FIU,C-USA,231,2016,1,24312
+FIU,C-USA,231,2017,1,24312
+FIU,C-USA,231,2018,1,24312
+FIU,C-USA,231,2019,1,24312
+Fla. Atlantic,ASUN,229,2002,1,920
+Fla. Atlantic,ASUN,229,2003,1,920
+Fla. Atlantic,ASUN,229,2004,1,920
+Fla. Atlantic,ASUN,229,2005,1,920
+Fla. Atlantic,ASUN,229,2006,1,920
+Fla. Atlantic,Sun Belt,229,2007,1,818
+Fla. Atlantic,Sun Belt,229,2008,1,818
+Fla. Atlantic,Sun Belt,229,2009,1,818
+Fla. Atlantic,Sun Belt,229,2010,1,818
+Fla. Atlantic,Sun Belt,229,2011,1,818
+Fla. Atlantic,Sun Belt,229,2012,1,818
+Fla. Atlantic,Sun Belt,229,2013,1,818
+Fla. Atlantic,C-USA,229,2014,1,24312
+Fla. Atlantic,C-USA,229,2015,1,24312
+Fla. Atlantic,C-USA,229,2016,1,24312
+Fla. Atlantic,C-USA,229,2017,1,24312
+Fla. Atlantic,C-USA,229,2018,1,24312
+Fla. Atlantic,C-USA,229,2019,1,24312
+Flagler,Independent,30092,2009,1,0
+Florida,SEC,235,2002,1,911
+Florida,SEC,235,2003,1,911
+Florida,SEC,235,2004,1,911
+Florida,SEC,235,2005,1,911
+Florida,SEC,235,2006,1,911
+Florida,SEC,235,2007,1,911
+Florida,SEC,235,2008,1,911
+Florida,SEC,235,2009,1,911
+Florida,SEC,235,2010,1,911
+Florida,SEC,235,2011,1,911
+Florida,SEC,235,2012,1,911
+Florida,SEC,235,2013,1,911
+Florida,SEC,235,2014,1,911
+Florida,SEC,235,2015,1,911
+Florida,SEC,235,2016,1,911
+Florida,SEC,235,2017,1,911
+Florida,SEC,235,2018,1,911
+Florida,SEC,235,2019,1,911
+Florida A&M,MEAC,228,2002,1,876
+Florida A&M,MEAC,228,2003,1,876
+Florida A&M,MEAC,228,2004,1,876
+Florida A&M,MEAC,228,2005,1,876
+Florida A&M,MEAC,228,2006,1,876
+Florida A&M,MEAC,228,2007,1,876
+Florida A&M,MEAC,228,2008,1,876
+Florida A&M,MEAC,228,2009,1,876
+Florida A&M,MEAC,228,2010,1,876
+Florida A&M,MEAC,228,2011,1,876
+Florida A&M,MEAC,228,2012,1,876
+Florida A&M,MEAC,228,2013,1,876
+Florida A&M,MEAC,228,2014,1,876
+Florida A&M,MEAC,228,2015,1,876
+Florida A&M,MEAC,228,2016,1,876
+Florida A&M,MEAC,228,2017,1,876
+Florida A&M,MEAC,228,2018,1,876
+Florida A&M,MEAC,228,2019,1,876
+Florida St.,ACC,234,2002,1,821
+Florida St.,ACC,234,2003,1,821
+Florida St.,ACC,234,2004,1,821
+Florida St.,ACC,234,2005,1,821
+Florida St.,ACC,234,2006,1,821
+Florida St.,ACC,234,2007,1,821
+Florida St.,ACC,234,2008,1,821
+Florida St.,ACC,234,2009,1,821
+Florida St.,ACC,234,2010,1,821
+Florida St.,ACC,234,2011,1,821
+Florida St.,ACC,234,2012,1,821
+Florida St.,ACC,234,2013,1,821
+Florida St.,ACC,234,2014,1,821
+Florida St.,ACC,234,2015,1,821
+Florida St.,ACC,234,2016,1,821
+Florida St.,ACC,234,2017,1,821
+Florida St.,ACC,234,2018,1,821
+Florida St.,ACC,234,2019,1,821
+Fordham,Atlantic 10,236,2002,1,820
+Fordham,Atlantic 10,236,2003,1,820
+Fordham,Atlantic 10,236,2004,1,820
+Fordham,Atlantic 10,236,2005,1,820
+Fordham,Atlantic 10,236,2006,1,820
+Fordham,Atlantic 10,236,2007,1,820
+Fordham,Atlantic 10,236,2008,1,820
+Fordham,Atlantic 10,236,2009,1,820
+Fordham,Atlantic 10,236,2010,1,820
+Fordham,Atlantic 10,236,2011,1,820
+Fordham,Atlantic 10,236,2012,1,820
+Fordham,Atlantic 10,236,2013,1,820
+Fordham,Atlantic 10,236,2014,1,820
+Fordham,Atlantic 10,236,2015,1,820
+Fordham,Atlantic 10,236,2016,1,820
+Fordham,Atlantic 10,236,2017,1,820
+Fordham,Atlantic 10,236,2018,1,820
+Fordham,Atlantic 10,236,2019,1,820
+Fresno St.,WAC,96,2002,1,923
+Fresno St.,WAC,96,2003,1,923
+Fresno St.,WAC,96,2004,1,923
+Fresno St.,WAC,96,2005,1,923
+Fresno St.,WAC,96,2006,1,923
+Fresno St.,WAC,96,2007,1,923
+Fresno St.,WAC,96,2008,1,923
+Fresno St.,WAC,96,2009,1,923
+Fresno St.,WAC,96,2010,1,923
+Fresno St.,WAC,96,2011,1,923
+Fresno St.,WAC,96,2012,1,923
+Fresno St.,MWC,96,2013,1,5486
+Fresno St.,MWC,96,2014,1,5486
+Fresno St.,MWC,96,2015,1,5486
+Fresno St.,MWC,96,2016,1,5486
+Fresno St.,MWC,96,2017,1,5486
+Fresno St.,MWC,96,2018,1,5486
+Fresno St.,MWC,96,2019,1,5486
+Frostburg St.,Independent,243,2002,1,0
+Furman,SoCon,244,2002,1,912
+Furman,SoCon,244,2003,1,912
+Furman,SoCon,244,2004,1,912
+Furman,SoCon,244,2005,1,912
+Furman,SoCon,244,2006,1,912
+Furman,SoCon,244,2007,1,912
+Furman,SoCon,244,2008,1,912
+Furman,SoCon,244,2009,1,912
+Furman,SoCon,244,2010,1,912
+Furman,SoCon,244,2011,1,912
+Furman,SoCon,244,2012,1,912
+Furman,SoCon,244,2013,1,912
+Furman,SoCon,244,2014,1,912
+Furman,SoCon,244,2015,1,912
+Furman,SoCon,244,2016,1,912
+Furman,SoCon,244,2017,1,912
+Furman,SoCon,244,2018,1,912
+Furman,SoCon,244,2019,1,912
+Ga. Southern,SoCon,253,2002,1,912
+Ga. Southern,SoCon,253,2003,1,912
+Ga. Southern,SoCon,253,2004,1,912
+Ga. Southern,SoCon,253,2005,1,912
+Ga. Southern,SoCon,253,2006,1,912
+Ga. Southern,SoCon,253,2007,1,912
+Ga. Southern,SoCon,253,2008,1,912
+Ga. Southern,SoCon,253,2009,1,912
+Ga. Southern,SoCon,253,2010,1,912
+Ga. Southern,SoCon,253,2011,1,912
+Ga. Southern,SoCon,253,2012,1,912
+Ga. Southern,SoCon,253,2013,1,912
+Ga. Southern,SoCon,253,2014,1,912
+Ga. Southern,Sun Belt,253,2015,1,818
+Ga. Southern,Sun Belt,253,2016,1,818
+Ga. Southern,Sun Belt,253,2017,1,818
+Ga. Southern,Sun Belt,253,2018,1,818
+Ga. Southern,Sun Belt,253,2019,1,818
+Gardner-Webb,ASUN,1092,2003,1,920
+Gardner-Webb,ASUN,1092,2004,1,920
+Gardner-Webb,ASUN,1092,2005,1,920
+Gardner-Webb,ASUN,1092,2006,1,920
+Gardner-Webb,ASUN,1092,2007,1,920
+Gardner-Webb,ASUN,1092,2008,1,920
+Gardner-Webb,Big South,1092,2009,1,826
+Gardner-Webb,Big South,1092,2010,1,826
+Gardner-Webb,Big South,1092,2011,1,826
+Gardner-Webb,Big South,1092,2012,1,826
+Gardner-Webb,Big South,1092,2013,1,826
+Gardner-Webb,Big South,1092,2014,1,826
+Gardner-Webb,Big South,1092,2015,1,826
+Gardner-Webb,Big South,1092,2016,1,826
+Gardner-Webb,Big South,1092,2017,1,826
+Gardner-Webb,Big South,1092,2018,1,826
+Gardner-Webb,Big South,1092,2019,1,826
+George Mason,CAA,248,2002,1,837
+George Mason,CAA,248,2003,1,837
+George Mason,CAA,248,2004,1,837
+George Mason,CAA,248,2005,1,837
+George Mason,CAA,248,2006,1,837
+George Mason,CAA,248,2007,1,837
+George Mason,CAA,248,2008,1,837
+George Mason,CAA,248,2009,1,837
+George Mason,CAA,248,2010,1,837
+George Mason,CAA,248,2011,1,837
+George Mason,CAA,248,2012,1,837
+George Mason,CAA,248,2013,1,837
+George Mason,Atlantic 10,248,2014,1,820
+George Mason,Atlantic 10,248,2015,1,820
+George Mason,Atlantic 10,248,2016,1,820
+George Mason,Atlantic 10,248,2017,1,820
+George Mason,Atlantic 10,248,2018,1,820
+George Mason,Atlantic 10,248,2019,1,820
+George Washington,Atlantic 10,249,2002,1,820
+George Washington,Atlantic 10,249,2003,1,820
+George Washington,Atlantic 10,249,2004,1,820
+George Washington,Atlantic 10,249,2005,1,820
+George Washington,Atlantic 10,249,2006,1,820
+George Washington,Atlantic 10,249,2007,1,820
+George Washington,Atlantic 10,249,2008,1,820
+George Washington,Atlantic 10,249,2009,1,820
+George Washington,Atlantic 10,249,2010,1,820
+George Washington,Atlantic 10,249,2011,1,820
+George Washington,Atlantic 10,249,2012,1,820
+George Washington,Atlantic 10,249,2013,1,820
+George Washington,Atlantic 10,249,2014,1,820
+George Washington,Atlantic 10,249,2015,1,820
+George Washington,Atlantic 10,249,2016,1,820
+George Washington,Atlantic 10,249,2017,1,820
+George Washington,Atlantic 10,249,2018,1,820
+George Washington,Atlantic 10,249,2019,1,820
+Georgetown,AAC,251,2002,1,823
+Georgetown,AAC,251,2003,1,823
+Georgetown,AAC,251,2004,1,823
+Georgetown,AAC,251,2005,1,823
+Georgetown,AAC,251,2006,1,823
+Georgetown,AAC,251,2007,1,823
+Georgetown,AAC,251,2008,1,823
+Georgetown,AAC,251,2009,1,823
+Georgetown,AAC,251,2010,1,823
+Georgetown,AAC,251,2011,1,823
+Georgetown,AAC,251,2012,1,823
+Georgetown,AAC,251,2013,1,823
+Georgetown,Big East,251,2014,1,30184
+Georgetown,Big East,251,2015,1,30184
+Georgetown,Big East,251,2016,1,30184
+Georgetown,Big East,251,2017,1,30184
+Georgetown,Big East,251,2018,1,30184
+Georgetown,Big East,251,2019,1,30184
+Georgia,SEC,257,2002,1,911
+Georgia,SEC,257,2003,1,911
+Georgia,SEC,257,2004,1,911
+Georgia,SEC,257,2005,1,911
+Georgia,SEC,257,2006,1,911
+Georgia,SEC,257,2007,1,911
+Georgia,SEC,257,2008,1,911
+Georgia,SEC,257,2009,1,911
+Georgia,SEC,257,2010,1,911
+Georgia,SEC,257,2011,1,911
+Georgia,SEC,257,2012,1,911
+Georgia,SEC,257,2013,1,911
+Georgia,SEC,257,2014,1,911
+Georgia,SEC,257,2015,1,911
+Georgia,SEC,257,2016,1,911
+Georgia,SEC,257,2017,1,911
+Georgia,SEC,257,2018,1,911
+Georgia,SEC,257,2019,1,911
+Georgia St.,ASUN,254,2002,1,920
+Georgia St.,ASUN,254,2003,1,920
+Georgia St.,ASUN,254,2004,1,920
+Georgia St.,ASUN,254,2005,1,920
+Georgia St.,CAA,254,2006,1,837
+Georgia St.,CAA,254,2007,1,837
+Georgia St.,CAA,254,2008,1,837
+Georgia St.,CAA,254,2009,1,837
+Georgia St.,CAA,254,2010,1,837
+Georgia St.,CAA,254,2011,1,837
+Georgia St.,CAA,254,2012,1,837
+Georgia St.,CAA,254,2013,1,837
+Georgia St.,Sun Belt,254,2014,1,818
+Georgia St.,Sun Belt,254,2015,1,818
+Georgia St.,Sun Belt,254,2016,1,818
+Georgia St.,Sun Belt,254,2017,1,818
+Georgia St.,Sun Belt,254,2018,1,818
+Georgia St.,Sun Belt,254,2019,1,818
+Georgia Tech,ACC,255,2002,1,821
+Georgia Tech,ACC,255,2003,1,821
+Georgia Tech,ACC,255,2004,1,821
+Georgia Tech,ACC,255,2005,1,821
+Georgia Tech,ACC,255,2006,1,821
+Georgia Tech,ACC,255,2007,1,821
+Georgia Tech,ACC,255,2008,1,821
+Georgia Tech,ACC,255,2009,1,821
+Georgia Tech,ACC,255,2010,1,821
+Georgia Tech,ACC,255,2011,1,821
+Georgia Tech,ACC,255,2012,1,821
+Georgia Tech,ACC,255,2013,1,821
+Georgia Tech,ACC,255,2014,1,821
+Georgia Tech,ACC,255,2015,1,821
+Georgia Tech,ACC,255,2016,1,821
+Georgia Tech,ACC,255,2017,1,821
+Georgia Tech,ACC,255,2018,1,821
+Georgia Tech,ACC,255,2019,1,821
+Gonzaga,WCC,260,2002,1,922
+Gonzaga,WCC,260,2003,1,922
+Gonzaga,WCC,260,2004,1,922
+Gonzaga,WCC,260,2005,1,922
+Gonzaga,WCC,260,2006,1,922
+Gonzaga,WCC,260,2007,1,922
+Gonzaga,WCC,260,2008,1,922
+Gonzaga,WCC,260,2009,1,922
+Gonzaga,WCC,260,2010,1,922
+Gonzaga,WCC,260,2011,1,922
+Gonzaga,WCC,260,2012,1,922
+Gonzaga,WCC,260,2013,1,922
+Gonzaga,WCC,260,2014,1,922
+Gonzaga,WCC,260,2015,1,922
+Gonzaga,WCC,260,2016,1,922
+Gonzaga,WCC,260,2017,1,922
+Gonzaga,WCC,260,2018,1,922
+Gonzaga,WCC,260,2019,1,922
+Grambling,SWAC,261,2002,1,916
+Grambling,SWAC,261,2003,1,916
+Grambling,SWAC,261,2004,1,916
+Grambling,SWAC,261,2005,1,916
+Grambling,SWAC,261,2006,1,916
+Grambling,SWAC,261,2007,1,916
+Grambling,SWAC,261,2008,1,916
+Grambling,SWAC,261,2009,1,916
+Grambling,SWAC,261,2010,1,916
+Grambling,SWAC,261,2011,1,916
+Grambling,SWAC,261,2012,1,916
+Grambling,SWAC,261,2013,1,916
+Grambling,SWAC,261,2014,1,916
+Grambling,SWAC,261,2015,1,916
+Grambling,SWAC,261,2016,1,916
+Grambling,SWAC,261,2017,1,916
+Grambling,SWAC,261,2018,1,916
+Grambling,SWAC,261,2019,1,916
+Grand Canyon,Independent,1104,2005,1,0
+Grand Canyon,Independent,1104,2006,1,0
+Grand Canyon,PacWest,1104,2009,1,19591
+Grand Canyon,WAC,1104,2014,1,923
+Grand Canyon,WAC,1104,2015,1,923
+Grand Canyon,WAC,1104,2016,1,923
+Grand Canyon,WAC,1104,2017,1,923
+Grand Canyon,WAC,1104,2018,1,923
+Grand Canyon,WAC,1104,2019,1,923
+Hartford,America East,272,2002,1,845
+Hartford,America East,272,2003,1,845
+Hartford,America East,272,2004,1,845
+Hartford,America East,272,2005,1,845
+Hartford,America East,272,2006,1,845
+Hartford,America East,272,2007,1,845
+Hartford,America East,272,2008,1,845
+Hartford,America East,272,2009,1,845
+Hartford,America East,272,2010,1,845
+Hartford,America East,272,2011,1,845
+Hartford,America East,272,2012,1,845
+Hartford,America East,272,2013,1,845
+Hartford,America East,272,2014,1,845
+Hartford,America East,272,2015,1,845
+Hartford,America East,272,2016,1,845
+Hartford,America East,272,2017,1,845
+Hartford,America East,272,2018,1,845
+Hartford,America East,272,2019,1,845
+Harvard,Ivy League,275,2002,1,865
+Harvard,Ivy League,275,2003,1,865
+Harvard,Ivy League,275,2004,1,865
+Harvard,Ivy League,275,2005,1,865
+Harvard,Ivy League,275,2006,1,865
+Harvard,Ivy League,275,2007,1,865
+Harvard,Ivy League,275,2008,1,865
+Harvard,Ivy League,275,2009,1,865
+Harvard,Ivy League,275,2010,1,865
+Harvard,Ivy League,275,2011,1,865
+Harvard,Ivy League,275,2012,1,865
+Harvard,Ivy League,275,2013,1,865
+Harvard,Ivy League,275,2014,1,865
+Harvard,Ivy League,275,2015,1,865
+Harvard,Ivy League,275,2016,1,865
+Harvard,Ivy League,275,2017,1,865
+Harvard,Ivy League,275,2018,1,865
+Harvard,Ivy League,275,2019,1,865
+Hawaii,WAC,277,2002,1,923
+Hawaii,WAC,277,2003,1,923
+Hawaii,WAC,277,2004,1,923
+Hawaii,WAC,277,2005,1,923
+Hawaii,WAC,277,2006,1,923
+Hawaii,WAC,277,2007,1,923
+Hawaii,WAC,277,2008,1,923
+Hawaii,WAC,277,2009,1,923
+Hawaii,WAC,277,2010,1,923
+Hawaii,WAC,277,2011,1,923
+Hawaii,WAC,277,2012,1,923
+Hawaii,Big West,277,2013,1,904
+Hawaii,Big West,277,2014,1,904
+Hawaii,Big West,277,2015,1,904
+Hawaii,Big West,277,2016,1,904
+Hawaii,Big West,277,2017,1,904
+Hawaii,Big West,277,2018,1,904
+Hawaii,Big West,277,2019,1,904
+Hawaii Hilo,Independent,2697,2002,1,0
+Hawaii Hilo,Independent,2697,2003,1,0
+Hawaii Hilo,Independent,2697,2004,1,0
+Hawaii Hilo,Independent,2697,2005,1,0
+Hawaii Hilo,Independent,2697,2006,1,0
+Hawaii Hilo,Independent,2697,2007,1,0
+Hawaii Hilo,Independent,2697,2008,1,0
+Hawaii Hilo,PacWest,2697,2009,1,19591
+Hawaii Pacific,Independent,2696,2003,1,0
+Hawaii Pacific,Independent,2696,2004,1,0
+Hawaii Pacific,Independent,2696,2005,1,0
+Hawaii Pacific,Independent,2696,2006,1,0
+Hawaii Pacific,Independent,2696,2007,1,0
+Hawaii Pacific,Independent,2696,2008,1,0
+Hawaii Pacific,PacWest,2696,2009,1,19591
+High Point,Big South,19651,2002,1,826
+High Point,Big South,19651,2003,1,826
+High Point,Big South,19651,2004,1,826
+High Point,Big South,19651,2005,1,826
+High Point,Big South,19651,2006,1,826
+High Point,Big South,19651,2007,1,826
+High Point,Big South,19651,2008,1,826
+High Point,Big South,19651,2009,1,826
+High Point,Big South,19651,2010,1,826
+High Point,Big South,19651,2011,1,826
+High Point,Big South,19651,2012,1,826
+High Point,Big South,19651,2013,1,826
+High Point,Big South,19651,2014,1,826
+High Point,Big South,19651,2015,1,826
+High Point,Big South,19651,2016,1,826
+High Point,Big South,19651,2017,1,826
+High Point,Big South,19651,2018,1,826
+High Point,Big South,19651,2019,1,826
+Hilbert,ECAC,8398,2002,1,847
+Hilbert,Independent,8398,2003,1,0
+Hofstra,CAA,283,2002,1,837
+Hofstra,CAA,283,2003,1,837
+Hofstra,CAA,283,2004,1,837
+Hofstra,CAA,283,2005,1,837
+Hofstra,CAA,283,2006,1,837
+Hofstra,CAA,283,2007,1,837
+Hofstra,CAA,283,2008,1,837
+Hofstra,CAA,283,2009,1,837
+Hofstra,CAA,283,2010,1,837
+Hofstra,CAA,283,2011,1,837
+Hofstra,CAA,283,2012,1,837
+Hofstra,CAA,283,2013,1,837
+Hofstra,CAA,283,2014,1,837
+Hofstra,CAA,283,2015,1,837
+Hofstra,CAA,283,2016,1,837
+Hofstra,CAA,283,2017,1,837
+Hofstra,CAA,283,2018,1,837
+Hofstra,CAA,283,2019,1,837
+Holy Cross,Patriot,285,2002,1,838
+Holy Cross,Patriot,285,2003,1,838
+Holy Cross,Patriot,285,2004,1,838
+Holy Cross,Patriot,285,2005,1,838
+Holy Cross,Patriot,285,2006,1,838
+Holy Cross,Patriot,285,2007,1,838
+Holy Cross,Patriot,285,2008,1,838
+Holy Cross,Patriot,285,2009,1,838
+Holy Cross,Patriot,285,2010,1,838
+Holy Cross,Patriot,285,2011,1,838
+Holy Cross,Patriot,285,2012,1,838
+Holy Cross,Patriot,285,2013,1,838
+Holy Cross,Patriot,285,2014,1,838
+Holy Cross,Patriot,285,2015,1,838
+Holy Cross,Patriot,285,2016,1,838
+Holy Cross,Patriot,285,2017,1,838
+Holy Cross,Patriot,285,2018,1,838
+Holy Cross,Patriot,285,2019,1,838
+Houston,C-USA,288,2002,1,24312
+Houston,C-USA,288,2003,1,24312
+Houston,C-USA,288,2004,1,24312
+Houston,C-USA,288,2005,1,24312
+Houston,C-USA,288,2006,1,24312
+Houston,C-USA,288,2007,1,24312
+Houston,C-USA,288,2008,1,24312
+Houston,C-USA,288,2009,1,24312
+Houston,C-USA,288,2010,1,24312
+Houston,C-USA,288,2011,1,24312
+Houston,C-USA,288,2012,1,24312
+Houston,C-USA,288,2013,1,24312
+Houston,AAC,288,2014,1,823
+Houston,AAC,288,2015,1,823
+Houston,AAC,288,2016,1,823
+Houston,AAC,288,2017,1,823
+Houston,AAC,288,2018,1,823
+Houston,AAC,288,2019,1,823
+Houston Baptist,GWC,287,2011,1,30062
+Houston Baptist,GWC,287,2012,1,30062
+Houston Baptist,GWC,287,2013,1,30156
+Houston Baptist,Southland,287,2014,1,914
+Houston Baptist,Southland,287,2015,1,914
+Houston Baptist,Southland,287,2016,1,914
+Houston Baptist,Southland,287,2017,1,914
+Houston Baptist,Southland,287,2018,1,914
+Houston Baptist,Southland,287,2019,1,914
+Howard,MEAC,290,2002,1,876
+Illinois,Big Ten,301,2002,1,827
+Illinois,Big Ten,301,2003,1,827
+Illinois,Big Ten,301,2004,1,827
+Illinois,Big Ten,301,2005,1,827
+Illinois,Big Ten,301,2006,1,827
+Illinois,Big Ten,301,2007,1,827
+Illinois,Big Ten,301,2008,1,827
+Illinois,Big Ten,301,2009,1,827
+Illinois,Big Ten,301,2010,1,827
+Illinois,Big Ten,301,2011,1,827
+Illinois,Big Ten,301,2012,1,827
+Illinois,Big Ten,301,2013,1,827
+Illinois,Big Ten,301,2014,1,827
+Illinois,Big Ten,301,2015,1,827
+Illinois,Big Ten,301,2016,1,827
+Illinois,Big Ten,301,2017,1,827
+Illinois,Big Ten,301,2018,1,827
+Illinois,Big Ten,301,2019,1,827
+Illinois St.,MVC,299,2002,1,884
+Illinois St.,MVC,299,2003,1,884
+Illinois St.,MVC,299,2004,1,884
+Illinois St.,MVC,299,2005,1,884
+Illinois St.,MVC,299,2006,1,884
+Illinois St.,MVC,299,2007,1,884
+Illinois St.,MVC,299,2008,1,884
+Illinois St.,MVC,299,2009,1,884
+Illinois St.,MVC,299,2010,1,884
+Illinois St.,MVC,299,2011,1,884
+Illinois St.,MVC,299,2012,1,884
+Illinois St.,MVC,299,2013,1,884
+Illinois St.,MVC,299,2014,1,884
+Illinois St.,MVC,299,2015,1,884
+Illinois St.,MVC,299,2016,1,884
+Illinois St.,MVC,299,2017,1,884
+Illinois St.,MVC,299,2018,1,884
+Illinois St.,MVC,299,2019,1,884
+Incarnate Word,Southland,2743,2014,1,914
+Incarnate Word,Southland,2743,2015,1,914
+Incarnate Word,Southland,2743,2016,1,914
+Incarnate Word,Southland,2743,2017,1,914
+Incarnate Word,Southland,2743,2018,1,914
+Incarnate Word,Southland,2743,2019,1,914
+Indiana,Big Ten,306,2002,1,827
+Indiana,Big Ten,306,2003,1,827
+Indiana,Big Ten,306,2004,1,827
+Indiana,Big Ten,306,2005,1,827
+Indiana,Big Ten,306,2006,1,827
+Indiana,Big Ten,306,2007,1,827
+Indiana,Big Ten,306,2008,1,827
+Indiana,Big Ten,306,2009,1,827
+Indiana,Big Ten,306,2010,1,827
+Indiana,Big Ten,306,2011,1,827
+Indiana,Big Ten,306,2012,1,827
+Indiana,Big Ten,306,2013,1,827
+Indiana,Big Ten,306,2014,1,827
+Indiana,Big Ten,306,2015,1,827
+Indiana,Big Ten,306,2016,1,827
+Indiana,Big Ten,306,2017,1,827
+Indiana,Big Ten,306,2018,1,827
+Indiana,Big Ten,306,2019,1,827
+Indiana St.,MVC,305,2002,1,884
+Indiana St.,MVC,305,2003,1,884
+Indiana St.,MVC,305,2004,1,884
+Indiana St.,MVC,305,2005,1,884
+Indiana St.,MVC,305,2006,1,884
+Indiana St.,MVC,305,2007,1,884
+Indiana St.,MVC,305,2008,1,884
+Indiana St.,MVC,305,2009,1,884
+Indiana St.,MVC,305,2010,1,884
+Indiana St.,MVC,305,2011,1,884
+Indiana St.,MVC,305,2012,1,884
+Indiana St.,MVC,305,2013,1,884
+Indiana St.,MVC,305,2014,1,884
+Indiana St.,MVC,305,2015,1,884
+Indiana St.,MVC,305,2016,1,884
+Indiana St.,MVC,305,2017,1,884
+Indiana St.,MVC,305,2018,1,884
+Indiana St.,MVC,305,2019,1,884
+Iona,MAAC,310,2002,1,871
+Iona,MAAC,310,2003,1,871
+Iona,MAAC,310,2004,1,871
+Iona,MAAC,310,2005,1,871
+Iona,MAAC,310,2006,1,871
+Iona,MAAC,310,2007,1,871
+Iona,MAAC,310,2008,1,871
+Iona,MAAC,310,2009,1,871
+Iona,MAAC,310,2010,1,871
+Iona,MAAC,310,2011,1,871
+Iona,MAAC,310,2012,1,871
+Iona,MAAC,310,2013,1,871
+Iona,MAAC,310,2014,1,871
+Iona,MAAC,310,2015,1,871
+Iona,MAAC,310,2016,1,871
+Iona,MAAC,310,2017,1,871
+Iona,MAAC,310,2018,1,871
+Iona,MAAC,310,2019,1,871
+Iowa,Big Ten,312,2002,1,827
+Iowa,Big Ten,312,2003,1,827
+Iowa,Big Ten,312,2004,1,827
+Iowa,Big Ten,312,2005,1,827
+Iowa,Big Ten,312,2006,1,827
+Iowa,Big Ten,312,2007,1,827
+Iowa,Big Ten,312,2008,1,827
+Iowa,Big Ten,312,2009,1,827
+Iowa,Big Ten,312,2010,1,827
+Iowa,Big Ten,312,2011,1,827
+Iowa,Big Ten,312,2012,1,827
+Iowa,Big Ten,312,2013,1,827
+Iowa,Big Ten,312,2014,1,827
+Iowa,Big Ten,312,2015,1,827
+Iowa,Big Ten,312,2016,1,827
+Iowa,Big Ten,312,2017,1,827
+Iowa,Big Ten,312,2018,1,827
+Iowa,Big Ten,312,2019,1,827
+Jackson St.,SWAC,314,2002,1,916
+Jackson St.,SWAC,314,2003,1,916
+Jackson St.,SWAC,314,2004,1,916
+Jackson St.,SWAC,314,2005,1,916
+Jackson St.,SWAC,314,2006,1,916
+Jackson St.,SWAC,314,2007,1,916
+Jackson St.,SWAC,314,2008,1,916
+Jackson St.,SWAC,314,2009,1,916
+Jackson St.,SWAC,314,2010,1,916
+Jackson St.,SWAC,314,2011,1,916
+Jackson St.,SWAC,314,2012,1,916
+Jackson St.,SWAC,314,2013,1,916
+Jackson St.,SWAC,314,2014,1,916
+Jackson St.,SWAC,314,2015,1,916
+Jackson St.,SWAC,314,2016,1,916
+Jackson St.,SWAC,314,2017,1,916
+Jackson St.,SWAC,314,2018,1,916
+Jackson St.,SWAC,314,2019,1,916
+Jacksonville,ASUN,316,2002,1,920
+Jacksonville,ASUN,316,2003,1,920
+Jacksonville,ASUN,316,2004,1,920
+Jacksonville,ASUN,316,2005,1,920
+Jacksonville,ASUN,316,2006,1,920
+Jacksonville,ASUN,316,2007,1,920
+Jacksonville,ASUN,316,2008,1,920
+Jacksonville,ASUN,316,2009,1,920
+Jacksonville,ASUN,316,2010,1,920
+Jacksonville,ASUN,316,2011,1,920
+Jacksonville,ASUN,316,2012,1,920
+Jacksonville,ASUN,316,2013,1,920
+Jacksonville,ASUN,316,2014,1,920
+Jacksonville,ASUN,316,2015,1,920
+Jacksonville,ASUN,316,2016,1,920
+Jacksonville,ASUN,316,2017,1,920
+Jacksonville,ASUN,316,2018,1,920
+Jacksonville,ASUN,316,2019,1,920
+Jacksonville St.,ASUN,315,2002,1,920
+Jacksonville St.,ASUN,315,2003,1,920
+Jacksonville St.,OVC,315,2004,1,902
+Jacksonville St.,OVC,315,2005,1,902
+Jacksonville St.,OVC,315,2006,1,902
+Jacksonville St.,OVC,315,2007,1,902
+Jacksonville St.,OVC,315,2008,1,902
+Jacksonville St.,OVC,315,2009,1,902
+Jacksonville St.,OVC,315,2010,1,902
+Jacksonville St.,OVC,315,2011,1,902
+Jacksonville St.,OVC,315,2012,1,902
+Jacksonville St.,OVC,315,2013,1,902
+Jacksonville St.,OVC,315,2014,1,902
+Jacksonville St.,OVC,315,2015,1,902
+Jacksonville St.,OVC,315,2016,1,902
+Jacksonville St.,OVC,315,2017,1,902
+Jacksonville St.,OVC,315,2018,1,902
+Jacksonville St.,OVC,315,2019,1,902
+James Madison,CAA,317,2002,1,837
+James Madison,CAA,317,2003,1,837
+James Madison,CAA,317,2004,1,837
+James Madison,CAA,317,2005,1,837
+James Madison,CAA,317,2006,1,837
+James Madison,CAA,317,2007,1,837
+James Madison,CAA,317,2008,1,837
+James Madison,CAA,317,2009,1,837
+James Madison,CAA,317,2010,1,837
+James Madison,CAA,317,2011,1,837
+James Madison,CAA,317,2012,1,837
+James Madison,CAA,317,2013,1,837
+James Madison,CAA,317,2014,1,837
+James Madison,CAA,317,2015,1,837
+James Madison,CAA,317,2016,1,837
+James Madison,CAA,317,2017,1,837
+James Madison,CAA,317,2018,1,837
+James Madison,CAA,317,2019,1,837
+Kansas,Big 12,328,2002,1,25354
+Kansas,Big 12,328,2003,1,25354
+Kansas,Big 12,328,2004,1,25354
+Kansas,Big 12,328,2005,1,25354
+Kansas,Big 12,328,2006,1,25354
+Kansas,Big 12,328,2007,1,25354
+Kansas,Big 12,328,2008,1,25354
+Kansas,Big 12,328,2009,1,25354
+Kansas,Big 12,328,2010,1,25354
+Kansas,Big 12,328,2011,1,25354
+Kansas,Big 12,328,2012,1,25354
+Kansas,Big 12,328,2013,1,25354
+Kansas,Big 12,328,2014,1,25354
+Kansas,Big 12,328,2015,1,25354
+Kansas,Big 12,328,2016,1,25354
+Kansas,Big 12,328,2017,1,25354
+Kansas,Big 12,328,2018,1,25354
+Kansas,Big 12,328,2019,1,25354
+Kansas St.,Big 12,327,2002,1,25354
+Kansas St.,Big 12,327,2003,1,25354
+Kansas St.,Big 12,327,2004,1,25354
+Kansas St.,Big 12,327,2005,1,25354
+Kansas St.,Big 12,327,2006,1,25354
+Kansas St.,Big 12,327,2007,1,25354
+Kansas St.,Big 12,327,2008,1,25354
+Kansas St.,Big 12,327,2009,1,25354
+Kansas St.,Big 12,327,2010,1,25354
+Kansas St.,Big 12,327,2011,1,25354
+Kansas St.,Big 12,327,2012,1,25354
+Kansas St.,Big 12,327,2013,1,25354
+Kansas St.,Big 12,327,2014,1,25354
+Kansas St.,Big 12,327,2015,1,25354
+Kansas St.,Big 12,327,2016,1,25354
+Kansas St.,Big 12,327,2017,1,25354
+Kansas St.,Big 12,327,2018,1,25354
+Kansas St.,Big 12,327,2019,1,25354
+Kennesaw St.,Independent,1157,2006,1,0
+Kennesaw St.,ASUN,1157,2007,1,920
+Kennesaw St.,ASUN,1157,2008,1,920
+Kennesaw St.,ASUN,1157,2009,1,920
+Kennesaw St.,ASUN,1157,2010,1,920
+Kennesaw St.,ASUN,1157,2011,1,920
+Kennesaw St.,ASUN,1157,2012,1,920
+Kennesaw St.,ASUN,1157,2013,1,920
+Kennesaw St.,ASUN,1157,2014,1,920
+Kennesaw St.,ASUN,1157,2015,1,920
+Kennesaw St.,ASUN,1157,2016,1,920
+Kennesaw St.,ASUN,1157,2017,1,920
+Kennesaw St.,ASUN,1157,2018,1,920
+Kennesaw St.,ASUN,1157,2019,1,920
+Kent St.,MAC,331,2002,1,875
+Kent St.,MAC,331,2003,1,875
+Kent St.,MAC,331,2004,1,875
+Kent St.,MAC,331,2005,1,875
+Kent St.,MAC,331,2006,1,875
+Kent St.,MAC,331,2007,1,875
+Kent St.,MAC,331,2008,1,875
+Kent St.,MAC,331,2009,1,875
+Kent St.,MAC,331,2010,1,875
+Kent St.,MAC,331,2011,1,875
+Kent St.,MAC,331,2012,1,875
+Kent St.,MAC,331,2013,1,875
+Kent St.,MAC,331,2014,1,875
+Kent St.,MAC,331,2015,1,875
+Kent St.,MAC,331,2016,1,875
+Kent St.,MAC,331,2017,1,875
+Kent St.,MAC,331,2018,1,875
+Kent St.,MAC,331,2019,1,875
+Kentucky,SEC,334,2002,1,911
+Kentucky,SEC,334,2003,1,911
+Kentucky,SEC,334,2004,1,911
+Kentucky,SEC,334,2005,1,911
+Kentucky,SEC,334,2006,1,911
+Kentucky,SEC,334,2007,1,911
+Kentucky,SEC,334,2008,1,911
+Kentucky,SEC,334,2009,1,911
+Kentucky,SEC,334,2010,1,911
+Kentucky,SEC,334,2011,1,911
+Kentucky,SEC,334,2012,1,911
+Kentucky,SEC,334,2013,1,911
+Kentucky,SEC,334,2014,1,911
+Kentucky,SEC,334,2015,1,911
+Kentucky,SEC,334,2016,1,911
+Kentucky,SEC,334,2017,1,911
+Kentucky,SEC,334,2018,1,911
+Kentucky,SEC,334,2019,1,911
+Keuka,ECAC,1159,2002,1,847
+Keuka,Independent,1159,2003,1,0
+Keuka,Independent,1159,2004,1,0
+La Salle,Atlantic 10,340,2002,1,820
+La Salle,Atlantic 10,340,2003,1,820
+La Salle,Atlantic 10,340,2004,1,820
+La Salle,Atlantic 10,340,2005,1,820
+La Salle,Atlantic 10,340,2006,1,820
+La Salle,Atlantic 10,340,2007,1,820
+La Salle,Atlantic 10,340,2008,1,820
+La Salle,Atlantic 10,340,2009,1,820
+La Salle,Atlantic 10,340,2010,1,820
+La Salle,Atlantic 10,340,2011,1,820
+La Salle,Atlantic 10,340,2012,1,820
+La Salle,Atlantic 10,340,2013,1,820
+La Salle,Atlantic 10,340,2014,1,820
+La Salle,Atlantic 10,340,2015,1,820
+La Salle,Atlantic 10,340,2016,1,820
+La Salle,Atlantic 10,340,2017,1,820
+La Salle,Atlantic 10,340,2018,1,820
+La Salle,Atlantic 10,340,2019,1,820
+La.-Monroe,Southland,498,2002,1,914
+La.-Monroe,Southland,498,2003,1,914
+La.-Monroe,Southland,498,2004,1,914
+La.-Monroe,Southland,498,2005,1,914
+La.-Monroe,Southland,498,2006,1,914
+La.-Monroe,Sun Belt,498,2007,1,818
+La.-Monroe,Sun Belt,498,2008,1,818
+La.-Monroe,Sun Belt,498,2009,1,818
+La.-Monroe,Sun Belt,498,2010,1,818
+La.-Monroe,Sun Belt,498,2011,1,818
+La.-Monroe,Sun Belt,498,2012,1,818
+La.-Monroe,Sun Belt,498,2013,1,818
+La.-Monroe,Sun Belt,498,2014,1,818
+La.-Monroe,Sun Belt,498,2015,1,818
+La.-Monroe,Sun Belt,498,2016,1,818
+La.-Monroe,Sun Belt,498,2017,1,818
+La.-Monroe,Sun Belt,498,2018,1,818
+La.-Monroe,Sun Belt,498,2019,1,818
+Lafayette,Patriot,342,2002,1,838
+Lafayette,Patriot,342,2003,1,838
+Lafayette,Patriot,342,2004,1,838
+Lafayette,Patriot,342,2005,1,838
+Lafayette,Patriot,342,2006,1,838
+Lafayette,Patriot,342,2007,1,838
+Lafayette,Patriot,342,2008,1,838
+Lafayette,Patriot,342,2009,1,838
+Lafayette,Patriot,342,2010,1,838
+Lafayette,Patriot,342,2011,1,838
+Lafayette,Patriot,342,2012,1,838
+Lafayette,Patriot,342,2013,1,838
+Lafayette,Patriot,342,2014,1,838
+Lafayette,Patriot,342,2015,1,838
+Lafayette,Patriot,342,2016,1,838
+Lafayette,Patriot,342,2017,1,838
+Lafayette,Patriot,342,2018,1,838
+Lafayette,Patriot,342,2019,1,838
+LaGrange,Independent,1162,2004,1,0
+Lake Erie,Independent,2746,2009,1,0
+Lamar University,Southland,346,2002,1,914
+Lamar University,Southland,346,2003,1,914
+Lamar University,Southland,346,2004,1,914
+Lamar University,Southland,346,2005,1,914
+Lamar University,Southland,346,2006,1,914
+Lamar University,Southland,346,2007,1,914
+Lamar University,Southland,346,2008,1,914
+Lamar University,Southland,346,2009,1,914
+Lamar University,Southland,346,2010,1,914
+Lamar University,Southland,346,2011,1,914
+Lamar University,Southland,346,2012,1,914
+Lamar University,Southland,346,2013,1,914
+Lamar University,Southland,346,2014,1,914
+Lamar University,Southland,346,2015,1,914
+Lamar University,Southland,346,2016,1,914
+Lamar University,Southland,346,2017,1,914
+Lamar University,Southland,346,2018,1,914
+Lamar University,Southland,346,2019,1,914
+Lancaster Bible,Independent,30085,2008,1,0
+Lancaster Bible,Independent,30085,2009,1,0
+Le Moyne,MAAC,349,2002,1,871
+Le Moyne,MAAC,349,2003,1,871
+Le Moyne,MAAC,349,2004,1,871
+Le Moyne,MAAC,349,2005,1,871
+Le Moyne,MAAC,349,2006,1,871
+Le Moyne,MAAC,349,2007,1,871
+Le Moyne,Independent,349,2008,1,0
+Le Moyne,Independent,349,2009,1,0
+Lehigh,Patriot,352,2002,1,838
+Lehigh,Patriot,352,2003,1,838
+Lehigh,Patriot,352,2004,1,838
+Lehigh,Patriot,352,2005,1,838
+Lehigh,Patriot,352,2006,1,838
+Lehigh,Patriot,352,2007,1,838
+Lehigh,Patriot,352,2008,1,838
+Lehigh,Patriot,352,2009,1,838
+Lehigh,Patriot,352,2010,1,838
+Lehigh,Patriot,352,2011,1,838
+Lehigh,Patriot,352,2012,1,838
+Lehigh,Patriot,352,2013,1,838
+Lehigh,Patriot,352,2014,1,838
+Lehigh,Patriot,352,2015,1,838
+Lehigh,Patriot,352,2016,1,838
+Lehigh,Patriot,352,2017,1,838
+Lehigh,Patriot,352,2018,1,838
+Lehigh,Patriot,352,2019,1,838
+Liberty,Big South,355,2002,1,826
+Liberty,Big South,355,2003,1,826
+Liberty,Big South,355,2004,1,826
+Liberty,Big South,355,2005,1,826
+Liberty,Big South,355,2006,1,826
+Liberty,Big South,355,2007,1,826
+Liberty,Big South,355,2008,1,826
+Liberty,Big South,355,2009,1,826
+Liberty,Big South,355,2010,1,826
+Liberty,Big South,355,2011,1,826
+Liberty,Big South,355,2012,1,826
+Liberty,Big South,355,2013,1,826
+Liberty,Big South,355,2014,1,826
+Liberty,Big South,355,2015,1,826
+Liberty,Big South,355,2016,1,826
+Liberty,Big South,355,2017,1,826
+Liberty,Big South,355,2018,1,826
+Liberty,ASUN,355,2019,1,920
+Lincoln (PA),Independent,357,2009,1,0
+Lipscomb,ASUN,28600,2004,1,920
+Lipscomb,ASUN,28600,2005,1,920
+Lipscomb,ASUN,28600,2006,1,920
+Lipscomb,ASUN,28600,2007,1,920
+Lipscomb,ASUN,28600,2008,1,920
+Lipscomb,ASUN,28600,2009,1,920
+Lipscomb,ASUN,28600,2010,1,920
+Lipscomb,ASUN,28600,2011,1,920
+Lipscomb,ASUN,28600,2012,1,920
+Lipscomb,ASUN,28600,2013,1,920
+Lipscomb,ASUN,28600,2014,1,920
+Lipscomb,ASUN,28600,2015,1,920
+Lipscomb,ASUN,28600,2016,1,920
+Lipscomb,ASUN,28600,2017,1,920
+Lipscomb,ASUN,28600,2018,1,920
+Lipscomb,ASUN,28600,2019,1,920
+Little Rock,Sun Belt,32,2002,1,818
+Little Rock,Sun Belt,32,2003,1,818
+Little Rock,Sun Belt,32,2004,1,818
+Little Rock,Sun Belt,32,2005,1,818
+Little Rock,Sun Belt,32,2006,1,818
+Little Rock,Sun Belt,32,2007,1,818
+Little Rock,Sun Belt,32,2008,1,818
+Little Rock,Sun Belt,32,2009,1,818
+Little Rock,Sun Belt,32,2010,1,818
+Little Rock,Sun Belt,32,2011,1,818
+Little Rock,Sun Belt,32,2012,1,818
+Little Rock,Sun Belt,32,2013,1,818
+Little Rock,Sun Belt,32,2014,1,818
+Little Rock,Sun Belt,32,2015,1,818
+Little Rock,Sun Belt,32,2016,1,818
+Little Rock,Sun Belt,32,2017,1,818
+Little Rock,Sun Belt,32,2018,1,818
+Little Rock,Sun Belt,32,2019,1,818
+LIU Brooklyn,NEC,361,2002,1,846
+LIU Brooklyn,NEC,361,2003,1,846
+LIU Brooklyn,NEC,361,2004,1,846
+LIU Brooklyn,NEC,361,2005,1,846
+LIU Brooklyn,NEC,361,2006,1,846
+LIU Brooklyn,NEC,361,2007,1,846
+LIU Brooklyn,NEC,361,2008,1,846
+LIU Brooklyn,NEC,361,2009,1,846
+LIU Brooklyn,NEC,361,2010,1,846
+LIU Brooklyn,NEC,361,2011,1,846
+LIU Brooklyn,NEC,361,2012,1,846
+LIU Brooklyn,NEC,361,2013,1,846
+LIU Brooklyn,NEC,361,2014,1,846
+LIU Brooklyn,NEC,361,2015,1,846
+LIU Brooklyn,NEC,361,2016,1,846
+LIU Brooklyn,NEC,361,2017,1,846
+LIU Brooklyn,NEC,361,2018,1,846
+LIU Brooklyn,NEC,361,2019,1,846
+LIU Post,Independent,362,2002,1,0
+LMU (CA),WCC,370,2002,1,922
+LMU (CA),WCC,370,2003,1,922
+LMU (CA),WCC,370,2004,1,922
+LMU (CA),WCC,370,2005,1,922
+LMU (CA),WCC,370,2006,1,922
+LMU (CA),WCC,370,2007,1,922
+LMU (CA),WCC,370,2008,1,922
+LMU (CA),WCC,370,2009,1,922
+LMU (CA),WCC,370,2010,1,922
+LMU (CA),WCC,370,2011,1,922
+LMU (CA),WCC,370,2012,1,922
+LMU (CA),WCC,370,2013,1,922
+LMU (CA),WCC,370,2014,1,922
+LMU (CA),WCC,370,2015,1,922
+LMU (CA),WCC,370,2016,1,922
+LMU (CA),WCC,370,2017,1,922
+LMU (CA),WCC,370,2018,1,922
+Long Beach St.,Big West,99,2002,1,904
+Long Beach St.,Big West,99,2003,1,904
+Long Beach St.,Big West,99,2004,1,904
+Long Beach St.,Big West,99,2005,1,904
+Long Beach St.,Big West,99,2006,1,904
+Long Beach St.,Big West,99,2007,1,904
+Long Beach St.,Big West,99,2008,1,904
+Long Beach St.,Big West,99,2009,1,904
+Long Beach St.,Big West,99,2010,1,904
+Long Beach St.,Big West,99,2011,1,904
+Long Beach St.,Big West,99,2012,1,904
+Long Beach St.,Big West,99,2013,1,904
+Long Beach St.,Big West,99,2014,1,904
+Long Beach St.,Big West,99,2015,1,904
+Long Beach St.,Big West,99,2016,1,904
+Long Beach St.,Big West,99,2017,1,904
+Long Beach St.,Big West,99,2018,1,904
+Long Beach St.,Big West,99,2019,1,904
+Longwood,Independent,363,2004,1,0
+Longwood,Independent,363,2008,1,0
+Longwood,Independent,363,2009,1,0
+Longwood,Big South,363,2013,1,826
+Longwood,Big South,363,2014,1,826
+Longwood,Big South,363,2015,1,826
+Longwood,Big South,363,2016,1,826
+Longwood,Big South,363,2017,1,826
+Longwood,Big South,363,2018,1,826
+Longwood,Big South,363,2019,1,826
+Louisiana,Sun Belt,671,2002,1,818
+Louisiana,Sun Belt,671,2003,1,818
+Louisiana,Sun Belt,671,2004,1,818
+Louisiana,Sun Belt,671,2005,1,818
+Louisiana,Sun Belt,671,2006,1,818
+Louisiana,Sun Belt,671,2007,1,818
+Louisiana,Sun Belt,671,2008,1,818
+Louisiana,Sun Belt,671,2009,1,818
+Louisiana,Sun Belt,671,2010,1,818
+Louisiana,Sun Belt,671,2011,1,818
+Louisiana,Sun Belt,671,2012,1,818
+Louisiana,Sun Belt,671,2013,1,818
+Louisiana,Sun Belt,671,2014,1,818
+Louisiana,Sun Belt,671,2015,1,818
+Louisiana,Sun Belt,671,2016,1,818
+Louisiana,Sun Belt,671,2017,1,818
+Louisiana,Sun Belt,671,2018,1,818
+Louisiana,Sun Belt,671,2019,1,818
+Louisiana Tech,WAC,366,2002,1,923
+Louisiana Tech,WAC,366,2003,1,923
+Louisiana Tech,WAC,366,2004,1,923
+Louisiana Tech,WAC,366,2005,1,923
+Louisiana Tech,WAC,366,2006,1,923
+Louisiana Tech,WAC,366,2007,1,923
+Louisiana Tech,WAC,366,2008,1,923
+Louisiana Tech,WAC,366,2009,1,923
+Louisiana Tech,WAC,366,2010,1,923
+Louisiana Tech,WAC,366,2011,1,923
+Louisiana Tech,WAC,366,2012,1,923
+Louisiana Tech,WAC,366,2013,1,923
+Louisiana Tech,C-USA,366,2014,1,24312
+Louisiana Tech,C-USA,366,2015,1,24312
+Louisiana Tech,C-USA,366,2016,1,24312
+Louisiana Tech,C-USA,366,2017,1,24312
+Louisiana Tech,C-USA,366,2018,1,24312
+Louisiana Tech,C-USA,366,2019,1,24312
+Louisville,C-USA,367,2002,1,24312
+Louisville,C-USA,367,2003,1,24312
+Louisville,C-USA,367,2004,1,24312
+Louisville,C-USA,367,2005,1,24312
+Louisville,AAC,367,2006,1,823
+Louisville,AAC,367,2007,1,823
+Louisville,AAC,367,2008,1,823
+Louisville,AAC,367,2009,1,823
+Louisville,AAC,367,2010,1,823
+Louisville,AAC,367,2011,1,823
+Louisville,AAC,367,2012,1,823
+Louisville,AAC,367,2013,1,823
+Louisville,AAC,367,2014,1,823
+Louisville,ACC,367,2015,1,821
+Louisville,ACC,367,2016,1,821
+Louisville,ACC,367,2017,1,821
+Louisville,ACC,367,2018,1,821
+Louisville,ACC,367,2019,1,821
+Loyola Marymount,WCC,370,2019,1,922
+LSU,SEC,365,2002,1,911
+LSU,SEC,365,2003,1,911
+LSU,SEC,365,2004,1,911
+LSU,SEC,365,2005,1,911
+LSU,SEC,365,2006,1,911
+LSU,SEC,365,2007,1,911
+LSU,SEC,365,2008,1,911
+LSU,SEC,365,2009,1,911
+LSU,SEC,365,2010,1,911
+LSU,SEC,365,2011,1,911
+LSU,SEC,365,2012,1,911
+LSU,SEC,365,2013,1,911
+LSU,SEC,365,2014,1,911
+LSU,SEC,365,2015,1,911
+LSU,SEC,365,2016,1,911
+LSU,SEC,365,2017,1,911
+LSU,SEC,365,2018,1,911
+LSU,SEC,365,2019,1,911
+Maine,America East,380,2002,1,845
+Maine,America East,380,2003,1,845
+Maine,America East,380,2004,1,845
+Maine,America East,380,2005,1,845
+Maine,America East,380,2006,1,845
+Maine,America East,380,2007,1,845
+Maine,America East,380,2008,1,845
+Maine,America East,380,2009,1,845
+Maine,America East,380,2010,1,845
+Maine,America East,380,2011,1,845
+Maine,America East,380,2012,1,845
+Maine,America East,380,2013,1,845
+Maine,America East,380,2014,1,845
+Maine,America East,380,2015,1,845
+Maine,America East,380,2016,1,845
+Maine,America East,380,2017,1,845
+Maine,America East,380,2018,1,845
+Maine,America East,380,2019,1,845
+Manhattan,MAAC,381,2002,1,871
+Manhattan,MAAC,381,2003,1,871
+Manhattan,MAAC,381,2004,1,871
+Manhattan,MAAC,381,2005,1,871
+Manhattan,MAAC,381,2006,1,871
+Manhattan,MAAC,381,2007,1,871
+Manhattan,MAAC,381,2008,1,871
+Manhattan,MAAC,381,2009,1,871
+Manhattan,MAAC,381,2010,1,871
+Manhattan,MAAC,381,2011,1,871
+Manhattan,MAAC,381,2012,1,871
+Manhattan,MAAC,381,2013,1,871
+Manhattan,MAAC,381,2014,1,871
+Manhattan,MAAC,381,2015,1,871
+Manhattan,MAAC,381,2016,1,871
+Manhattan,MAAC,381,2017,1,871
+Manhattan,MAAC,381,2018,1,871
+Manhattan,MAAC,381,2019,1,871
+Marist,MAAC,386,2002,1,871
+Marist,MAAC,386,2003,1,871
+Marist,MAAC,386,2004,1,871
+Marist,MAAC,386,2005,1,871
+Marist,MAAC,386,2006,1,871
+Marist,MAAC,386,2007,1,871
+Marist,MAAC,386,2008,1,871
+Marist,MAAC,386,2009,1,871
+Marist,MAAC,386,2010,1,871
+Marist,MAAC,386,2011,1,871
+Marist,MAAC,386,2012,1,871
+Marist,MAAC,386,2013,1,871
+Marist,MAAC,386,2014,1,871
+Marist,MAAC,386,2015,1,871
+Marist,MAAC,386,2016,1,871
+Marist,MAAC,386,2017,1,871
+Marist,MAAC,386,2018,1,871
+Marist,MAAC,386,2019,1,871
+Marshall,MAC,388,2002,1,875
+Marshall,MAC,388,2003,1,875
+Marshall,MAC,388,2004,1,875
+Marshall,MAC,388,2005,1,875
+Marshall,C-USA,388,2006,1,24312
+Marshall,C-USA,388,2007,1,24312
+Marshall,C-USA,388,2008,1,24312
+Marshall,C-USA,388,2009,1,24312
+Marshall,C-USA,388,2010,1,24312
+Marshall,C-USA,388,2011,1,24312
+Marshall,C-USA,388,2012,1,24312
+Marshall,C-USA,388,2013,1,24312
+Marshall,C-USA,388,2014,1,24312
+Marshall,C-USA,388,2015,1,24312
+Marshall,C-USA,388,2016,1,24312
+Marshall,C-USA,388,2017,1,24312
+Marshall,C-USA,388,2018,1,24312
+Marshall,C-USA,388,2019,1,24312
+Martin Luther,Independent,8597,2003,1,0
+Martin Luther,Independent,8597,2004,1,0
+Martin Luther,Independent,8597,2005,1,0
+Martin Luther,Independent,8597,2006,1,0
+Martin Luther,Independent,8597,2007,1,0
+Martin Luther,Independent,8597,2008,1,0
+Maryland,ACC,392,2002,1,821
+Maryland,ACC,392,2003,1,821
+Maryland,ACC,392,2004,1,821
+Maryland,ACC,392,2005,1,821
+Maryland,ACC,392,2006,1,821
+Maryland,ACC,392,2007,1,821
+Maryland,ACC,392,2008,1,821
+Maryland,ACC,392,2009,1,821
+Maryland,ACC,392,2010,1,821
+Maryland,ACC,392,2011,1,821
+Maryland,ACC,392,2012,1,821
+Maryland,ACC,392,2013,1,821
+Maryland,ACC,392,2014,1,821
+Maryland,Big Ten,392,2015,1,827
+Maryland,Big Ten,392,2016,1,827
+Maryland,Big Ten,392,2017,1,827
+Maryland,Big Ten,392,2018,1,827
+Maryland,Big Ten,392,2019,1,827
+Maryville (TN),Independent,396,2004,1,0
+Massachusetts,Atlantic 10,400,2002,1,820
+Massachusetts,Atlantic 10,400,2003,1,820
+Massachusetts,Atlantic 10,400,2004,1,820
+Massachusetts,Atlantic 10,400,2005,1,820
+Massachusetts,Atlantic 10,400,2006,1,820
+Massachusetts,Atlantic 10,400,2007,1,820
+Massachusetts,Atlantic 10,400,2008,1,820
+Massachusetts,Atlantic 10,400,2009,1,820
+Massachusetts,Atlantic 10,400,2010,1,820
+Massachusetts,Atlantic 10,400,2011,1,820
+Massachusetts,Atlantic 10,400,2012,1,820
+Massachusetts,Atlantic 10,400,2013,1,820
+Massachusetts,Atlantic 10,400,2014,1,820
+Massachusetts,Atlantic 10,400,2015,1,820
+Massachusetts,Atlantic 10,400,2016,1,820
+Massachusetts,Atlantic 10,400,2017,1,820
+Massachusetts,Atlantic 10,400,2018,1,820
+Massachusetts,Atlantic 10,400,2019,1,820
+McNeese,Southland,402,2002,1,914
+McNeese,Southland,402,2003,1,914
+McNeese,Southland,402,2004,1,914
+McNeese,Southland,402,2005,1,914
+McNeese,Southland,402,2006,1,914
+McNeese,Southland,402,2007,1,914
+McNeese,Southland,402,2008,1,914
+McNeese,Southland,402,2009,1,914
+McNeese,Southland,402,2010,1,914
+McNeese,Southland,402,2011,1,914
+McNeese,Southland,402,2012,1,914
+McNeese,Southland,402,2013,1,914
+McNeese,Southland,402,2014,1,914
+McNeese,Southland,402,2015,1,914
+McNeese,Southland,402,2016,1,914
+McNeese,Southland,402,2017,1,914
+McNeese,Southland,402,2018,1,914
+McNeese,Southland,402,2019,1,914
+Me.-Farmington,Independent,379,2003,1,0
+Medaille,Independent,23725,2003,1,0
+Medaille,Independent,23725,2004,1,0
+Memphis,C-USA,404,2002,1,24312
+Memphis,C-USA,404,2003,1,24312
+Memphis,C-USA,404,2004,1,24312
+Memphis,C-USA,404,2005,1,24312
+Memphis,C-USA,404,2006,1,24312
+Memphis,C-USA,404,2007,1,24312
+Memphis,C-USA,404,2008,1,24312
+Memphis,C-USA,404,2009,1,24312
+Memphis,C-USA,404,2010,1,24312
+Memphis,C-USA,404,2011,1,24312
+Memphis,C-USA,404,2012,1,24312
+Memphis,C-USA,404,2013,1,24312
+Memphis,AAC,404,2014,1,823
+Memphis,AAC,404,2015,1,823
+Memphis,AAC,404,2016,1,823
+Memphis,AAC,404,2017,1,823
+Memphis,AAC,404,2018,1,823
+Memphis,AAC,404,2019,1,823
+Menlo,Independent,405,2003,1,0
+Menlo,Independent,405,2004,1,0
+Menlo,Independent,405,2005,1,0
+Menlo,Independent,405,2006,1,0
+Menlo,Independent,405,2007,1,0
+Menlo,Independent,405,2008,1,0
+Menlo,Independent,405,2009,1,0
+Mercer,ASUN,406,2002,1,920
+Mercer,ASUN,406,2003,1,920
+Mercer,ASUN,406,2004,1,920
+Mercer,ASUN,406,2005,1,920
+Mercer,ASUN,406,2006,1,920
+Mercer,ASUN,406,2007,1,920
+Mercer,ASUN,406,2008,1,920
+Mercer,ASUN,406,2009,1,920
+Mercer,ASUN,406,2010,1,920
+Mercer,ASUN,406,2011,1,920
+Mercer,ASUN,406,2012,1,920
+Mercer,ASUN,406,2013,1,920
+Mercer,ASUN,406,2014,1,920
+Mercer,SoCon,406,2015,1,912
+Mercer,SoCon,406,2016,1,912
+Mercer,SoCon,406,2017,1,912
+Mercer,SoCon,406,2018,1,912
+Mercer,SoCon,406,2019,1,912
+Miami (FL),Independent,415,2002,1,0
+Miami (FL),Independent,415,2003,1,0
+Miami (FL),Independent,415,2004,1,0
+Miami (FL),ACC,415,2005,1,821
+Miami (FL),ACC,415,2006,1,821
+Miami (FL),ACC,415,2007,1,821
+Miami (FL),ACC,415,2008,1,821
+Miami (FL),ACC,415,2009,1,821
+Miami (FL),ACC,415,2010,1,821
+Miami (FL),ACC,415,2011,1,821
+Miami (FL),ACC,415,2012,1,821
+Miami (FL),ACC,415,2013,1,821
+Miami (FL),ACC,415,2014,1,821
+Miami (FL),ACC,415,2015,1,821
+Miami (FL),ACC,415,2016,1,821
+Miami (FL),ACC,415,2017,1,821
+Miami (FL),ACC,415,2018,1,821
+Miami (FL),ACC,415,2019,1,821
+Miami (OH),MAC,414,2002,1,875
+Miami (OH),MAC,414,2003,1,875
+Miami (OH),MAC,414,2004,1,875
+Miami (OH),MAC,414,2005,1,875
+Miami (OH),MAC,414,2006,1,875
+Miami (OH),MAC,414,2007,1,875
+Miami (OH),MAC,414,2008,1,875
+Miami (OH),MAC,414,2009,1,875
+Miami (OH),MAC,414,2010,1,875
+Miami (OH),MAC,414,2011,1,875
+Miami (OH),MAC,414,2012,1,875
+Miami (OH),MAC,414,2013,1,875
+Miami (OH),MAC,414,2014,1,875
+Miami (OH),MAC,414,2015,1,875
+Miami (OH),MAC,414,2016,1,875
+Miami (OH),MAC,414,2017,1,875
+Miami (OH),MAC,414,2018,1,875
+Miami (OH),MAC,414,2019,1,875
+Michigan,Big Ten,418,2002,1,827
+Michigan,Big Ten,418,2003,1,827
+Michigan,Big Ten,418,2004,1,827
+Michigan,Big Ten,418,2005,1,827
+Michigan,Big Ten,418,2006,1,827
+Michigan,Big Ten,418,2007,1,827
+Michigan,Big Ten,418,2008,1,827
+Michigan,Big Ten,418,2009,1,827
+Michigan,Big Ten,418,2010,1,827
+Michigan,Big Ten,418,2011,1,827
+Michigan,Big Ten,418,2012,1,827
+Michigan,Big Ten,418,2013,1,827
+Michigan,Big Ten,418,2014,1,827
+Michigan,Big Ten,418,2015,1,827
+Michigan,Big Ten,418,2016,1,827
+Michigan,Big Ten,418,2017,1,827
+Michigan,Big Ten,418,2018,1,827
+Michigan,Big Ten,418,2019,1,827
+Michigan St.,Big Ten,416,2002,1,827
+Michigan St.,Big Ten,416,2003,1,827
+Michigan St.,Big Ten,416,2004,1,827
+Michigan St.,Big Ten,416,2005,1,827
+Michigan St.,Big Ten,416,2006,1,827
+Michigan St.,Big Ten,416,2007,1,827
+Michigan St.,Big Ten,416,2008,1,827
+Michigan St.,Big Ten,416,2009,1,827
+Michigan St.,Big Ten,416,2010,1,827
+Michigan St.,Big Ten,416,2011,1,827
+Michigan St.,Big Ten,416,2012,1,827
+Michigan St.,Big Ten,416,2013,1,827
+Michigan St.,Big Ten,416,2014,1,827
+Michigan St.,Big Ten,416,2015,1,827
+Michigan St.,Big Ten,416,2016,1,827
+Michigan St.,Big Ten,416,2017,1,827
+Michigan St.,Big Ten,416,2018,1,827
+Michigan St.,Big Ten,416,2019,1,827
+Middle Tenn.,Sun Belt,419,2002,1,818
+Middle Tenn.,Sun Belt,419,2003,1,818
+Middle Tenn.,Sun Belt,419,2004,1,818
+Middle Tenn.,Sun Belt,419,2005,1,818
+Middle Tenn.,Sun Belt,419,2006,1,818
+Middle Tenn.,Sun Belt,419,2007,1,818
+Middle Tenn.,Sun Belt,419,2008,1,818
+Middle Tenn.,Sun Belt,419,2009,1,818
+Middle Tenn.,Sun Belt,419,2010,1,818
+Middle Tenn.,Sun Belt,419,2011,1,818
+Middle Tenn.,Sun Belt,419,2012,1,818
+Middle Tenn.,Sun Belt,419,2013,1,818
+Middle Tenn.,C-USA,419,2014,1,24312
+Middle Tenn.,C-USA,419,2015,1,24312
+Middle Tenn.,C-USA,419,2016,1,24312
+Middle Tenn.,C-USA,419,2017,1,24312
+Middle Tenn.,C-USA,419,2018,1,24312
+Middle Tenn.,C-USA,419,2019,1,24312
+Milwaukee,Horizon,797,2002,1,881
+Milwaukee,Horizon,797,2003,1,881
+Milwaukee,Horizon,797,2004,1,881
+Milwaukee,Horizon,797,2005,1,881
+Milwaukee,Horizon,797,2006,1,881
+Milwaukee,Horizon,797,2007,1,881
+Milwaukee,Horizon,797,2008,1,881
+Milwaukee,Horizon,797,2009,1,881
+Milwaukee,Horizon,797,2010,1,881
+Milwaukee,Horizon,797,2011,1,881
+Milwaukee,Horizon,797,2012,1,881
+Milwaukee,Horizon,797,2013,1,881
+Milwaukee,Horizon,797,2014,1,881
+Milwaukee,Horizon,797,2015,1,881
+Milwaukee,Horizon,797,2016,1,881
+Milwaukee,Horizon,797,2017,1,881
+Milwaukee,Horizon,797,2018,1,881
+Milwaukee,Horizon,797,2019,1,881
+Minn.-Morris,Independent,1226,2004,1,0
+Minn.-Morris,Independent,1226,2006,1,0
+Minn.-Morris,Independent,1226,2007,1,0
+Minn.-Morris,Independent,1226,2008,1,0
+Minnesota,Big Ten,428,2002,1,827
+Minnesota,Big Ten,428,2003,1,827
+Minnesota,Big Ten,428,2004,1,827
+Minnesota,Big Ten,428,2005,1,827
+Minnesota,Big Ten,428,2006,1,827
+Minnesota,Big Ten,428,2007,1,827
+Minnesota,Big Ten,428,2008,1,827
+Minnesota,Big Ten,428,2009,1,827
+Minnesota,Big Ten,428,2010,1,827
+Minnesota,Big Ten,428,2011,1,827
+Minnesota,Big Ten,428,2012,1,827
+Minnesota,Big Ten,428,2013,1,827
+Minnesota,Big Ten,428,2014,1,827
+Minnesota,Big Ten,428,2015,1,827
+Minnesota,Big Ten,428,2016,1,827
+Minnesota,Big Ten,428,2017,1,827
+Minnesota,Big Ten,428,2018,1,827
+Minnesota,Big Ten,428,2019,1,827
+Mississippi St.,SEC,430,2002,1,911
+Mississippi St.,SEC,430,2003,1,911
+Mississippi St.,SEC,430,2004,1,911
+Mississippi St.,SEC,430,2005,1,911
+Mississippi St.,SEC,430,2006,1,911
+Mississippi St.,SEC,430,2007,1,911
+Mississippi St.,SEC,430,2008,1,911
+Mississippi St.,SEC,430,2009,1,911
+Mississippi St.,SEC,430,2010,1,911
+Mississippi St.,SEC,430,2011,1,911
+Mississippi St.,SEC,430,2012,1,911
+Mississippi St.,SEC,430,2013,1,911
+Mississippi St.,SEC,430,2014,1,911
+Mississippi St.,SEC,430,2015,1,911
+Mississippi St.,SEC,430,2016,1,911
+Mississippi St.,SEC,430,2017,1,911
+Mississippi St.,SEC,430,2018,1,911
+Mississippi St.,SEC,430,2019,1,911
+Mississippi Val.,SWAC,432,2002,1,916
+Mississippi Val.,SWAC,432,2003,1,916
+Mississippi Val.,SWAC,432,2004,1,916
+Mississippi Val.,SWAC,432,2005,1,916
+Mississippi Val.,SWAC,432,2006,1,916
+Mississippi Val.,SWAC,432,2007,1,916
+Mississippi Val.,SWAC,432,2008,1,916
+Mississippi Val.,SWAC,432,2009,1,916
+Mississippi Val.,SWAC,432,2010,1,916
+Mississippi Val.,SWAC,432,2011,1,916
+Mississippi Val.,SWAC,432,2012,1,916
+Mississippi Val.,SWAC,432,2013,1,916
+Mississippi Val.,SWAC,432,2014,1,916
+Mississippi Val.,SWAC,432,2015,1,916
+Mississippi Val.,SWAC,432,2016,1,916
+Mississippi Val.,SWAC,432,2017,1,916
+Mississippi Val.,SWAC,432,2018,1,916
+Mississippi Val.,SWAC,432,2019,1,916
+Missouri,Big 12,434,2002,1,25354
+Missouri,Big 12,434,2003,1,25354
+Missouri,Big 12,434,2004,1,25354
+Missouri,Big 12,434,2005,1,25354
+Missouri,Big 12,434,2006,1,25354
+Missouri,Big 12,434,2007,1,25354
+Missouri,Big 12,434,2008,1,25354
+Missouri,Big 12,434,2009,1,25354
+Missouri,Big 12,434,2010,1,25354
+Missouri,Big 12,434,2011,1,25354
+Missouri,Big 12,434,2012,1,25354
+Missouri,SEC,434,2013,1,911
+Missouri,SEC,434,2014,1,911
+Missouri,SEC,434,2015,1,911
+Missouri,SEC,434,2016,1,911
+Missouri,SEC,434,2017,1,911
+Missouri,SEC,434,2018,1,911
+Missouri,SEC,434,2019,1,911
+Missouri St.,MVC,669,2002,1,884
+Missouri St.,MVC,669,2003,1,884
+Missouri St.,MVC,669,2004,1,884
+Missouri St.,MVC,669,2005,1,884
+Missouri St.,MVC,669,2006,1,884
+Missouri St.,MVC,669,2007,1,884
+Missouri St.,MVC,669,2008,1,884
+Missouri St.,MVC,669,2009,1,884
+Missouri St.,MVC,669,2010,1,884
+Missouri St.,MVC,669,2011,1,884
+Missouri St.,MVC,669,2012,1,884
+Missouri St.,MVC,669,2013,1,884
+Missouri St.,MVC,669,2014,1,884
+Missouri St.,MVC,669,2015,1,884
+Missouri St.,MVC,669,2016,1,884
+Missouri St.,MVC,669,2017,1,884
+Missouri St.,MVC,669,2018,1,884
+Missouri St.,MVC,669,2019,1,884
+Mitchell,Independent,30042,2006,1,0
+Mitchell,Independent,30042,2007,1,0
+Monmouth,NEC,439,2002,1,846
+Monmouth,NEC,439,2003,1,846
+Monmouth,NEC,439,2004,1,846
+Monmouth,NEC,439,2005,1,846
+Monmouth,NEC,439,2006,1,846
+Monmouth,NEC,439,2007,1,846
+Monmouth,NEC,439,2008,1,846
+Monmouth,NEC,439,2009,1,846
+Monmouth,NEC,439,2010,1,846
+Monmouth,NEC,439,2011,1,846
+Monmouth,NEC,439,2012,1,846
+Monmouth,NEC,439,2013,1,846
+Monmouth,MAAC,439,2014,1,871
+Monmouth,MAAC,439,2015,1,871
+Monmouth,MAAC,439,2016,1,871
+Monmouth,MAAC,439,2017,1,871
+Monmouth,MAAC,439,2018,1,871
+Monmouth,MAAC,439,2019,1,871
+Morehead St.,OVC,444,2002,1,902
+Morehead St.,OVC,444,2003,1,902
+Morehead St.,OVC,444,2004,1,902
+Morehead St.,OVC,444,2005,1,902
+Morehead St.,OVC,444,2006,1,902
+Morehead St.,OVC,444,2007,1,902
+Morehead St.,OVC,444,2008,1,902
+Morehead St.,OVC,444,2009,1,902
+Morehead St.,OVC,444,2010,1,902
+Morehead St.,OVC,444,2011,1,902
+Morehead St.,OVC,444,2012,1,902
+Morehead St.,OVC,444,2013,1,902
+Morehead St.,OVC,444,2014,1,902
+Morehead St.,OVC,444,2015,1,902
+Morehead St.,OVC,444,2016,1,902
+Morehead St.,OVC,444,2017,1,902
+Morehead St.,OVC,444,2018,1,902
+Morehead St.,OVC,444,2019,1,902
+Morris Brown,Independent,448,2002,1,0
+Morris Brown,Independent,448,2003,1,0
+Mount St. Mary's,NEC,450,2002,1,846
+Mount St. Mary's,NEC,450,2003,1,846
+Mount St. Mary's,NEC,450,2004,1,846
+Mount St. Mary's,NEC,450,2005,1,846
+Mount St. Mary's,NEC,450,2006,1,846
+Mount St. Mary's,NEC,450,2007,1,846
+Mount St. Mary's,NEC,450,2008,1,846
+Mount St. Mary's,NEC,450,2009,1,846
+Mount St. Mary's,NEC,450,2010,1,846
+Mount St. Mary's,NEC,450,2011,1,846
+Mount St. Mary's,NEC,450,2012,1,846
+Mount St. Mary's,NEC,450,2013,1,846
+Mount St. Mary's,NEC,450,2014,1,846
+Mount St. Mary's,NEC,450,2015,1,846
+Mount St. Mary's,NEC,450,2016,1,846
+Mount St. Mary's,NEC,450,2017,1,846
+Mount St. Mary's,NEC,450,2018,1,846
+Mount St. Mary's,NEC,450,2019,1,846
+MSOE,Independent,20220,2007,1,0
+Murray St.,OVC,454,2002,1,902
+Murray St.,OVC,454,2003,1,902
+Murray St.,OVC,454,2004,1,902
+Murray St.,OVC,454,2005,1,902
+Murray St.,OVC,454,2006,1,902
+Murray St.,OVC,454,2007,1,902
+Murray St.,OVC,454,2008,1,902
+Murray St.,OVC,454,2009,1,902
+Murray St.,OVC,454,2010,1,902
+Murray St.,OVC,454,2011,1,902
+Murray St.,OVC,454,2012,1,902
+Murray St.,OVC,454,2013,1,902
+Murray St.,OVC,454,2014,1,902
+Murray St.,OVC,454,2015,1,902
+Murray St.,OVC,454,2016,1,902
+Murray St.,OVC,454,2017,1,902
+Murray St.,OVC,454,2018,1,902
+Murray St.,OVC,454,2019,1,902
+N.C. A&T,MEAC,488,2002,1,876
+N.C. A&T,MEAC,488,2003,1,876
+N.C. A&T,MEAC,488,2004,1,876
+N.C. A&T,MEAC,488,2005,1,876
+N.C. A&T,MEAC,488,2006,1,876
+N.C. A&T,MEAC,488,2007,1,876
+N.C. A&T,MEAC,488,2008,1,876
+N.C. A&T,MEAC,488,2009,1,876
+N.C. A&T,MEAC,488,2010,1,876
+N.C. A&T,MEAC,488,2011,1,876
+N.C. A&T,MEAC,488,2012,1,876
+N.C. A&T,MEAC,488,2013,1,876
+N.C. A&T,MEAC,488,2014,1,876
+N.C. A&T,MEAC,488,2015,1,876
+N.C. A&T,MEAC,488,2016,1,876
+N.C. A&T,MEAC,488,2017,1,876
+N.C. A&T,MEAC,488,2018,1,876
+N.C. A&T,MEAC,488,2019,1,876
+N.C. Central,Independent,489,2009,1,0
+N.C. Central,MEAC,489,2012,1,876
+N.C. Central,MEAC,489,2013,1,876
+N.C. Central,MEAC,489,2014,1,876
+N.C. Central,MEAC,489,2015,1,876
+N.C. Central,MEAC,489,2016,1,876
+N.C. Central,MEAC,489,2017,1,876
+N.C. Central,MEAC,489,2018,1,876
+N.C. Central,MEAC,489,2019,1,876
+Navy,Patriot,726,2002,1,838
+Navy,Patriot,726,2003,1,838
+Navy,Patriot,726,2004,1,838
+Navy,Patriot,726,2005,1,838
+Navy,Patriot,726,2006,1,838
+Navy,Patriot,726,2007,1,838
+Navy,Patriot,726,2008,1,838
+Navy,Patriot,726,2009,1,838
+Navy,Patriot,726,2010,1,838
+Navy,Patriot,726,2011,1,838
+Navy,Patriot,726,2012,1,838
+Navy,Patriot,726,2013,1,838
+Navy,Patriot,726,2014,1,838
+Navy,Patriot,726,2015,1,838
+Navy,Patriot,726,2016,1,838
+Navy,Patriot,726,2017,1,838
+Navy,Patriot,726,2018,1,838
+Navy,Patriot,726,2019,1,838
+NC State,ACC,490,2002,1,821
+NC State,ACC,490,2003,1,821
+NC State,ACC,490,2004,1,821
+NC State,ACC,490,2005,1,821
+NC State,ACC,490,2006,1,821
+NC State,ACC,490,2007,1,821
+NC State,ACC,490,2008,1,821
+NC State,ACC,490,2009,1,821
+NC State,ACC,490,2010,1,821
+NC State,ACC,490,2011,1,821
+NC State,ACC,490,2012,1,821
+NC State,ACC,490,2013,1,821
+NC State,ACC,490,2014,1,821
+NC State,ACC,490,2015,1,821
+NC State,ACC,490,2016,1,821
+NC State,ACC,490,2017,1,821
+NC State,ACC,490,2018,1,821
+NC State,ACC,490,2019,1,821
+Neb. Wesleyan,Independent,462,2002,1,0
+Neb. Wesleyan,Independent,462,2003,1,0
+Neb. Wesleyan,Independent,462,2004,1,0
+Neb. Wesleyan,Independent,462,2005,1,0
+Neb. Wesleyan,Independent,462,2006,1,0
+Neb. Wesleyan,Independent,462,2007,1,0
+Neb. Wesleyan,Independent,462,2008,1,0
+Neb. Wesleyan,Independent,462,2009,1,0
+Nebraska,Big 12,463,2002,1,25354
+Nebraska,Big 12,463,2003,1,25354
+Nebraska,Big 12,463,2004,1,25354
+Nebraska,Big 12,463,2005,1,25354
+Nebraska,Big 12,463,2006,1,25354
+Nebraska,Big 12,463,2007,1,25354
+Nebraska,Big 12,463,2008,1,25354
+Nebraska,Big 12,463,2009,1,25354
+Nebraska,Big 12,463,2010,1,25354
+Nebraska,Big 12,463,2011,1,25354
+Nebraska,Big Ten,463,2012,1,827
+Nebraska,Big Ten,463,2013,1,827
+Nebraska,Big Ten,463,2014,1,827
+Nebraska,Big Ten,463,2015,1,827
+Nebraska,Big Ten,463,2016,1,827
+Nebraska,Big Ten,463,2017,1,827
+Nebraska,Big Ten,463,2018,1,827
+Nebraska,Big Ten,463,2019,1,827
+Nevada,WAC,466,2002,1,923
+Nevada,WAC,466,2003,1,923
+Nevada,WAC,466,2004,1,923
+Nevada,WAC,466,2005,1,923
+Nevada,WAC,466,2006,1,923
+Nevada,WAC,466,2007,1,923
+Nevada,WAC,466,2008,1,923
+Nevada,WAC,466,2009,1,923
+Nevada,WAC,466,2010,1,923
+Nevada,WAC,466,2011,1,923
+Nevada,WAC,466,2012,1,923
+Nevada,MWC,466,2013,1,5486
+Nevada,MWC,466,2014,1,5486
+Nevada,MWC,466,2015,1,5486
+Nevada,MWC,466,2016,1,5486
+Nevada,MWC,466,2017,1,5486
+Nevada,MWC,466,2018,1,5486
+Nevada,MWC,466,2019,1,5486
+New Haven,Independent,470,2002,1,0
+New Mexico,MWC,473,2002,1,5486
+New Mexico,MWC,473,2003,1,5486
+New Mexico,MWC,473,2004,1,5486
+New Mexico,MWC,473,2005,1,5486
+New Mexico,MWC,473,2006,1,5486
+New Mexico,MWC,473,2007,1,5486
+New Mexico,MWC,473,2008,1,5486
+New Mexico,MWC,473,2009,1,5486
+New Mexico,MWC,473,2010,1,5486
+New Mexico,MWC,473,2011,1,5486
+New Mexico,MWC,473,2012,1,5486
+New Mexico,MWC,473,2013,1,5486
+New Mexico,MWC,473,2014,1,5486
+New Mexico,MWC,473,2015,1,5486
+New Mexico,MWC,473,2016,1,5486
+New Mexico,MWC,473,2017,1,5486
+New Mexico,MWC,473,2018,1,5486
+New Mexico,MWC,473,2019,1,5486
+New Mexico St.,Sun Belt,472,2002,1,818
+New Mexico St.,Sun Belt,472,2003,1,818
+New Mexico St.,Sun Belt,472,2004,1,818
+New Mexico St.,Sun Belt,472,2005,1,818
+New Mexico St.,WAC,472,2006,1,923
+New Mexico St.,WAC,472,2007,1,923
+New Mexico St.,WAC,472,2008,1,923
+New Mexico St.,WAC,472,2009,1,923
+New Mexico St.,WAC,472,2010,1,923
+New Mexico St.,WAC,472,2011,1,923
+New Mexico St.,WAC,472,2012,1,923
+New Mexico St.,WAC,472,2013,1,923
+New Mexico St.,WAC,472,2014,1,923
+New Mexico St.,WAC,472,2015,1,923
+New Mexico St.,WAC,472,2016,1,923
+New Mexico St.,WAC,472,2017,1,923
+New Mexico St.,WAC,472,2018,1,923
+New Mexico St.,WAC,472,2019,1,923
+New Orleans,Sun Belt,474,2002,1,818
+New Orleans,Sun Belt,474,2003,1,818
+New Orleans,Sun Belt,474,2004,1,818
+New Orleans,Sun Belt,474,2005,1,818
+New Orleans,Sun Belt,474,2006,1,818
+New Orleans,Sun Belt,474,2007,1,818
+New Orleans,Sun Belt,474,2008,1,818
+New Orleans,Sun Belt,474,2009,1,818
+New Orleans,Sun Belt,474,2010,1,818
+New Orleans,Southland,474,2014,1,914
+New Orleans,Southland,474,2015,1,914
+New Orleans,Southland,474,2016,1,914
+New Orleans,Southland,474,2017,1,914
+New Orleans,Southland,474,2018,1,914
+New Orleans,Southland,474,2019,1,914
+Newbury,Independent,21772,2007,1,0
+Newbury,Independent,21772,2008,1,0
+Niagara,MAAC,482,2002,1,871
+Niagara,MAAC,482,2003,1,871
+Niagara,MAAC,482,2004,1,871
+Niagara,MAAC,482,2005,1,871
+Niagara,MAAC,482,2006,1,871
+Niagara,MAAC,482,2007,1,871
+Niagara,MAAC,482,2008,1,871
+Niagara,MAAC,482,2009,1,871
+Niagara,MAAC,482,2010,1,871
+Niagara,MAAC,482,2011,1,871
+Niagara,MAAC,482,2012,1,871
+Niagara,MAAC,482,2013,1,871
+Niagara,MAAC,482,2014,1,871
+Niagara,MAAC,482,2015,1,871
+Niagara,MAAC,482,2016,1,871
+Niagara,MAAC,482,2017,1,871
+Niagara,MAAC,482,2018,1,871
+Niagara,MAAC,482,2019,1,871
+Nicholls St.,Southland,483,2002,1,914
+Nicholls St.,Southland,483,2003,1,914
+Nicholls St.,Southland,483,2004,1,914
+Nicholls St.,Southland,483,2005,1,914
+Nicholls St.,Southland,483,2006,1,914
+Nicholls St.,Southland,483,2007,1,914
+Nicholls St.,Southland,483,2008,1,914
+Nicholls St.,Southland,483,2009,1,914
+Nicholls St.,Southland,483,2010,1,914
+Nicholls St.,Southland,483,2011,1,914
+Nicholls St.,Southland,483,2012,1,914
+Nicholls St.,Southland,483,2013,1,914
+Nicholls St.,Southland,483,2014,1,914
+Nicholls St.,Southland,483,2015,1,914
+Nicholls St.,Southland,483,2016,1,914
+Nicholls St.,Southland,483,2017,1,914
+Nicholls St.,Southland,483,2018,1,914
+Nicholls St.,Southland,483,2019,1,914
+NJIT,Independent,471,2007,1,0
+NJIT,Independent,471,2008,1,0
+NJIT,Independent,471,2009,1,0
+NJIT,GWC,471,2010,1,30062
+NJIT,GWC,471,2011,1,30062
+NJIT,GWC,471,2012,1,30062
+NJIT,GWC,471,2013,1,30156
+NJIT,Independent,471,2015,1,0
+NJIT,ASUN,471,2016,1,920
+NJIT,ASUN,471,2017,1,920
+NJIT,ASUN,471,2018,1,920
+NJIT,ASUN,471,2019,1,920
+Norfolk St.,MEAC,485,2002,1,876
+Norfolk St.,MEAC,485,2003,1,876
+Norfolk St.,MEAC,485,2004,1,876
+Norfolk St.,MEAC,485,2005,1,876
+Norfolk St.,MEAC,485,2006,1,876
+Norfolk St.,MEAC,485,2007,1,876
+Norfolk St.,MEAC,485,2008,1,876
+Norfolk St.,MEAC,485,2009,1,876
+Norfolk St.,MEAC,485,2010,1,876
+Norfolk St.,MEAC,485,2011,1,876
+Norfolk St.,MEAC,485,2012,1,876
+Norfolk St.,MEAC,485,2013,1,876
+Norfolk St.,MEAC,485,2014,1,876
+Norfolk St.,MEAC,485,2015,1,876
+Norfolk St.,MEAC,485,2016,1,876
+Norfolk St.,MEAC,485,2017,1,876
+Norfolk St.,MEAC,485,2018,1,876
+Norfolk St.,MEAC,485,2019,1,876
+North Ala.,ASUN,487,2019,1,920
+North Carolina,ACC,457,2002,1,821
+North Carolina,ACC,457,2003,1,821
+North Carolina,ACC,457,2004,1,821
+North Carolina,ACC,457,2005,1,821
+North Carolina,ACC,457,2006,1,821
+North Carolina,ACC,457,2007,1,821
+North Carolina,ACC,457,2008,1,821
+North Carolina,ACC,457,2009,1,821
+North Carolina,ACC,457,2010,1,821
+North Carolina,ACC,457,2011,1,821
+North Carolina,ACC,457,2012,1,821
+North Carolina,ACC,457,2013,1,821
+North Carolina,ACC,457,2014,1,821
+North Carolina,ACC,457,2015,1,821
+North Carolina,ACC,457,2016,1,821
+North Carolina,ACC,457,2017,1,821
+North Carolina,ACC,457,2018,1,821
+North Carolina,ACC,457,2019,1,821
+North Dakota,Independent,494,2009,1,0
+North Dakota,GWC,494,2010,1,30062
+North Dakota,GWC,494,2011,1,30062
+North Dakota,GWC,494,2012,1,30062
+North Dakota,GWC,494,2013,1,30156
+North Dakota,WAC,494,2014,1,923
+North Dakota,WAC,494,2015,1,923
+North Dakota,WAC,494,2016,1,923
+North Dakota St.,Summit League,493,2008,1,819
+North Dakota St.,Summit League,493,2009,1,819
+North Dakota St.,Summit League,493,2010,1,819
+North Dakota St.,Summit League,493,2011,1,819
+North Dakota St.,Summit League,493,2012,1,819
+North Dakota St.,Summit League,493,2013,1,819
+North Dakota St.,Summit League,493,2014,1,819
+North Dakota St.,Summit League,493,2015,1,819
+North Dakota St.,Summit League,493,2016,1,819
+North Dakota St.,Summit League,493,2017,1,819
+North Dakota St.,Summit League,493,2018,1,819
+North Dakota St.,Summit League,493,2019,1,819
+North Florida,Independent,2711,2006,1,0
+North Florida,Independent,2711,2007,1,0
+North Florida,ASUN,2711,2008,1,920
+North Florida,ASUN,2711,2009,1,920
+North Florida,ASUN,2711,2010,1,920
+North Florida,ASUN,2711,2011,1,920
+North Florida,ASUN,2711,2012,1,920
+North Florida,ASUN,2711,2013,1,920
+North Florida,ASUN,2711,2014,1,920
+North Florida,ASUN,2711,2015,1,920
+North Florida,ASUN,2711,2016,1,920
+North Florida,ASUN,2711,2017,1,920
+North Florida,ASUN,2711,2018,1,920
+North Florida,ASUN,2711,2019,1,920
+North Greenville,Independent,9223,2005,1,0
+North Greenville,Independent,9223,2006,1,0
+North Greenville,Independent,9223,2007,1,0
+North Greenville,Independent,9223,2008,1,0
+North Greenville,Independent,9223,2009,1,0
+Northeastern,America East,500,2002,1,845
+Northeastern,America East,500,2003,1,845
+Northeastern,America East,500,2004,1,845
+Northeastern,America East,500,2005,1,845
+Northeastern,CAA,500,2006,1,837
+Northeastern,CAA,500,2007,1,837
+Northeastern,CAA,500,2008,1,837
+Northeastern,CAA,500,2009,1,837
+Northeastern,CAA,500,2010,1,837
+Northeastern,CAA,500,2011,1,837
+Northeastern,CAA,500,2012,1,837
+Northeastern,CAA,500,2013,1,837
+Northeastern,CAA,500,2014,1,837
+Northeastern,CAA,500,2015,1,837
+Northeastern,CAA,500,2016,1,837
+Northeastern,CAA,500,2017,1,837
+Northeastern,CAA,500,2018,1,837
+Northeastern,CAA,500,2019,1,837
+Northern Colo.,Independent,502,2004,1,0
+Northern Colo.,Independent,502,2008,1,0
+Northern Colo.,Independent,502,2009,1,0
+Northern Colo.,GWC,502,2010,1,30062
+Northern Colo.,GWC,502,2011,1,30062
+Northern Colo.,GWC,502,2012,1,30062
+Northern Colo.,GWC,502,2013,1,30156
+Northern Colo.,WAC,502,2014,1,923
+Northern Colo.,WAC,502,2015,1,923
+Northern Colo.,WAC,502,2016,1,923
+Northern Colo.,WAC,502,2017,1,923
+Northern Colo.,WAC,502,2018,1,923
+Northern Colo.,WAC,502,2019,1,923
+Northern Ill.,MAC,503,2002,1,875
+Northern Ill.,MAC,503,2003,1,875
+Northern Ill.,MAC,503,2004,1,875
+Northern Ill.,MAC,503,2005,1,875
+Northern Ill.,MAC,503,2006,1,875
+Northern Ill.,MAC,503,2007,1,875
+Northern Ill.,MAC,503,2008,1,875
+Northern Ill.,MAC,503,2009,1,875
+Northern Ill.,MAC,503,2010,1,875
+Northern Ill.,MAC,503,2011,1,875
+Northern Ill.,MAC,503,2012,1,875
+Northern Ill.,MAC,503,2013,1,875
+Northern Ill.,MAC,503,2014,1,875
+Northern Ill.,MAC,503,2015,1,875
+Northern Ill.,MAC,503,2016,1,875
+Northern Ill.,MAC,503,2017,1,875
+Northern Ill.,MAC,503,2018,1,875
+Northern Ill.,MAC,503,2019,1,875
+Northern Ky.,ASUN,505,2013,1,920
+Northern Ky.,ASUN,505,2014,1,920
+Northern Ky.,ASUN,505,2015,1,920
+Northern Ky.,Horizon,505,2016,1,881
+Northern Ky.,Horizon,505,2017,1,881
+Northern Ky.,Horizon,505,2018,1,881
+Northern Ky.,Horizon,505,2019,1,881
+Northland,Independent,1267,2006,1,0
+Northland,Independent,1267,2007,1,0
+Northland,Independent,1267,2008,1,0
+Northwestern,Big Ten,509,2002,1,827
+Northwestern,Big Ten,509,2003,1,827
+Northwestern,Big Ten,509,2004,1,827
+Northwestern,Big Ten,509,2005,1,827
+Northwestern,Big Ten,509,2006,1,827
+Northwestern,Big Ten,509,2007,1,827
+Northwestern,Big Ten,509,2008,1,827
+Northwestern,Big Ten,509,2009,1,827
+Northwestern,Big Ten,509,2010,1,827
+Northwestern,Big Ten,509,2011,1,827
+Northwestern,Big Ten,509,2012,1,827
+Northwestern,Big Ten,509,2013,1,827
+Northwestern,Big Ten,509,2014,1,827
+Northwestern,Big Ten,509,2015,1,827
+Northwestern,Big Ten,509,2016,1,827
+Northwestern,Big Ten,509,2017,1,827
+Northwestern,Big Ten,509,2018,1,827
+Northwestern,Big Ten,509,2019,1,827
+Northwestern-St. Paul,Independent,30031,2008,1,0
+Northwestern St.,Southland,508,2002,1,914
+Northwestern St.,Southland,508,2003,1,914
+Northwestern St.,Southland,508,2004,1,914
+Northwestern St.,Southland,508,2005,1,914
+Northwestern St.,Southland,508,2006,1,914
+Northwestern St.,Southland,508,2007,1,914
+Northwestern St.,Southland,508,2008,1,914
+Northwestern St.,Southland,508,2009,1,914
+Northwestern St.,Southland,508,2010,1,914
+Northwestern St.,Southland,508,2011,1,914
+Northwestern St.,Southland,508,2012,1,914
+Northwestern St.,Southland,508,2013,1,914
+Northwestern St.,Southland,508,2014,1,914
+Northwestern St.,Southland,508,2015,1,914
+Northwestern St.,Southland,508,2016,1,914
+Northwestern St.,Southland,508,2017,1,914
+Northwestern St.,Southland,508,2018,1,914
+Northwestern St.,Southland,508,2019,1,914
+Notre Dame,AAC,513,2002,1,823
+Notre Dame,AAC,513,2003,1,823
+Notre Dame,AAC,513,2004,1,823
+Notre Dame,AAC,513,2005,1,823
+Notre Dame,AAC,513,2006,1,823
+Notre Dame,AAC,513,2007,1,823
+Notre Dame,AAC,513,2008,1,823
+Notre Dame,AAC,513,2009,1,823
+Notre Dame,AAC,513,2010,1,823
+Notre Dame,AAC,513,2011,1,823
+Notre Dame,AAC,513,2012,1,823
+Notre Dame,AAC,513,2013,1,823
+Notre Dame,ACC,513,2014,1,821
+Notre Dame,ACC,513,2015,1,821
+Notre Dame,ACC,513,2016,1,821
+Notre Dame,ACC,513,2017,1,821
+Notre Dame,ACC,513,2018,1,821
+Notre Dame,ACC,513,2019,1,821
+Nova Southeastern,Independent,24639,2003,1,0
+NYIT,ECAC,477,2002,1,847
+NYIT,Independent,477,2003,1,0
+NYIT,Independent,477,2004,1,0
+NYIT,Independent,477,2005,1,0
+NYIT,Independent,477,2006,1,0
+NYIT,Independent,477,2007,1,0
+NYIT,Independent,477,2008,1,0
+NYIT,Independent,477,2009,1,0
+NYIT,GWC,477,2010,1,30062
+NYIT,GWC,477,2011,1,30062
+NYIT,GWC,477,2012,1,30062
+NYIT,GWC,477,2013,1,30156
+NYIT,Independent,477,2015,1,0
+NYIT,Independent,477,2016,1,0
+NYIT,Independent,477,2017,1,0
+Oakland,Summit League,514,2002,1,819
+Oakland,Summit League,514,2003,1,819
+Oakland,Summit League,514,2004,1,819
+Oakland,Summit League,514,2005,1,819
+Oakland,Summit League,514,2006,1,819
+Oakland,Summit League,514,2007,1,819
+Oakland,Summit League,514,2008,1,819
+Oakland,Summit League,514,2009,1,819
+Oakland,Summit League,514,2010,1,819
+Oakland,Summit League,514,2011,1,819
+Oakland,Summit League,514,2012,1,819
+Oakland,Summit League,514,2013,1,819
+Oakland,Horizon,514,2014,1,881
+Oakland,Horizon,514,2015,1,881
+Oakland,Horizon,514,2016,1,881
+Oakland,Horizon,514,2017,1,881
+Oakland,Horizon,514,2018,1,881
+Oakland,Horizon,514,2019,1,881
+Oakland City,Independent,1278,2002,1,0
+Oakland City,Independent,1278,2004,1,0
+Oakland City,Independent,1278,2005,1,0
+Oakland City,Independent,1278,2006,1,0
+Oakland City,Independent,1278,2007,1,0
+Oakland City,Independent,1278,2008,1,0
+Oakland City,Independent,1278,2009,1,0
+Oakland City,Independent,1278,2015,1,0
+Oakland City,Independent,1278,2016,1,0
+Oakland City,Independent,1278,2017,1,0
+Ohio,MAC,519,2002,1,875
+Ohio,MAC,519,2003,1,875
+Ohio,MAC,519,2004,1,875
+Ohio,MAC,519,2005,1,875
+Ohio,MAC,519,2006,1,875
+Ohio,MAC,519,2007,1,875
+Ohio,MAC,519,2008,1,875
+Ohio,MAC,519,2009,1,875
+Ohio,MAC,519,2010,1,875
+Ohio,MAC,519,2011,1,875
+Ohio,MAC,519,2012,1,875
+Ohio,MAC,519,2013,1,875
+Ohio,MAC,519,2014,1,875
+Ohio,MAC,519,2015,1,875
+Ohio,MAC,519,2016,1,875
+Ohio,MAC,519,2017,1,875
+Ohio,MAC,519,2018,1,875
+Ohio,MAC,519,2019,1,875
+Ohio St.,Big Ten,518,2002,1,827
+Ohio St.,Big Ten,518,2003,1,827
+Ohio St.,Big Ten,518,2004,1,827
+Ohio St.,Big Ten,518,2005,1,827
+Ohio St.,Big Ten,518,2006,1,827
+Ohio St.,Big Ten,518,2007,1,827
+Ohio St.,Big Ten,518,2008,1,827
+Ohio St.,Big Ten,518,2009,1,827
+Ohio St.,Big Ten,518,2010,1,827
+Ohio St.,Big Ten,518,2011,1,827
+Ohio St.,Big Ten,518,2012,1,827
+Ohio St.,Big Ten,518,2013,1,827
+Ohio St.,Big Ten,518,2014,1,827
+Ohio St.,Big Ten,518,2015,1,827
+Ohio St.,Big Ten,518,2016,1,827
+Ohio St.,Big Ten,518,2017,1,827
+Ohio St.,Big Ten,518,2018,1,827
+Ohio St.,Big Ten,518,2019,1,827
+Okla. Panhandle,Independent,24342,2003,1,0
+Okla. Panhandle,Independent,24342,2004,1,0
+Oklahoma,Big 12,522,2002,1,25354
+Oklahoma,Big 12,522,2003,1,25354
+Oklahoma,Big 12,522,2004,1,25354
+Oklahoma,Big 12,522,2005,1,25354
+Oklahoma,Big 12,522,2006,1,25354
+Oklahoma,Big 12,522,2007,1,25354
+Oklahoma,Big 12,522,2008,1,25354
+Oklahoma,Big 12,522,2009,1,25354
+Oklahoma,Big 12,522,2010,1,25354
+Oklahoma,Big 12,522,2011,1,25354
+Oklahoma,Big 12,522,2012,1,25354
+Oklahoma,Big 12,522,2013,1,25354
+Oklahoma,Big 12,522,2014,1,25354
+Oklahoma,Big 12,522,2015,1,25354
+Oklahoma,Big 12,522,2016,1,25354
+Oklahoma,Big 12,522,2017,1,25354
+Oklahoma,Big 12,522,2018,1,25354
+Oklahoma,Big 12,522,2019,1,25354
+Oklahoma St.,Big 12,521,2002,1,25354
+Oklahoma St.,Big 12,521,2003,1,25354
+Oklahoma St.,Big 12,521,2004,1,25354
+Oklahoma St.,Big 12,521,2005,1,25354
+Oklahoma St.,Big 12,521,2006,1,25354
+Oklahoma St.,Big 12,521,2007,1,25354
+Oklahoma St.,Big 12,521,2008,1,25354
+Oklahoma St.,Big 12,521,2009,1,25354
+Oklahoma St.,Big 12,521,2010,1,25354
+Oklahoma St.,Big 12,521,2011,1,25354
+Oklahoma St.,Big 12,521,2012,1,25354
+Oklahoma St.,Big 12,521,2013,1,25354
+Oklahoma St.,Big 12,521,2014,1,25354
+Oklahoma St.,Big 12,521,2015,1,25354
+Oklahoma St.,Big 12,521,2016,1,25354
+Oklahoma St.,Big 12,521,2017,1,25354
+Oklahoma St.,Big 12,521,2018,1,25354
+Oklahoma St.,Big 12,521,2019,1,25354
+Old Dominion,CAA,523,2002,1,837
+Old Dominion,CAA,523,2003,1,837
+Old Dominion,CAA,523,2004,1,837
+Old Dominion,CAA,523,2005,1,837
+Old Dominion,CAA,523,2006,1,837
+Old Dominion,CAA,523,2007,1,837
+Old Dominion,CAA,523,2008,1,837
+Old Dominion,CAA,523,2009,1,837
+Old Dominion,CAA,523,2010,1,837
+Old Dominion,CAA,523,2011,1,837
+Old Dominion,CAA,523,2012,1,837
+Old Dominion,CAA,523,2013,1,837
+Old Dominion,C-USA,523,2014,1,24312
+Old Dominion,C-USA,523,2015,1,24312
+Old Dominion,C-USA,523,2016,1,24312
+Old Dominion,C-USA,523,2017,1,24312
+Old Dominion,C-USA,523,2018,1,24312
+Old Dominion,C-USA,523,2019,1,24312
+Ole Miss,SEC,433,2002,1,911
+Ole Miss,SEC,433,2003,1,911
+Ole Miss,SEC,433,2004,1,911
+Ole Miss,SEC,433,2005,1,911
+Ole Miss,SEC,433,2006,1,911
+Ole Miss,SEC,433,2007,1,911
+Ole Miss,SEC,433,2008,1,911
+Ole Miss,SEC,433,2009,1,911
+Ole Miss,SEC,433,2010,1,911
+Ole Miss,SEC,433,2011,1,911
+Ole Miss,SEC,433,2012,1,911
+Ole Miss,SEC,433,2013,1,911
+Ole Miss,SEC,433,2014,1,911
+Ole Miss,SEC,433,2015,1,911
+Ole Miss,SEC,433,2016,1,911
+Ole Miss,SEC,433,2017,1,911
+Ole Miss,SEC,433,2018,1,911
+Ole Miss,SEC,433,2019,1,911
+Omaha,Summit League,464,2013,1,819
+Omaha,Summit League,464,2014,1,819
+Omaha,Summit League,464,2015,1,819
+Omaha,Summit League,464,2016,1,819
+Omaha,Summit League,464,2017,1,819
+Omaha,Summit League,464,2018,1,819
+Omaha,Summit League,464,2019,1,819
+Oral Roberts,Summit League,527,2002,1,819
+Oral Roberts,Summit League,527,2003,1,819
+Oral Roberts,Summit League,527,2004,1,819
+Oral Roberts,Summit League,527,2005,1,819
+Oral Roberts,Summit League,527,2006,1,819
+Oral Roberts,Summit League,527,2007,1,819
+Oral Roberts,Summit League,527,2008,1,819
+Oral Roberts,Summit League,527,2009,1,819
+Oral Roberts,Summit League,527,2010,1,819
+Oral Roberts,Summit League,527,2011,1,819
+Oral Roberts,Summit League,527,2012,1,819
+Oral Roberts,Southland,527,2013,1,914
+Oral Roberts,Southland,527,2014,1,914
+Oral Roberts,Summit League,527,2015,1,819
+Oral Roberts,Summit League,527,2016,1,819
+Oral Roberts,Summit League,527,2017,1,819
+Oral Roberts,Summit League,527,2018,1,819
+Oral Roberts,Summit League,527,2019,1,819
+Oregon,Pac-12,529,2009,1,905
+Oregon,Pac-12,529,2010,1,905
+Oregon,Pac-12,529,2011,1,905
+Oregon,Pac-12,529,2012,1,905
+Oregon,Pac-12,529,2013,1,905
+Oregon,Pac-12,529,2014,1,905
+Oregon,Pac-12,529,2015,1,905
+Oregon,Pac-12,529,2016,1,905
+Oregon,Pac-12,529,2017,1,905
+Oregon,Pac-12,529,2018,1,905
+Oregon,Pac-12,529,2019,1,905
+Oregon St.,Pac-12,528,2002,1,905
+Oregon St.,Pac-12,528,2003,1,905
+Oregon St.,Pac-12,528,2004,1,905
+Oregon St.,Pac-12,528,2005,1,905
+Oregon St.,Pac-12,528,2006,1,905
+Oregon St.,Pac-12,528,2007,1,905
+Oregon St.,Pac-12,528,2008,1,905
+Oregon St.,Pac-12,528,2009,1,905
+Oregon St.,Pac-12,528,2010,1,905
+Oregon St.,Pac-12,528,2011,1,905
+Oregon St.,Pac-12,528,2012,1,905
+Oregon St.,Pac-12,528,2013,1,905
+Oregon St.,Pac-12,528,2014,1,905
+Oregon St.,Pac-12,528,2015,1,905
+Oregon St.,Pac-12,528,2016,1,905
+Oregon St.,Pac-12,528,2017,1,905
+Oregon St.,Pac-12,528,2018,1,905
+Oregon St.,Pac-12,528,2019,1,905
+P.R.-Bayamon,Independent,2682,2015,1,0
+P.R.-Bayamon,Independent,2682,2016,1,0
+P.R.-Bayamon,Independent,2682,2017,1,0
+P.R.-Cayey,Independent,1321,2015,1,0
+P.R.-Cayey,Independent,1321,2016,1,0
+P.R.-Cayey,Independent,1321,2017,1,0
+P.R.-Humacao,Independent,27859,2015,1,0
+P.R.-Humacao,Independent,27859,2016,1,0
+P.R.-Humacao,Independent,27859,2017,1,0
+P.R.-Mayaguez,Independent,24361,2015,1,0
+P.R.-Mayaguez,Independent,24361,2016,1,0
+P.R.-Mayaguez,Independent,24361,2017,1,0
+P.R.-Rio Piedras,Independent,2716,2015,1,0
+P.R.-Rio Piedras,Independent,2716,2016,1,0
+P.R.-Rio Piedras,Independent,2716,2017,1,0
+Pace,Independent,533,2002,1,0
+Pace,Independent,533,2003,1,0
+Pace,Independent,533,2004,1,0
+Pace,Independent,533,2005,1,0
+Pace,Independent,533,2006,1,0
+Pacific,Big West,534,2002,1,904
+Pacific,Big West,534,2003,1,904
+Pacific,Big West,534,2004,1,904
+Pacific,Big West,534,2005,1,904
+Pacific,Big West,534,2006,1,904
+Pacific,Big West,534,2007,1,904
+Pacific,Big West,534,2008,1,904
+Pacific,Big West,534,2009,1,904
+Pacific,Big West,534,2010,1,904
+Pacific,Big West,534,2011,1,904
+Pacific,Big West,534,2012,1,904
+Pacific,Big West,534,2013,1,904
+Pacific,WCC,534,2014,1,922
+Pacific,WCC,534,2015,1,922
+Pacific,WCC,534,2016,1,922
+Pacific,WCC,534,2017,1,922
+Pacific,WCC,534,2018,1,922
+Pacific,WCC,534,2019,1,922
+Palm Beach Atl.,Independent,30045,2008,1,0
+Palm Beach Atl.,Independent,30045,2009,1,0
+Palm Beach Atl.,Independent,30045,2015,1,0
+Palm Beach Atl.,Independent,30045,2016,1,0
+Palm Beach Atl.,Independent,30045,2017,1,0
+Penn,Ivy League,540,2002,1,865
+Penn,Ivy League,540,2003,1,865
+Penn,Ivy League,540,2004,1,865
+Penn,Ivy League,540,2005,1,865
+Penn,Ivy League,540,2006,1,865
+Penn,Ivy League,540,2007,1,865
+Penn,Ivy League,540,2008,1,865
+Penn,Ivy League,540,2009,1,865
+Penn,Ivy League,540,2010,1,865
+Penn,Ivy League,540,2011,1,865
+Penn,Ivy League,540,2012,1,865
+Penn,Ivy League,540,2013,1,865
+Penn,Ivy League,540,2014,1,865
+Penn,Ivy League,540,2015,1,865
+Penn,Ivy League,540,2016,1,865
+Penn,Ivy League,540,2017,1,865
+Penn,Ivy League,540,2018,1,865
+Penn,Ivy League,540,2019,1,865
+Penn St.,Big Ten,539,2002,1,827
+Penn St.,Big Ten,539,2003,1,827
+Penn St.,Big Ten,539,2004,1,827
+Penn St.,Big Ten,539,2005,1,827
+Penn St.,Big Ten,539,2006,1,827
+Penn St.,Big Ten,539,2007,1,827
+Penn St.,Big Ten,539,2008,1,827
+Penn St.,Big Ten,539,2009,1,827
+Penn St.,Big Ten,539,2010,1,827
+Penn St.,Big Ten,539,2011,1,827
+Penn St.,Big Ten,539,2012,1,827
+Penn St.,Big Ten,539,2013,1,827
+Penn St.,Big Ten,539,2014,1,827
+Penn St.,Big Ten,539,2015,1,827
+Penn St.,Big Ten,539,2016,1,827
+Penn St.,Big Ten,539,2017,1,827
+Penn St.,Big Ten,539,2018,1,827
+Penn St.,Big Ten,539,2019,1,827
+Penn St.-Behrend,ECAC,538,2002,1,847
+Pepperdine,WCC,541,2002,1,922
+Pepperdine,WCC,541,2003,1,922
+Pepperdine,WCC,541,2004,1,922
+Pepperdine,WCC,541,2005,1,922
+Pepperdine,WCC,541,2006,1,922
+Pepperdine,WCC,541,2007,1,922
+Pepperdine,WCC,541,2008,1,922
+Pepperdine,WCC,541,2009,1,922
+Pepperdine,WCC,541,2010,1,922
+Pepperdine,WCC,541,2011,1,922
+Pepperdine,WCC,541,2012,1,922
+Pepperdine,WCC,541,2013,1,922
+Pepperdine,WCC,541,2014,1,922
+Pepperdine,WCC,541,2015,1,922
+Pepperdine,WCC,541,2016,1,922
+Pepperdine,WCC,541,2017,1,922
+Pepperdine,WCC,541,2018,1,922
+Pepperdine,WCC,541,2019,1,922
+Piedmont,Independent,21830,2004,1,0
+Pitt.-Johnstown,Independent,546,2002,1,0
+Pitt.-Johnstown,Independent,546,2003,1,0
+Pitt.-Johnstown,Independent,546,2004,1,0
+Pitt.-Johnstown,Independent,546,2005,1,0
+Pitt.-Johnstown,Independent,546,2006,1,0
+Pittsburgh,AAC,545,2002,1,823
+Pittsburgh,AAC,545,2003,1,823
+Pittsburgh,AAC,545,2004,1,823
+Pittsburgh,AAC,545,2005,1,823
+Pittsburgh,AAC,545,2006,1,823
+Pittsburgh,AAC,545,2007,1,823
+Pittsburgh,AAC,545,2008,1,823
+Pittsburgh,AAC,545,2009,1,823
+Pittsburgh,AAC,545,2010,1,823
+Pittsburgh,AAC,545,2011,1,823
+Pittsburgh,AAC,545,2012,1,823
+Pittsburgh,AAC,545,2013,1,823
+Pittsburgh,ACC,545,2014,1,821
+Pittsburgh,ACC,545,2015,1,821
+Pittsburgh,ACC,545,2016,1,821
+Pittsburgh,ACC,545,2017,1,821
+Pittsburgh,ACC,545,2018,1,821
+Pittsburgh,ACC,545,2019,1,821
+Portland,WCC,551,2002,1,922
+Portland,WCC,551,2003,1,922
+Portland,WCC,551,2004,1,922
+Portland,WCC,551,2005,1,922
+Portland,WCC,551,2006,1,922
+Portland,WCC,551,2007,1,922
+Portland,WCC,551,2008,1,922
+Portland,WCC,551,2009,1,922
+Portland,WCC,551,2010,1,922
+Portland,WCC,551,2011,1,922
+Portland,WCC,551,2012,1,922
+Portland,WCC,551,2013,1,922
+Portland,WCC,551,2014,1,922
+Portland,WCC,551,2015,1,922
+Portland,WCC,551,2016,1,922
+Portland,WCC,551,2017,1,922
+Portland,WCC,551,2018,1,922
+Portland,WCC,551,2019,1,922
+Prairie View,SWAC,553,2002,1,916
+Prairie View,SWAC,553,2003,1,916
+Prairie View,SWAC,553,2004,1,916
+Prairie View,SWAC,553,2005,1,916
+Prairie View,SWAC,553,2006,1,916
+Prairie View,SWAC,553,2007,1,916
+Prairie View,SWAC,553,2008,1,916
+Prairie View,SWAC,553,2009,1,916
+Prairie View,SWAC,553,2010,1,916
+Prairie View,SWAC,553,2011,1,916
+Prairie View,SWAC,553,2012,1,916
+Prairie View,SWAC,553,2013,1,916
+Prairie View,SWAC,553,2014,1,916
+Prairie View,SWAC,553,2015,1,916
+Prairie View,SWAC,553,2016,1,916
+Prairie View,SWAC,553,2017,1,916
+Prairie View,SWAC,553,2018,1,916
+Prairie View,SWAC,553,2019,1,916
+Presbyterian,Big South,1320,2008,1,826
+Presbyterian,Big South,1320,2009,1,826
+Presbyterian,Big South,1320,2010,1,826
+Presbyterian,Big South,1320,2011,1,826
+Presbyterian,Big South,1320,2012,1,826
+Presbyterian,Big South,1320,2013,1,826
+Presbyterian,Big South,1320,2014,1,826
+Presbyterian,Big South,1320,2015,1,826
+Presbyterian,Big South,1320,2016,1,826
+Presbyterian,Big South,1320,2017,1,826
+Presbyterian,Big South,1320,2018,1,826
+Presbyterian,Big South,1320,2019,1,826
+Presentation,Independent,30034,2006,1,0
+Presentation,Independent,30034,2007,1,0
+Presentation,Independent,30034,2008,1,0
+Presentation,Independent,30034,2009,1,0
+Princeton,Ivy League,554,2002,1,865
+Princeton,Ivy League,554,2003,1,865
+Princeton,Ivy League,554,2004,1,865
+Princeton,Ivy League,554,2005,1,865
+Princeton,Ivy League,554,2006,1,865
+Princeton,Ivy League,554,2007,1,865
+Princeton,Ivy League,554,2008,1,865
+Princeton,Ivy League,554,2009,1,865
+Princeton,Ivy League,554,2010,1,865
+Princeton,Ivy League,554,2011,1,865
+Princeton,Ivy League,554,2012,1,865
+Princeton,Ivy League,554,2013,1,865
+Princeton,Ivy League,554,2014,1,865
+Princeton,Ivy League,554,2015,1,865
+Princeton,Ivy League,554,2016,1,865
+Princeton,Ivy League,554,2017,1,865
+Princeton,Ivy League,554,2018,1,865
+Princeton,Ivy League,554,2019,1,865
+Purdue,Big Ten,559,2002,1,827
+Purdue,Big Ten,559,2003,1,827
+Purdue,Big Ten,559,2004,1,827
+Purdue,Big Ten,559,2005,1,827
+Purdue,Big Ten,559,2006,1,827
+Purdue,Big Ten,559,2007,1,827
+Purdue,Big Ten,559,2008,1,827
+Purdue,Big Ten,559,2009,1,827
+Purdue,Big Ten,559,2010,1,827
+Purdue,Big Ten,559,2011,1,827
+Purdue,Big Ten,559,2012,1,827
+Purdue,Big Ten,559,2013,1,827
+Purdue,Big Ten,559,2014,1,827
+Purdue,Big Ten,559,2015,1,827
+Purdue,Big Ten,559,2016,1,827
+Purdue,Big Ten,559,2017,1,827
+Purdue,Big Ten,559,2018,1,827
+Purdue,Big Ten,559,2019,1,827
+Purdue Fort Wayne,Independent,308,2002,1,0
+Purdue Fort Wayne,Independent,308,2003,1,0
+Purdue Fort Wayne,Independent,308,2004,1,0
+Purdue Fort Wayne,Independent,308,2005,1,0
+Purdue Fort Wayne,Independent,308,2006,1,0
+Purdue Fort Wayne,Independent,308,2007,1,0
+Purdue Fort Wayne,Summit League,308,2008,1,819
+Purdue Fort Wayne,Summit League,308,2009,1,819
+Purdue Fort Wayne,Summit League,308,2010,1,819
+Purdue Fort Wayne,Summit League,308,2011,1,819
+Purdue Fort Wayne,Summit League,308,2012,1,819
+Purdue Fort Wayne,Summit League,308,2013,1,819
+Purdue Fort Wayne,Summit League,308,2014,1,819
+Purdue Fort Wayne,Summit League,308,2015,1,819
+Purdue Fort Wayne,Summit League,308,2016,1,819
+Purdue Fort Wayne,Summit League,308,2017,1,819
+Purdue Fort Wayne,Summit League,308,2018,1,819
+Purdue Fort Wayne,Summit League,308,2019,1,819
+Quinnipiac,NEC,562,2002,1,846
+Quinnipiac,NEC,562,2003,1,846
+Quinnipiac,NEC,562,2004,1,846
+Quinnipiac,NEC,562,2005,1,846
+Quinnipiac,NEC,562,2006,1,846
+Quinnipiac,NEC,562,2007,1,846
+Quinnipiac,NEC,562,2008,1,846
+Quinnipiac,NEC,562,2009,1,846
+Quinnipiac,NEC,562,2010,1,846
+Quinnipiac,NEC,562,2011,1,846
+Quinnipiac,NEC,562,2012,1,846
+Quinnipiac,NEC,562,2013,1,846
+Quinnipiac,MAAC,562,2014,1,871
+Quinnipiac,MAAC,562,2015,1,871
+Quinnipiac,MAAC,562,2016,1,871
+Quinnipiac,MAAC,562,2017,1,871
+Quinnipiac,MAAC,562,2018,1,871
+Quinnipiac,MAAC,562,2019,1,871
+Radford,Big South,563,2002,1,826
+Radford,Big South,563,2003,1,826
+Radford,Big South,563,2004,1,826
+Radford,Big South,563,2005,1,826
+Radford,Big South,563,2006,1,826
+Radford,Big South,563,2007,1,826
+Radford,Big South,563,2008,1,826
+Radford,Big South,563,2009,1,826
+Radford,Big South,563,2010,1,826
+Radford,Big South,563,2011,1,826
+Radford,Big South,563,2012,1,826
+Radford,Big South,563,2013,1,826
+Radford,Big South,563,2014,1,826
+Radford,Big South,563,2015,1,826
+Radford,Big South,563,2016,1,826
+Radford,Big South,563,2017,1,826
+Radford,Big South,563,2018,1,826
+Radford,Big South,563,2019,1,826
+Rhode Island,Atlantic 10,572,2002,1,820
+Rhode Island,Atlantic 10,572,2003,1,820
+Rhode Island,Atlantic 10,572,2004,1,820
+Rhode Island,Atlantic 10,572,2005,1,820
+Rhode Island,Atlantic 10,572,2006,1,820
+Rhode Island,Atlantic 10,572,2007,1,820
+Rhode Island,Atlantic 10,572,2008,1,820
+Rhode Island,Atlantic 10,572,2009,1,820
+Rhode Island,Atlantic 10,572,2010,1,820
+Rhode Island,Atlantic 10,572,2011,1,820
+Rhode Island,Atlantic 10,572,2012,1,820
+Rhode Island,Atlantic 10,572,2013,1,820
+Rhode Island,Atlantic 10,572,2014,1,820
+Rhode Island,Atlantic 10,572,2015,1,820
+Rhode Island,Atlantic 10,572,2016,1,820
+Rhode Island,Atlantic 10,572,2017,1,820
+Rhode Island,Atlantic 10,572,2018,1,820
+Rhode Island,Atlantic 10,572,2019,1,820
+Rice,WAC,574,2002,1,923
+Rice,WAC,574,2003,1,923
+Rice,WAC,574,2004,1,923
+Rice,WAC,574,2005,1,923
+Rice,C-USA,574,2006,1,24312
+Rice,C-USA,574,2007,1,24312
+Rice,C-USA,574,2008,1,24312
+Rice,C-USA,574,2009,1,24312
+Rice,C-USA,574,2010,1,24312
+Rice,C-USA,574,2011,1,24312
+Rice,C-USA,574,2012,1,24312
+Rice,C-USA,574,2013,1,24312
+Rice,C-USA,574,2014,1,24312
+Rice,C-USA,574,2015,1,24312
+Rice,C-USA,574,2016,1,24312
+Rice,C-USA,574,2017,1,24312
+Rice,C-USA,574,2018,1,24312
+Rice,C-USA,574,2019,1,24312
+Richmond,Atlantic 10,575,2002,1,820
+Richmond,Atlantic 10,575,2003,1,820
+Richmond,Atlantic 10,575,2004,1,820
+Richmond,Atlantic 10,575,2005,1,820
+Richmond,Atlantic 10,575,2006,1,820
+Richmond,Atlantic 10,575,2007,1,820
+Richmond,Atlantic 10,575,2008,1,820
+Richmond,Atlantic 10,575,2009,1,820
+Richmond,Atlantic 10,575,2010,1,820
+Richmond,Atlantic 10,575,2011,1,820
+Richmond,Atlantic 10,575,2012,1,820
+Richmond,Atlantic 10,575,2013,1,820
+Richmond,Atlantic 10,575,2014,1,820
+Richmond,Atlantic 10,575,2015,1,820
+Richmond,Atlantic 10,575,2016,1,820
+Richmond,Atlantic 10,575,2017,1,820
+Richmond,Atlantic 10,575,2018,1,820
+Richmond,Atlantic 10,575,2019,1,820
+Rider,MAAC,576,2002,1,871
+Rider,MAAC,576,2003,1,871
+Rider,MAAC,576,2004,1,871
+Rider,MAAC,576,2005,1,871
+Rider,MAAC,576,2006,1,871
+Rider,MAAC,576,2007,1,871
+Rider,MAAC,576,2008,1,871
+Rider,MAAC,576,2009,1,871
+Rider,MAAC,576,2010,1,871
+Rider,MAAC,576,2011,1,871
+Rider,MAAC,576,2012,1,871
+Rider,MAAC,576,2013,1,871
+Rider,MAAC,576,2014,1,871
+Rider,MAAC,576,2015,1,871
+Rider,MAAC,576,2016,1,871
+Rider,MAAC,576,2017,1,871
+Rider,MAAC,576,2018,1,871
+Rider,MAAC,576,2019,1,871
+RIT,ECAC,580,2002,1,847
+RIT,Independent,580,2003,1,0
+Rockhurst,Independent,1328,2003,1,0
+Rockhurst,Independent,1328,2004,1,0
+Rust,Independent,586,2006,1,0
+Rust,Independent,586,2007,1,0
+Rust,Independent,586,2008,1,0
+Rust,Independent,586,2017,1,0
+Rutgers,AAC,587,2002,1,823
+Rutgers,AAC,587,2003,1,823
+Rutgers,AAC,587,2004,1,823
+Rutgers,AAC,587,2005,1,823
+Rutgers,AAC,587,2006,1,823
+Rutgers,AAC,587,2007,1,823
+Rutgers,AAC,587,2008,1,823
+Rutgers,AAC,587,2009,1,823
+Rutgers,AAC,587,2010,1,823
+Rutgers,AAC,587,2011,1,823
+Rutgers,AAC,587,2012,1,823
+Rutgers,AAC,587,2013,1,823
+Rutgers,AAC,587,2014,1,823
+Rutgers,Big Ten,587,2015,1,827
+Rutgers,Big Ten,587,2016,1,827
+Rutgers,Big Ten,587,2017,1,827
+Rutgers,Big Ten,587,2018,1,827
+Rutgers,Big Ten,587,2019,1,827
+Sacramento St.,Big West,102,2002,1,904
+Sacramento St.,Independent,102,2003,1,0
+Sacramento St.,Independent,102,2004,1,0
+Sacramento St.,Independent,102,2005,1,0
+Sacramento St.,WAC,102,2006,1,923
+Sacramento St.,WAC,102,2007,1,923
+Sacramento St.,WAC,102,2008,1,923
+Sacramento St.,WAC,102,2009,1,923
+Sacramento St.,WAC,102,2010,1,923
+Sacramento St.,WAC,102,2011,1,923
+Sacramento St.,WAC,102,2012,1,923
+Sacramento St.,WAC,102,2013,1,923
+Sacramento St.,WAC,102,2014,1,923
+Sacramento St.,WAC,102,2015,1,923
+Sacramento St.,WAC,102,2016,1,923
+Sacramento St.,WAC,102,2017,1,923
+Sacramento St.,WAC,102,2018,1,923
+Sacramento St.,WAC,102,2019,1,923
+Sacred Heart,NEC,590,2002,1,846
+Sacred Heart,NEC,590,2003,1,846
+Sacred Heart,NEC,590,2004,1,846
+Sacred Heart,NEC,590,2005,1,846
+Sacred Heart,NEC,590,2006,1,846
+Sacred Heart,NEC,590,2007,1,846
+Sacred Heart,NEC,590,2008,1,846
+Sacred Heart,NEC,590,2009,1,846
+Sacred Heart,NEC,590,2010,1,846
+Sacred Heart,NEC,590,2011,1,846
+Sacred Heart,NEC,590,2012,1,846
+Sacred Heart,NEC,590,2013,1,846
+Sacred Heart,NEC,590,2014,1,846
+Sacred Heart,NEC,590,2015,1,846
+Sacred Heart,NEC,590,2016,1,846
+Sacred Heart,NEC,590,2017,1,846
+Sacred Heart,NEC,590,2018,1,846
+Sacred Heart,NEC,590,2019,1,846
+Saint Joseph's,Atlantic 10,606,2002,1,820
+Saint Joseph's,Atlantic 10,606,2003,1,820
+Saint Joseph's,Atlantic 10,606,2004,1,820
+Saint Joseph's,Atlantic 10,606,2005,1,820
+Saint Joseph's,Atlantic 10,606,2006,1,820
+Saint Joseph's,Atlantic 10,606,2007,1,820
+Saint Joseph's,Atlantic 10,606,2008,1,820
+Saint Joseph's,Atlantic 10,606,2009,1,820
+Saint Joseph's,Atlantic 10,606,2010,1,820
+Saint Joseph's,Atlantic 10,606,2011,1,820
+Saint Joseph's,Atlantic 10,606,2012,1,820
+Saint Joseph's,Atlantic 10,606,2013,1,820
+Saint Joseph's,Atlantic 10,606,2014,1,820
+Saint Joseph's,Atlantic 10,606,2015,1,820
+Saint Joseph's,Atlantic 10,606,2016,1,820
+Saint Joseph's,Atlantic 10,606,2017,1,820
+Saint Joseph's,Atlantic 10,606,2018,1,820
+Saint Joseph's,Atlantic 10,606,2019,1,820
+Saint Louis,C-USA,609,2002,1,24312
+Saint Louis,C-USA,609,2003,1,24312
+Saint Louis,C-USA,609,2004,1,24312
+Saint Louis,C-USA,609,2005,1,24312
+Saint Louis,Atlantic 10,609,2006,1,820
+Saint Louis,Atlantic 10,609,2007,1,820
+Saint Louis,Atlantic 10,609,2008,1,820
+Saint Louis,Atlantic 10,609,2009,1,820
+Saint Louis,Atlantic 10,609,2010,1,820
+Saint Louis,Atlantic 10,609,2011,1,820
+Saint Louis,Atlantic 10,609,2012,1,820
+Saint Louis,Atlantic 10,609,2013,1,820
+Saint Louis,Atlantic 10,609,2014,1,820
+Saint Louis,Atlantic 10,609,2015,1,820
+Saint Louis,Atlantic 10,609,2016,1,820
+Saint Louis,Atlantic 10,609,2017,1,820
+Saint Louis,Atlantic 10,609,2018,1,820
+Saint Louis,Atlantic 10,609,2019,1,820
+Saint Mary's (CA),WCC,610,2002,1,922
+Saint Mary's (CA),WCC,610,2003,1,922
+Saint Mary's (CA),WCC,610,2004,1,922
+Saint Mary's (CA),WCC,610,2005,1,922
+Saint Mary's (CA),WCC,610,2006,1,922
+Saint Mary's (CA),WCC,610,2007,1,922
+Saint Mary's (CA),WCC,610,2008,1,922
+Saint Mary's (CA),WCC,610,2009,1,922
+Saint Mary's (CA),WCC,610,2010,1,922
+Saint Mary's (CA),WCC,610,2011,1,922
+Saint Mary's (CA),WCC,610,2012,1,922
+Saint Mary's (CA),WCC,610,2013,1,922
+Saint Mary's (CA),WCC,610,2014,1,922
+Saint Mary's (CA),WCC,610,2015,1,922
+Saint Mary's (CA),WCC,610,2016,1,922
+Saint Mary's (CA),WCC,610,2017,1,922
+Saint Mary's (CA),WCC,610,2018,1,922
+Saint Mary's (CA),WCC,610,2019,1,922
+Saint Michael's,Independent,613,2003,1,0
+Saint Michael's,Independent,613,2004,1,0
+Saint Michael's,Independent,613,2005,1,0
+Saint Michael's,Independent,613,2006,1,0
+Saint Michael's,Independent,613,2007,1,0
+Saint Michael's,Independent,613,2008,1,0
+Saint Michael's,Independent,613,2009,1,0
+Saint Peter's,MAAC,617,2002,1,871
+Saint Peter's,MAAC,617,2003,1,871
+Saint Peter's,MAAC,617,2004,1,871
+Saint Peter's,MAAC,617,2005,1,871
+Saint Peter's,MAAC,617,2006,1,871
+Saint Peter's,MAAC,617,2007,1,871
+Saint Peter's,MAAC,617,2008,1,871
+Saint Peter's,MAAC,617,2009,1,871
+Saint Peter's,MAAC,617,2010,1,871
+Saint Peter's,MAAC,617,2011,1,871
+Saint Peter's,MAAC,617,2012,1,871
+Saint Peter's,MAAC,617,2013,1,871
+Saint Peter's,MAAC,617,2014,1,871
+Saint Peter's,MAAC,617,2015,1,871
+Saint Peter's,MAAC,617,2016,1,871
+Saint Peter's,MAAC,617,2017,1,871
+Saint Peter's,MAAC,617,2018,1,871
+Saint Peter's,MAAC,617,2019,1,871
+Salem (WV),Independent,19117,2017,1,0
+Sam Houston St.,Southland,624,2002,1,914
+Sam Houston St.,Southland,624,2003,1,914
+Sam Houston St.,Southland,624,2004,1,914
+Sam Houston St.,Southland,624,2005,1,914
+Sam Houston St.,Southland,624,2006,1,914
+Sam Houston St.,Southland,624,2007,1,914
+Sam Houston St.,Southland,624,2008,1,914
+Sam Houston St.,Southland,624,2009,1,914
+Sam Houston St.,Southland,624,2010,1,914
+Sam Houston St.,Southland,624,2011,1,914
+Sam Houston St.,Southland,624,2012,1,914
+Sam Houston St.,Southland,624,2013,1,914
+Sam Houston St.,Southland,624,2014,1,914
+Sam Houston St.,Southland,624,2015,1,914
+Sam Houston St.,Southland,624,2016,1,914
+Sam Houston St.,Southland,624,2017,1,914
+Sam Houston St.,Southland,624,2018,1,914
+Sam Houston St.,Southland,624,2019,1,914
+Samford,ASUN,625,2002,1,920
+Samford,ASUN,625,2003,1,920
+Samford,OVC,625,2004,1,902
+Samford,OVC,625,2005,1,902
+Samford,OVC,625,2006,1,902
+Samford,OVC,625,2007,1,902
+Samford,OVC,625,2008,1,902
+Samford,SoCon,625,2009,1,912
+Samford,SoCon,625,2010,1,912
+Samford,SoCon,625,2011,1,912
+Samford,SoCon,625,2012,1,912
+Samford,SoCon,625,2013,1,912
+Samford,SoCon,625,2014,1,912
+Samford,SoCon,625,2015,1,912
+Samford,SoCon,625,2016,1,912
+Samford,SoCon,625,2017,1,912
+Samford,SoCon,625,2018,1,912
+Samford,SoCon,625,2019,1,912
+San Diego,WCC,627,2002,1,922
+San Diego,WCC,627,2003,1,922
+San Diego,WCC,627,2004,1,922
+San Diego,WCC,627,2005,1,922
+San Diego,WCC,627,2006,1,922
+San Diego,WCC,627,2007,1,922
+San Diego,WCC,627,2008,1,922
+San Diego,WCC,627,2009,1,922
+San Diego,WCC,627,2010,1,922
+San Diego,WCC,627,2011,1,922
+San Diego,WCC,627,2012,1,922
+San Diego,WCC,627,2013,1,922
+San Diego,WCC,627,2014,1,922
+San Diego,WCC,627,2015,1,922
+San Diego,WCC,627,2016,1,922
+San Diego,WCC,627,2017,1,922
+San Diego,WCC,627,2018,1,922
+San Diego,WCC,627,2019,1,922
+San Diego St.,MWC,626,2002,1,5486
+San Diego St.,MWC,626,2003,1,5486
+San Diego St.,MWC,626,2004,1,5486
+San Diego St.,MWC,626,2005,1,5486
+San Diego St.,MWC,626,2006,1,5486
+San Diego St.,MWC,626,2007,1,5486
+San Diego St.,MWC,626,2008,1,5486
+San Diego St.,MWC,626,2009,1,5486
+San Diego St.,MWC,626,2010,1,5486
+San Diego St.,MWC,626,2011,1,5486
+San Diego St.,MWC,626,2012,1,5486
+San Diego St.,MWC,626,2013,1,5486
+San Diego St.,MWC,626,2014,1,5486
+San Diego St.,MWC,626,2015,1,5486
+San Diego St.,MWC,626,2016,1,5486
+San Diego St.,MWC,626,2017,1,5486
+San Diego St.,MWC,626,2018,1,5486
+San Diego St.,MWC,626,2019,1,5486
+San Francisco,WCC,629,2002,1,922
+San Francisco,WCC,629,2003,1,922
+San Francisco,WCC,629,2004,1,922
+San Francisco,WCC,629,2005,1,922
+San Francisco,WCC,629,2006,1,922
+San Francisco,WCC,629,2007,1,922
+San Francisco,WCC,629,2008,1,922
+San Francisco,WCC,629,2009,1,922
+San Francisco,WCC,629,2010,1,922
+San Francisco,WCC,629,2011,1,922
+San Francisco,WCC,629,2012,1,922
+San Francisco,WCC,629,2013,1,922
+San Francisco,WCC,629,2014,1,922
+San Francisco,WCC,629,2015,1,922
+San Francisco,WCC,629,2016,1,922
+San Francisco,WCC,629,2017,1,922
+San Francisco,WCC,629,2018,1,922
+San Francisco,WCC,629,2019,1,922
+San Jose St.,WAC,630,2002,1,923
+San Jose St.,WAC,630,2003,1,923
+San Jose St.,WAC,630,2004,1,923
+San Jose St.,WAC,630,2005,1,923
+San Jose St.,WAC,630,2006,1,923
+San Jose St.,WAC,630,2007,1,923
+San Jose St.,WAC,630,2008,1,923
+San Jose St.,WAC,630,2009,1,923
+San Jose St.,WAC,630,2010,1,923
+San Jose St.,WAC,630,2011,1,923
+San Jose St.,WAC,630,2012,1,923
+San Jose St.,WAC,630,2013,1,923
+San Jose St.,MWC,630,2014,1,5486
+San Jose St.,MWC,630,2015,1,5486
+San Jose St.,MWC,630,2016,1,5486
+San Jose St.,MWC,630,2017,1,5486
+San Jose St.,MWC,630,2018,1,5486
+San Jose St.,MWC,630,2019,1,5486
+Santa Clara,WCC,631,2002,1,922
+Santa Clara,WCC,631,2003,1,922
+Santa Clara,WCC,631,2004,1,922
+Santa Clara,WCC,631,2005,1,922
+Santa Clara,WCC,631,2006,1,922
+Santa Clara,WCC,631,2007,1,922
+Santa Clara,WCC,631,2008,1,922
+Santa Clara,WCC,631,2009,1,922
+Santa Clara,WCC,631,2010,1,922
+Santa Clara,WCC,631,2011,1,922
+Santa Clara,WCC,631,2012,1,922
+Santa Clara,WCC,631,2013,1,922
+Santa Clara,WCC,631,2014,1,922
+Santa Clara,WCC,631,2015,1,922
+Santa Clara,WCC,631,2016,1,922
+Santa Clara,WCC,631,2017,1,922
+Santa Clara,WCC,631,2018,1,922
+Santa Clara,WCC,631,2019,1,922
+Savannah St.,Independent,632,2002,1,0
+Savannah St.,Independent,632,2003,1,0
+Savannah St.,Independent,632,2004,1,0
+Savannah St.,Independent,632,2005,1,0
+Savannah St.,Independent,632,2006,1,0
+Savannah St.,Independent,632,2007,1,0
+Savannah St.,Independent,632,2008,1,0
+Savannah St.,Independent,632,2009,1,0
+Savannah St.,MEAC,632,2012,1,876
+Savannah St.,MEAC,632,2013,1,876
+Savannah St.,MEAC,632,2014,1,876
+Savannah St.,MEAC,632,2015,1,876
+Savannah St.,MEAC,632,2016,1,876
+Savannah St.,MEAC,632,2017,1,876
+Savannah St.,MEAC,632,2018,1,876
+Savannah St.,MEAC,632,2019,1,876
+SCAD,Independent,16006,2002,1,0
+SCAD,Independent,16006,2003,1,0
+SCAD,Independent,16006,2004,1,0
+Seattle U,WAC,1356,2013,1,923
+Seattle U,WAC,1356,2014,1,923
+Seattle U,WAC,1356,2015,1,923
+Seattle U,WAC,1356,2016,1,923
+Seattle U,WAC,1356,2017,1,923
+Seattle U,WAC,1356,2018,1,923
+Seattle U,WAC,1356,2019,1,923
+Seton Hall,AAC,635,2002,1,823
+Seton Hall,AAC,635,2003,1,823
+Seton Hall,AAC,635,2004,1,823
+Seton Hall,AAC,635,2005,1,823
+Seton Hall,AAC,635,2006,1,823
+Seton Hall,AAC,635,2007,1,823
+Seton Hall,AAC,635,2008,1,823
+Seton Hall,AAC,635,2009,1,823
+Seton Hall,AAC,635,2010,1,823
+Seton Hall,AAC,635,2011,1,823
+Seton Hall,AAC,635,2012,1,823
+Seton Hall,AAC,635,2013,1,823
+Seton Hall,Big East,635,2014,1,30184
+Seton Hall,Big East,635,2015,1,30184
+Seton Hall,Big East,635,2016,1,30184
+Seton Hall,Big East,635,2017,1,30184
+Seton Hall,Big East,635,2018,1,30184
+Seton Hall,Big East,635,2019,1,30184
+SFA,Southland,676,2006,1,914
+SFA,Southland,676,2007,1,914
+SFA,Southland,676,2008,1,914
+SFA,Southland,676,2009,1,914
+SFA,Southland,676,2010,1,914
+SFA,Southland,676,2011,1,914
+SFA,Southland,676,2012,1,914
+SFA,Southland,676,2013,1,914
+SFA,Southland,676,2014,1,914
+SFA,Southland,676,2015,1,914
+SFA,Southland,676,2016,1,914
+SFA,Southland,676,2017,1,914
+SFA,Southland,676,2018,1,914
+SFA,Southland,676,2019,1,914
+Siena,MAAC,639,2002,1,871
+Siena,MAAC,639,2003,1,871
+Siena,MAAC,639,2004,1,871
+Siena,MAAC,639,2005,1,871
+Siena,MAAC,639,2006,1,871
+Siena,MAAC,639,2007,1,871
+Siena,MAAC,639,2008,1,871
+Siena,MAAC,639,2009,1,871
+Siena,MAAC,639,2010,1,871
+Siena,MAAC,639,2011,1,871
+Siena,MAAC,639,2012,1,871
+Siena,MAAC,639,2013,1,871
+Siena,MAAC,639,2014,1,871
+Siena,MAAC,639,2015,1,871
+Siena,MAAC,639,2016,1,871
+Siena,MAAC,639,2017,1,871
+Siena,MAAC,639,2018,1,871
+Siena,MAAC,639,2019,1,871
+SIUE,OVC,660,2012,1,902
+SIUE,OVC,660,2013,1,902
+SIUE,OVC,660,2014,1,902
+SIUE,OVC,660,2015,1,902
+SIUE,OVC,660,2016,1,902
+SIUE,OVC,660,2017,1,902
+SIUE,OVC,660,2018,1,902
+SIUE,OVC,660,2019,1,902
+South Alabama,Sun Belt,646,2002,1,818
+South Alabama,Sun Belt,646,2003,1,818
+South Alabama,Sun Belt,646,2004,1,818
+South Alabama,Sun Belt,646,2005,1,818
+South Alabama,Sun Belt,646,2006,1,818
+South Alabama,Sun Belt,646,2007,1,818
+South Alabama,Sun Belt,646,2008,1,818
+South Alabama,Sun Belt,646,2009,1,818
+South Alabama,Sun Belt,646,2010,1,818
+South Alabama,Sun Belt,646,2011,1,818
+South Alabama,Sun Belt,646,2012,1,818
+South Alabama,Sun Belt,646,2013,1,818
+South Alabama,Sun Belt,646,2014,1,818
+South Alabama,Sun Belt,646,2015,1,818
+South Alabama,Sun Belt,646,2016,1,818
+South Alabama,Sun Belt,646,2017,1,818
+South Alabama,Sun Belt,646,2018,1,818
+South Alabama,Sun Belt,646,2019,1,818
+South Carolina,SEC,648,2002,1,911
+South Carolina,SEC,648,2003,1,911
+South Carolina,SEC,648,2004,1,911
+South Carolina,SEC,648,2005,1,911
+South Carolina,SEC,648,2006,1,911
+South Carolina,SEC,648,2007,1,911
+South Carolina,SEC,648,2008,1,911
+South Carolina,SEC,648,2009,1,911
+South Carolina,SEC,648,2010,1,911
+South Carolina,SEC,648,2011,1,911
+South Carolina,SEC,648,2012,1,911
+South Carolina,SEC,648,2013,1,911
+South Carolina,SEC,648,2014,1,911
+South Carolina,SEC,648,2015,1,911
+South Carolina,SEC,648,2016,1,911
+South Carolina,SEC,648,2017,1,911
+South Carolina,SEC,648,2018,1,911
+South Carolina,SEC,648,2019,1,911
+South Dakota St.,Summit League,649,2009,1,819
+South Dakota St.,Summit League,649,2010,1,819
+South Dakota St.,Summit League,649,2011,1,819
+South Dakota St.,Summit League,649,2012,1,819
+South Dakota St.,Summit League,649,2013,1,819
+South Dakota St.,Summit League,649,2014,1,819
+South Dakota St.,Summit League,649,2015,1,819
+South Dakota St.,Summit League,649,2016,1,819
+South Dakota St.,Summit League,649,2017,1,819
+South Dakota St.,Summit League,649,2018,1,819
+South Dakota St.,Summit League,649,2019,1,819
+South Fla.,C-USA,651,2002,1,24312
+South Fla.,C-USA,651,2003,1,24312
+South Fla.,C-USA,651,2004,1,24312
+South Fla.,C-USA,651,2005,1,24312
+South Fla.,AAC,651,2006,1,823
+South Fla.,AAC,651,2007,1,823
+South Fla.,AAC,651,2008,1,823
+South Fla.,AAC,651,2009,1,823
+South Fla.,AAC,651,2010,1,823
+South Fla.,AAC,651,2011,1,823
+South Fla.,AAC,651,2012,1,823
+South Fla.,AAC,651,2013,1,823
+South Fla.,AAC,651,2014,1,823
+South Fla.,AAC,651,2015,1,823
+South Fla.,AAC,651,2016,1,823
+South Fla.,AAC,651,2017,1,823
+South Fla.,AAC,651,2018,1,823
+South Fla.,AAC,651,2019,1,823
+Southeast Mo. St.,OVC,654,2002,1,902
+Southeast Mo. St.,OVC,654,2003,1,902
+Southeast Mo. St.,OVC,654,2004,1,902
+Southeast Mo. St.,OVC,654,2005,1,902
+Southeast Mo. St.,OVC,654,2006,1,902
+Southeast Mo. St.,OVC,654,2007,1,902
+Southeast Mo. St.,OVC,654,2008,1,902
+Southeast Mo. St.,OVC,654,2009,1,902
+Southeast Mo. St.,OVC,654,2010,1,902
+Southeast Mo. St.,OVC,654,2011,1,902
+Southeast Mo. St.,OVC,654,2012,1,902
+Southeast Mo. St.,OVC,654,2013,1,902
+Southeast Mo. St.,OVC,654,2014,1,902
+Southeast Mo. St.,OVC,654,2015,1,902
+Southeast Mo. St.,OVC,654,2016,1,902
+Southeast Mo. St.,OVC,654,2017,1,902
+Southeast Mo. St.,OVC,654,2018,1,902
+Southeast Mo. St.,OVC,654,2019,1,902
+Southeastern La.,Southland,655,2002,1,914
+Southeastern La.,Southland,655,2003,1,914
+Southeastern La.,Southland,655,2004,1,914
+Southeastern La.,Southland,655,2005,1,914
+Southeastern La.,Southland,655,2006,1,914
+Southeastern La.,Southland,655,2007,1,914
+Southeastern La.,Southland,655,2008,1,914
+Southeastern La.,Southland,655,2009,1,914
+Southeastern La.,Southland,655,2010,1,914
+Southeastern La.,Southland,655,2011,1,914
+Southeastern La.,Southland,655,2012,1,914
+Southeastern La.,Southland,655,2013,1,914
+Southeastern La.,Southland,655,2014,1,914
+Southeastern La.,Southland,655,2015,1,914
+Southeastern La.,Southland,655,2016,1,914
+Southeastern La.,Southland,655,2017,1,914
+Southeastern La.,Southland,655,2018,1,914
+Southeastern La.,Southland,655,2019,1,914
+Southern California,Pac-12,657,2002,1,905
+Southern California,Pac-12,657,2003,1,905
+Southern California,Pac-12,657,2004,1,905
+Southern California,Pac-12,657,2005,1,905
+Southern California,Pac-12,657,2006,1,905
+Southern California,Pac-12,657,2007,1,905
+Southern California,Pac-12,657,2008,1,905
+Southern California,Pac-12,657,2009,1,905
+Southern California,Pac-12,657,2010,1,905
+Southern California,Pac-12,657,2011,1,905
+Southern California,Pac-12,657,2012,1,905
+Southern California,Pac-12,657,2013,1,905
+Southern California,Pac-12,657,2014,1,905
+Southern California,Pac-12,657,2015,1,905
+Southern California,Pac-12,657,2016,1,905
+Southern California,Pac-12,657,2017,1,905
+Southern California,Pac-12,657,2018,1,905
+Southern California,Pac-12,657,2019,1,905
+Southern Ill.,MVC,659,2003,1,884
+Southern Ill.,MVC,659,2004,1,884
+Southern Ill.,MVC,659,2005,1,884
+Southern Ill.,MVC,659,2006,1,884
+Southern Ill.,MVC,659,2007,1,884
+Southern Ill.,MVC,659,2008,1,884
+Southern Ill.,MVC,659,2009,1,884
+Southern Ill.,MVC,659,2010,1,884
+Southern Ill.,MVC,659,2011,1,884
+Southern Ill.,MVC,659,2012,1,884
+Southern Ill.,MVC,659,2013,1,884
+Southern Ill.,MVC,659,2014,1,884
+Southern Ill.,MVC,659,2015,1,884
+Southern Ill.,MVC,659,2016,1,884
+Southern Ill.,MVC,659,2017,1,884
+Southern Ill.,MVC,659,2018,1,884
+Southern Ill.,MVC,659,2019,1,884
+Southern Miss.,C-USA,664,2002,1,24312
+Southern Miss.,C-USA,664,2003,1,24312
+Southern Miss.,C-USA,664,2004,1,24312
+Southern Miss.,C-USA,664,2005,1,24312
+Southern Miss.,C-USA,664,2006,1,24312
+Southern Miss.,C-USA,664,2007,1,24312
+Southern Miss.,C-USA,664,2008,1,24312
+Southern Miss.,C-USA,664,2009,1,24312
+Southern Miss.,C-USA,664,2010,1,24312
+Southern Miss.,C-USA,664,2011,1,24312
+Southern Miss.,C-USA,664,2012,1,24312
+Southern Miss.,C-USA,664,2013,1,24312
+Southern Miss.,C-USA,664,2014,1,24312
+Southern Miss.,C-USA,664,2015,1,24312
+Southern Miss.,C-USA,664,2016,1,24312
+Southern Miss.,C-USA,664,2017,1,24312
+Southern Miss.,C-USA,664,2018,1,24312
+Southern Miss.,C-USA,664,2019,1,24312
+Southern U.,SWAC,665,2002,1,916
+Southern U.,SWAC,665,2003,1,916
+Southern U.,SWAC,665,2004,1,916
+Southern U.,SWAC,665,2005,1,916
+Southern U.,SWAC,665,2006,1,916
+Southern U.,SWAC,665,2007,1,916
+Southern U.,SWAC,665,2008,1,916
+Southern U.,SWAC,665,2009,1,916
+Southern U.,SWAC,665,2010,1,916
+Southern U.,SWAC,665,2011,1,916
+Southern U.,SWAC,665,2012,1,916
+Southern U.,SWAC,665,2013,1,916
+Southern U.,SWAC,665,2014,1,916
+Southern U.,SWAC,665,2015,1,916
+Southern U.,SWAC,665,2016,1,916
+Southern U.,SWAC,665,2017,1,916
+Southern U.,SWAC,665,2018,1,916
+Southern U.,SWAC,665,2019,1,916
+Southern Utah,Summit League,667,2002,1,819
+Southern Utah,Summit League,667,2003,1,819
+Southern Utah,Summit League,667,2004,1,819
+Southern Utah,Summit League,667,2005,1,819
+Southern Utah,Summit League,667,2006,1,819
+Southern Utah,Summit League,667,2007,1,819
+Southern Utah,Summit League,667,2008,1,819
+Southern Utah,Summit League,667,2009,1,819
+Southern Utah,Summit League,667,2010,1,819
+Southern Utah,Summit League,667,2011,1,819
+Southern Utah,Summit League,667,2012,1,819
+Southern Vt.,Independent,1379,2008,1,0
+St. Bonaventure,Atlantic 10,596,2002,1,820
+St. Bonaventure,Atlantic 10,596,2003,1,820
+St. Bonaventure,Atlantic 10,596,2004,1,820
+St. Bonaventure,Atlantic 10,596,2005,1,820
+St. Bonaventure,Atlantic 10,596,2006,1,820
+St. Bonaventure,Atlantic 10,596,2007,1,820
+St. Bonaventure,Atlantic 10,596,2008,1,820
+St. Bonaventure,Atlantic 10,596,2009,1,820
+St. Bonaventure,Atlantic 10,596,2010,1,820
+St. Bonaventure,Atlantic 10,596,2011,1,820
+St. Bonaventure,Atlantic 10,596,2012,1,820
+St. Bonaventure,Atlantic 10,596,2013,1,820
+St. Bonaventure,Atlantic 10,596,2014,1,820
+St. Bonaventure,Atlantic 10,596,2015,1,820
+St. Bonaventure,Atlantic 10,596,2016,1,820
+St. Bonaventure,Atlantic 10,596,2017,1,820
+St. Bonaventure,Atlantic 10,596,2018,1,820
+St. Bonaventure,Atlantic 10,596,2019,1,820
+St. Francis Brooklyn,NEC,599,2002,1,846
+St. Francis Brooklyn,NEC,599,2003,1,846
+St. Francis Brooklyn,NEC,599,2004,1,846
+St. Francis Brooklyn,NEC,599,2005,1,846
+St. Francis Brooklyn,NEC,599,2006,1,846
+St. John's (NY),AAC,603,2002,1,823
+St. John's (NY),AAC,603,2003,1,823
+St. John's (NY),AAC,603,2004,1,823
+St. John's (NY),AAC,603,2005,1,823
+St. John's (NY),AAC,603,2006,1,823
+St. John's (NY),AAC,603,2007,1,823
+St. John's (NY),AAC,603,2008,1,823
+St. John's (NY),AAC,603,2009,1,823
+St. John's (NY),AAC,603,2010,1,823
+St. John's (NY),AAC,603,2011,1,823
+St. John's (NY),AAC,603,2012,1,823
+St. John's (NY),AAC,603,2013,1,823
+St. John's (NY),Big East,603,2014,1,30184
+St. John's (NY),Big East,603,2015,1,30184
+St. John's (NY),Big East,603,2016,1,30184
+St. John's (NY),Big East,603,2017,1,30184
+St. John's (NY),Big East,603,2018,1,30184
+St. John's (NY),Big East,603,2019,1,30184
+St. Joseph's (Brkln),Independent,30072,2008,1,0
+St. Joseph's (Brkln),Independent,30072,2009,1,0
+St. Joseph's (ME),Independent,605,2002,1,0
+St. Joseph's (ME),Independent,605,2003,1,0
+St. Joseph's (ME),Independent,605,2004,1,0
+St. Scholastica,Independent,618,2003,1,0
+St. Scholastica,Independent,618,2004,1,0
+St. Scholastica,Independent,618,2005,1,0
+St. Scholastica,Independent,618,2006,1,0
+St. Scholastica,Independent,618,2007,1,0
+St. Scholastica,Independent,618,2008,1,0
+Stanford,Pac-12,674,2002,1,905
+Stanford,Pac-12,674,2003,1,905
+Stanford,Pac-12,674,2004,1,905
+Stanford,Pac-12,674,2005,1,905
+Stanford,Pac-12,674,2006,1,905
+Stanford,Pac-12,674,2007,1,905
+Stanford,Pac-12,674,2008,1,905
+Stanford,Pac-12,674,2009,1,905
+Stanford,Pac-12,674,2010,1,905
+Stanford,Pac-12,674,2011,1,905
+Stanford,Pac-12,674,2012,1,905
+Stanford,Pac-12,674,2013,1,905
+Stanford,Pac-12,674,2014,1,905
+Stanford,Pac-12,674,2015,1,905
+Stanford,Pac-12,674,2016,1,905
+Stanford,Pac-12,674,2017,1,905
+Stanford,Pac-12,674,2018,1,905
+Stanford,Pac-12,674,2019,1,905
+Stetson,ASUN,678,2002,1,920
+Stetson,ASUN,678,2003,1,920
+Stetson,ASUN,678,2004,1,920
+Stetson,ASUN,678,2005,1,920
+Stetson,ASUN,678,2006,1,920
+Stetson,ASUN,678,2007,1,920
+Stetson,ASUN,678,2008,1,920
+Stetson,ASUN,678,2009,1,920
+Stetson,ASUN,678,2010,1,920
+Stetson,ASUN,678,2011,1,920
+Stetson,ASUN,678,2012,1,920
+Stetson,ASUN,678,2013,1,920
+Stetson,ASUN,678,2014,1,920
+Stetson,ASUN,678,2015,1,920
+Stetson,ASUN,678,2016,1,920
+Stetson,ASUN,678,2017,1,920
+Stetson,ASUN,678,2018,1,920
+Stetson,ASUN,678,2019,1,920
+Stevenson,Independent,21852,2002,1,0
+Stevenson,Independent,21852,2003,1,0
+Stevenson,Independent,21852,2004,1,0
+Stillman,Independent,680,2002,1,0
+Stillman,Independent,680,2003,1,0
+Stillman,Independent,680,2004,1,0
+Stony Brook,America East,683,2002,1,845
+Stony Brook,America East,683,2003,1,845
+Stony Brook,America East,683,2004,1,845
+Stony Brook,America East,683,2005,1,845
+Stony Brook,America East,683,2006,1,845
+Stony Brook,America East,683,2007,1,845
+Stony Brook,America East,683,2008,1,845
+Stony Brook,America East,683,2009,1,845
+Stony Brook,America East,683,2010,1,845
+Stony Brook,America East,683,2011,1,845
+Stony Brook,America East,683,2012,1,845
+Stony Brook,America East,683,2013,1,845
+Stony Brook,America East,683,2014,1,845
+Stony Brook,America East,683,2015,1,845
+Stony Brook,America East,683,2016,1,845
+Stony Brook,America East,683,2017,1,845
+Stony Brook,America East,683,2018,1,845
+Stony Brook,America East,683,2019,1,845
+TCU,C-USA,698,2002,1,24312
+TCU,C-USA,698,2003,1,24312
+TCU,C-USA,698,2004,1,24312
+TCU,C-USA,698,2005,1,24312
+TCU,MWC,698,2006,1,5486
+TCU,MWC,698,2007,1,5486
+TCU,MWC,698,2008,1,5486
+TCU,MWC,698,2009,1,5486
+TCU,MWC,698,2010,1,5486
+TCU,MWC,698,2011,1,5486
+TCU,MWC,698,2012,1,5486
+TCU,Big 12,698,2013,1,25354
+TCU,Big 12,698,2014,1,25354
+TCU,Big 12,698,2015,1,25354
+TCU,Big 12,698,2016,1,25354
+TCU,Big 12,698,2017,1,25354
+TCU,Big 12,698,2018,1,25354
+TCU,Big 12,698,2019,1,25354
+Temple,Atlantic 10,690,2002,1,820
+Temple,Atlantic 10,690,2003,1,820
+Temple,Atlantic 10,690,2004,1,820
+Temple,Atlantic 10,690,2005,1,820
+Temple,Atlantic 10,690,2006,1,820
+Temple,Atlantic 10,690,2007,1,820
+Temple,Atlantic 10,690,2008,1,820
+Temple,Atlantic 10,690,2009,1,820
+Temple,Atlantic 10,690,2010,1,820
+Temple,Atlantic 10,690,2011,1,820
+Temple,Atlantic 10,690,2012,1,820
+Temple,Atlantic 10,690,2013,1,820
+Temple,AAC,690,2014,1,823
+Temple,AAC,690,2015,1,823
+Tennessee,SEC,694,2002,1,911
+Tennessee,SEC,694,2003,1,911
+Tennessee,SEC,694,2004,1,911
+Tennessee,SEC,694,2005,1,911
+Tennessee,SEC,694,2006,1,911
+Tennessee,SEC,694,2007,1,911
+Tennessee,SEC,694,2008,1,911
+Tennessee,SEC,694,2009,1,911
+Tennessee,SEC,694,2010,1,911
+Tennessee,SEC,694,2011,1,911
+Tennessee,SEC,694,2012,1,911
+Tennessee,SEC,694,2013,1,911
+Tennessee,SEC,694,2014,1,911
+Tennessee,SEC,694,2015,1,911
+Tennessee,SEC,694,2016,1,911
+Tennessee,SEC,694,2017,1,911
+Tennessee,SEC,694,2018,1,911
+Tennessee,SEC,694,2019,1,911
+Tennessee Tech,OVC,692,2002,1,902
+Tennessee Tech,OVC,692,2003,1,902
+Tennessee Tech,OVC,692,2004,1,902
+Tennessee Tech,OVC,692,2005,1,902
+Tennessee Tech,OVC,692,2006,1,902
+Tennessee Tech,OVC,692,2007,1,902
+Tennessee Tech,OVC,692,2008,1,902
+Tennessee Tech,OVC,692,2009,1,902
+Tennessee Tech,OVC,692,2010,1,902
+Tennessee Tech,OVC,692,2011,1,902
+Tennessee Tech,OVC,692,2012,1,902
+Tennessee Tech,OVC,692,2013,1,902
+Tennessee Tech,OVC,692,2014,1,902
+Tennessee Tech,OVC,692,2015,1,902
+Tennessee Tech,OVC,692,2016,1,902
+Tennessee Tech,OVC,692,2017,1,902
+Tennessee Tech,OVC,692,2018,1,902
+Tennessee Tech,OVC,692,2019,1,902
+Texas,Big 12,703,2002,1,25354
+Texas,Big 12,703,2003,1,25354
+Texas,Big 12,703,2004,1,25354
+Texas,Big 12,703,2005,1,25354
+Texas,Big 12,703,2006,1,25354
+Texas,Big 12,703,2007,1,25354
+Texas,Big 12,703,2008,1,25354
+Texas,Big 12,703,2009,1,25354
+Texas,Big 12,703,2010,1,25354
+Texas,Big 12,703,2011,1,25354
+Texas,Big 12,703,2012,1,25354
+Texas,Big 12,703,2013,1,25354
+Texas,Big 12,703,2014,1,25354
+Texas,Big 12,703,2015,1,25354
+Texas,Big 12,703,2016,1,25354
+Texas,Big 12,703,2017,1,25354
+Texas,Big 12,703,2018,1,25354
+Texas,Big 12,703,2019,1,25354
+Texas A&M,Big 12,697,2002,1,25354
+Texas A&M,Big 12,697,2003,1,25354
+Texas A&M,Big 12,697,2004,1,25354
+Texas A&M,Big 12,697,2005,1,25354
+Texas A&M,Big 12,697,2006,1,25354
+Texas A&M,Big 12,697,2007,1,25354
+Texas A&M,Big 12,697,2008,1,25354
+Texas A&M,Big 12,697,2009,1,25354
+Texas A&M,Big 12,697,2010,1,25354
+Texas A&M,Big 12,697,2011,1,25354
+Texas A&M,Big 12,697,2012,1,25354
+Texas A&M,SEC,697,2013,1,911
+Texas A&M,SEC,697,2014,1,911
+Texas A&M,SEC,697,2015,1,911
+Texas A&M,SEC,697,2016,1,911
+Texas A&M,SEC,697,2017,1,911
+Texas A&M,SEC,697,2018,1,911
+Texas A&M,SEC,697,2019,1,911
+Texas Lutheran,Independent,1400,2002,1,0
+Texas Southern,SWAC,699,2002,1,916
+Texas Southern,SWAC,699,2003,1,916
+Texas Southern,SWAC,699,2004,1,916
+Texas Southern,SWAC,699,2005,1,916
+Texas Southern,SWAC,699,2006,1,916
+Texas Southern,SWAC,699,2007,1,916
+Texas Southern,SWAC,699,2008,1,916
+Texas Southern,SWAC,699,2009,1,916
+Texas Southern,SWAC,699,2010,1,916
+Texas Southern,SWAC,699,2011,1,916
+Texas Southern,SWAC,699,2012,1,916
+Texas Southern,SWAC,699,2013,1,916
+Texas Southern,SWAC,699,2014,1,916
+Texas Southern,SWAC,699,2015,1,916
+Texas Southern,SWAC,699,2016,1,916
+Texas Southern,SWAC,699,2017,1,916
+Texas Southern,SWAC,699,2018,1,916
+Texas Southern,SWAC,699,2019,1,916
+Texas St.,Southland,670,2002,1,914
+Texas St.,Southland,670,2003,1,914
+Texas St.,Southland,670,2004,1,914
+Texas St.,Southland,670,2005,1,914
+Texas St.,Southland,670,2006,1,914
+Texas St.,Southland,670,2007,1,914
+Texas St.,Southland,670,2008,1,914
+Texas St.,Southland,670,2009,1,914
+Texas St.,Southland,670,2010,1,914
+Texas St.,Southland,670,2011,1,914
+Texas St.,Southland,670,2012,1,914
+Texas St.,WAC,670,2013,1,923
+Texas St.,Sun Belt,670,2014,1,818
+Texas St.,Sun Belt,670,2015,1,818
+Texas St.,Sun Belt,670,2016,1,818
+Texas St.,Sun Belt,670,2017,1,818
+Texas St.,Sun Belt,670,2018,1,818
+Texas St.,Sun Belt,670,2019,1,818
+Texas Tech,Big 12,700,2002,1,25354
+Texas Tech,Big 12,700,2003,1,25354
+Texas Tech,Big 12,700,2004,1,25354
+Texas Tech,Big 12,700,2005,1,25354
+Texas Tech,Big 12,700,2006,1,25354
+Texas Tech,Big 12,700,2007,1,25354
+Texas Tech,Big 12,700,2008,1,25354
+Texas Tech,Big 12,700,2009,1,25354
+Texas Tech,Big 12,700,2010,1,25354
+Texas Tech,Big 12,700,2011,1,25354
+Texas Tech,Big 12,700,2012,1,25354
+Texas Tech,Big 12,700,2013,1,25354
+Texas Tech,Big 12,700,2014,1,25354
+Texas Tech,Big 12,700,2015,1,25354
+Texas Tech,Big 12,700,2016,1,25354
+Texas Tech,Big 12,700,2017,1,25354
+Texas Tech,Big 12,700,2018,1,25354
+Texas Tech,Big 12,700,2019,1,25354
+The Citadel,SoCon,141,2002,1,912
+The Citadel,SoCon,141,2003,1,912
+The Citadel,SoCon,141,2004,1,912
+The Citadel,SoCon,141,2005,1,912
+The Citadel,SoCon,141,2006,1,912
+The Citadel,SoCon,141,2007,1,912
+The Citadel,SoCon,141,2008,1,912
+The Citadel,SoCon,141,2009,1,912
+The Citadel,SoCon,141,2010,1,912
+The Citadel,SoCon,141,2011,1,912
+The Citadel,SoCon,141,2012,1,912
+The Citadel,SoCon,141,2013,1,912
+The Citadel,SoCon,141,2014,1,912
+The Citadel,SoCon,141,2015,1,912
+The Citadel,SoCon,141,2016,1,912
+The Citadel,SoCon,141,2017,1,912
+The Citadel,SoCon,141,2018,1,912
+The Citadel,SoCon,141,2019,1,912
+Thomas More_inactive,Independent,1402,2003,1,0
+Thomas More_inactive,Independent,1402,2004,1,0
+Thomas More_inactive,Independent,1402,2005,1,0
+Tiffin,Independent,1403,2003,1,0
+Tiffin,Independent,1403,2004,1,0
+Tiffin,Independent,1403,2005,1,0
+Tiffin,Independent,1403,2006,1,0
+Tiffin,Independent,1403,2007,1,0
+Tiffin,Independent,1403,2008,1,0
+Toledo,MAC,709,2002,1,875
+Toledo,MAC,709,2003,1,875
+Toledo,MAC,709,2004,1,875
+Toledo,MAC,709,2005,1,875
+Toledo,MAC,709,2006,1,875
+Toledo,MAC,709,2007,1,875
+Toledo,MAC,709,2008,1,875
+Toledo,MAC,709,2009,1,875
+Toledo,MAC,709,2010,1,875
+Toledo,MAC,709,2011,1,875
+Toledo,MAC,709,2012,1,875
+Toledo,MAC,709,2013,1,875
+Toledo,MAC,709,2014,1,875
+Toledo,MAC,709,2015,1,875
+Toledo,MAC,709,2016,1,875
+Toledo,MAC,709,2017,1,875
+Toledo,MAC,709,2018,1,875
+Toledo,MAC,709,2019,1,875
+Towson,CAA,711,2002,1,837
+Towson,CAA,711,2003,1,837
+Towson,CAA,711,2004,1,837
+Towson,CAA,711,2005,1,837
+Towson,CAA,711,2006,1,837
+Towson,CAA,711,2007,1,837
+Towson,CAA,711,2008,1,837
+Towson,CAA,711,2009,1,837
+Towson,CAA,711,2010,1,837
+Towson,CAA,711,2011,1,837
+Towson,CAA,711,2012,1,837
+Towson,CAA,711,2013,1,837
+Towson,CAA,711,2014,1,837
+Towson,CAA,711,2015,1,837
+Towson,CAA,711,2016,1,837
+Towson,CAA,711,2017,1,837
+Towson,CAA,711,2018,1,837
+Towson,CAA,711,2019,1,837
+Troy,ASUN,716,2002,1,920
+Troy,ASUN,716,2003,1,920
+Troy,ASUN,716,2004,1,920
+Troy,ASUN,716,2005,1,920
+Troy,Sun Belt,716,2006,1,818
+Troy,Sun Belt,716,2007,1,818
+Troy,Sun Belt,716,2008,1,818
+Troy,Sun Belt,716,2009,1,818
+Troy,Sun Belt,716,2010,1,818
+Troy,Sun Belt,716,2011,1,818
+Troy,Sun Belt,716,2012,1,818
+Troy,Sun Belt,716,2013,1,818
+Troy,Sun Belt,716,2014,1,818
+Troy,Sun Belt,716,2015,1,818
+Troy,Sun Belt,716,2016,1,818
+Troy,Sun Belt,716,2017,1,818
+Troy,Sun Belt,716,2018,1,818
+Troy,Sun Belt,716,2019,1,818
+Tulane,C-USA,718,2002,1,24312
+Tulane,C-USA,718,2003,1,24312
+Tulane,C-USA,718,2004,1,24312
+Tulane,C-USA,718,2005,1,24312
+Tulane,C-USA,718,2006,1,24312
+Tulane,C-USA,718,2007,1,24312
+Tulane,C-USA,718,2008,1,24312
+Tulane,C-USA,718,2009,1,24312
+Tulane,C-USA,718,2010,1,24312
+Tulane,C-USA,718,2011,1,24312
+Tulane,C-USA,718,2012,1,24312
+Tulane,C-USA,718,2013,1,24312
+Tulane,C-USA,718,2014,1,24312
+Tulane,AAC,718,2015,1,823
+Tulane,AAC,718,2016,1,823
+Tulane,AAC,718,2017,1,823
+Tulane,AAC,718,2018,1,823
+Tulane,AAC,718,2019,1,823
+UAB,C-USA,9,2002,1,24312
+UAB,C-USA,9,2003,1,24312
+UAB,C-USA,9,2004,1,24312
+UAB,C-USA,9,2005,1,24312
+UAB,C-USA,9,2006,1,24312
+UAB,C-USA,9,2007,1,24312
+UAB,C-USA,9,2008,1,24312
+UAB,C-USA,9,2009,1,24312
+UAB,C-USA,9,2010,1,24312
+UAB,C-USA,9,2011,1,24312
+UAB,C-USA,9,2012,1,24312
+UAB,C-USA,9,2013,1,24312
+UAB,C-USA,9,2014,1,24312
+UAB,C-USA,9,2015,1,24312
+UAB,C-USA,9,2016,1,24312
+UAB,C-USA,9,2017,1,24312
+UAB,C-USA,9,2018,1,24312
+UAB,C-USA,9,2019,1,24312
+UC Davis,Big West,108,2008,1,904
+UC Davis,Big West,108,2009,1,904
+UC Davis,Big West,108,2010,1,904
+UC Davis,Big West,108,2011,1,904
+UC Davis,Big West,108,2012,1,904
+UC Davis,Big West,108,2013,1,904
+UC Davis,Big West,108,2014,1,904
+UC Davis,Big West,108,2015,1,904
+UC Davis,Big West,108,2016,1,904
+UC Davis,Big West,108,2017,1,904
+UC Davis,Big West,108,2018,1,904
+UC Davis,Big West,108,2019,1,904
+UC Irvine,Big West,109,2002,1,904
+UC Irvine,Big West,109,2003,1,904
+UC Irvine,Big West,109,2004,1,904
+UC Irvine,Big West,109,2005,1,904
+UC Irvine,Big West,109,2006,1,904
+UC Irvine,Big West,109,2007,1,904
+UC Irvine,Big West,109,2008,1,904
+UC Irvine,Big West,109,2009,1,904
+UC Irvine,Big West,109,2010,1,904
+UC Irvine,Big West,109,2011,1,904
+UC Irvine,Big West,109,2012,1,904
+UC Irvine,Big West,109,2013,1,904
+UC Irvine,Big West,109,2014,1,904
+UC Irvine,Big West,109,2015,1,904
+UC Irvine,Big West,109,2016,1,904
+UC Irvine,Big West,109,2017,1,904
+UC Irvine,Big West,109,2018,1,904
+UC Irvine,Big West,109,2019,1,904
+UC Riverside,Big West,111,2002,1,904
+UC Riverside,Big West,111,2003,1,904
+UC Riverside,Big West,111,2004,1,904
+UC Riverside,Big West,111,2005,1,904
+UC Riverside,Big West,111,2006,1,904
+UC Riverside,Big West,111,2007,1,904
+UC Riverside,Big West,111,2008,1,904
+UC Riverside,Big West,111,2009,1,904
+UC Riverside,Big West,111,2010,1,904
+UC Riverside,Big West,111,2011,1,904
+UC Riverside,Big West,111,2012,1,904
+UC Riverside,Big West,111,2013,1,904
+UC Riverside,Big West,111,2014,1,904
+UC Riverside,Big West,111,2015,1,904
+UC Riverside,Big West,111,2016,1,904
+UC Riverside,Big West,111,2017,1,904
+UC Riverside,Big West,111,2018,1,904
+UC Riverside,Big West,111,2019,1,904
+UC Santa Barbara,Big West,104,2002,1,904
+UC Santa Barbara,Big West,104,2003,1,904
+UC Santa Barbara,Big West,104,2004,1,904
+UC Santa Barbara,Big West,104,2005,1,904
+UC Santa Barbara,Big West,104,2006,1,904
+UC Santa Barbara,Big West,104,2007,1,904
+UC Santa Barbara,Big West,104,2008,1,904
+UC Santa Barbara,Big West,104,2009,1,904
+UC Santa Barbara,Big West,104,2010,1,904
+UC Santa Barbara,Big West,104,2011,1,904
+UC Santa Barbara,Big West,104,2012,1,904
+UC Santa Barbara,Big West,104,2013,1,904
+UC Santa Barbara,Big West,104,2014,1,904
+UC Santa Barbara,Big West,104,2015,1,904
+UC Santa Barbara,Big West,104,2016,1,904
+UC Santa Barbara,Big West,104,2017,1,904
+UC Santa Barbara,Big West,104,2018,1,904
+UC Santa Barbara,Big West,104,2019,1,904
+UCF,ASUN,128,2002,1,920
+UCF,ASUN,128,2003,1,920
+UCF,ASUN,128,2004,1,920
+UCF,ASUN,128,2005,1,920
+UCF,C-USA,128,2006,1,24312
+UCF,C-USA,128,2007,1,24312
+UCF,C-USA,128,2008,1,24312
+UCF,C-USA,128,2009,1,24312
+UCF,C-USA,128,2010,1,24312
+UCF,C-USA,128,2011,1,24312
+UCF,C-USA,128,2012,1,24312
+UCF,C-USA,128,2013,1,24312
+UCF,AAC,128,2014,1,823
+UCF,AAC,128,2015,1,823
+UCF,AAC,128,2016,1,823
+UCF,AAC,128,2017,1,823
+UCF,AAC,128,2018,1,823
+UCF,AAC,128,2019,1,823
+UCLA,Pac-12,110,2002,1,905
+UCLA,Pac-12,110,2003,1,905
+UCLA,Pac-12,110,2004,1,905
+UCLA,Pac-12,110,2005,1,905
+UCLA,Pac-12,110,2006,1,905
+UCLA,Pac-12,110,2007,1,905
+UCLA,Pac-12,110,2008,1,905
+UCLA,Pac-12,110,2009,1,905
+UCLA,Pac-12,110,2010,1,905
+UCLA,Pac-12,110,2011,1,905
+UCLA,Pac-12,110,2012,1,905
+UCLA,Pac-12,110,2013,1,905
+UCLA,Pac-12,110,2014,1,905
+UCLA,Pac-12,110,2015,1,905
+UCLA,Pac-12,110,2016,1,905
+UCLA,Pac-12,110,2017,1,905
+UCLA,Pac-12,110,2018,1,905
+UCLA,Pac-12,110,2019,1,905
+UConn,AAC,164,2002,1,823
+UConn,AAC,164,2003,1,823
+UConn,AAC,164,2004,1,823
+UConn,AAC,164,2005,1,823
+UConn,AAC,164,2006,1,823
+UConn,AAC,164,2007,1,823
+UConn,AAC,164,2008,1,823
+UConn,AAC,164,2009,1,823
+UConn,AAC,164,2010,1,823
+UConn,AAC,164,2011,1,823
+UConn,AAC,164,2012,1,823
+UConn,AAC,164,2013,1,823
+UConn,AAC,164,2014,1,823
+UConn,AAC,164,2015,1,823
+UConn,AAC,164,2016,1,823
+UConn,AAC,164,2017,1,823
+UConn,AAC,164,2018,1,823
+UConn,AAC,164,2019,1,823
+UIC,Horizon,302,2002,1,881
+UIC,Horizon,302,2003,1,881
+UIC,Horizon,302,2004,1,881
+UIC,Horizon,302,2005,1,881
+UIC,Horizon,302,2006,1,881
+UIC,Horizon,302,2007,1,881
+UIC,Horizon,302,2008,1,881
+UIC,Horizon,302,2009,1,881
+UIC,Horizon,302,2010,1,881
+UIC,Horizon,302,2011,1,881
+UIC,Horizon,302,2012,1,881
+UIC,Horizon,302,2013,1,881
+UIC,Horizon,302,2014,1,881
+UIC,Horizon,302,2015,1,881
+UIC,Horizon,302,2016,1,881
+UIC,Horizon,302,2017,1,881
+UIC,Horizon,302,2018,1,881
+UIC,Horizon,302,2019,1,881
+UMass Lowell,America East,368,2014,1,845
+UMass Lowell,America East,368,2015,1,845
+UMass Lowell,America East,368,2016,1,845
+UMass Lowell,America East,368,2017,1,845
+UMass Lowell,America East,368,2018,1,845
+UMass Lowell,America East,368,2019,1,845
+UMBC,NEC,391,2002,1,846
+UMBC,NEC,391,2003,1,846
+UMBC,America East,391,2004,1,845
+UMBC,America East,391,2005,1,845
+UMBC,America East,391,2006,1,845
+UMBC,America East,391,2007,1,845
+UMBC,America East,391,2008,1,845
+UMBC,America East,391,2009,1,845
+UMBC,America East,391,2010,1,845
+UMBC,America East,391,2011,1,845
+UMBC,America East,391,2012,1,845
+UMBC,America East,391,2013,1,845
+UMBC,America East,391,2014,1,845
+UMBC,America East,391,2015,1,845
+UMBC,America East,391,2016,1,845
+UMBC,America East,391,2017,1,845
+UMBC,America East,391,2018,1,845
+UMBC,America East,391,2019,1,845
+UMES,MEAC,393,2002,1,876
+UMES,MEAC,393,2003,1,876
+UMES,MEAC,393,2004,1,876
+UMES,MEAC,393,2005,1,876
+UMES,MEAC,393,2006,1,876
+UMES,MEAC,393,2007,1,876
+UMES,MEAC,393,2008,1,876
+UMES,MEAC,393,2009,1,876
+UMES,MEAC,393,2010,1,876
+UMES,MEAC,393,2011,1,876
+UMES,MEAC,393,2012,1,876
+UMES,MEAC,393,2013,1,876
+UMES,MEAC,393,2014,1,876
+UMES,MEAC,393,2015,1,876
+UMES,MEAC,393,2016,1,876
+UMES,MEAC,393,2017,1,876
+UMES,MEAC,393,2018,1,876
+UMES,MEAC,393,2019,1,876
+UNC Asheville,Big South,456,2002,1,826
+UNC Asheville,Big South,456,2003,1,826
+UNC Asheville,Big South,456,2004,1,826
+UNC Asheville,Big South,456,2005,1,826
+UNC Asheville,Big South,456,2006,1,826
+UNC Asheville,Big South,456,2007,1,826
+UNC Asheville,Big South,456,2008,1,826
+UNC Asheville,Big South,456,2009,1,826
+UNC Asheville,Big South,456,2010,1,826
+UNC Asheville,Big South,456,2011,1,826
+UNC Asheville,Big South,456,2012,1,826
+UNC Asheville,Big South,456,2013,1,826
+UNC Asheville,Big South,456,2014,1,826
+UNC Asheville,Big South,456,2015,1,826
+UNC Asheville,Big South,456,2016,1,826
+UNC Asheville,Big South,456,2017,1,826
+UNC Asheville,Big South,456,2018,1,826
+UNC Asheville,Big South,456,2019,1,826
+UNC Greensboro,SoCon,459,2002,1,912
+UNC Greensboro,SoCon,459,2003,1,912
+UNC Greensboro,SoCon,459,2004,1,912
+UNC Greensboro,SoCon,459,2005,1,912
+UNC Greensboro,SoCon,459,2006,1,912
+UNC Greensboro,SoCon,459,2007,1,912
+UNC Greensboro,SoCon,459,2008,1,912
+UNC Greensboro,SoCon,459,2009,1,912
+UNC Greensboro,SoCon,459,2010,1,912
+UNC Greensboro,SoCon,459,2011,1,912
+UNC Greensboro,SoCon,459,2012,1,912
+UNC Greensboro,SoCon,459,2013,1,912
+UNC Greensboro,SoCon,459,2014,1,912
+UNC Greensboro,SoCon,459,2015,1,912
+UNC Greensboro,SoCon,459,2016,1,912
+UNC Greensboro,SoCon,459,2017,1,912
+UNC Greensboro,SoCon,459,2018,1,912
+UNC Greensboro,SoCon,459,2019,1,912
+UNCW,CAA,460,2002,1,837
+UNCW,CAA,460,2003,1,837
+UNCW,CAA,460,2004,1,837
+UNCW,CAA,460,2005,1,837
+UNCW,CAA,460,2006,1,837
+UNCW,CAA,460,2007,1,837
+UNCW,CAA,460,2008,1,837
+UNCW,CAA,460,2009,1,837
+UNCW,CAA,460,2010,1,837
+UNCW,CAA,460,2011,1,837
+UNCW,CAA,460,2012,1,837
+UNCW,CAA,460,2013,1,837
+UNCW,CAA,460,2014,1,837
+UNCW,CAA,460,2015,1,837
+UNCW,CAA,460,2016,1,837
+UNCW,CAA,460,2017,1,837
+UNCW,CAA,460,2018,1,837
+UNCW,CAA,460,2019,1,837
+UNI,MVC,504,2002,1,884
+UNI,MVC,504,2003,1,884
+UNI,MVC,504,2004,1,884
+UNI,MVC,504,2005,1,884
+UNI,MVC,504,2006,1,884
+UNI,MVC,504,2007,1,884
+UNI,MVC,504,2008,1,884
+UNI,MVC,504,2009,1,884
+UNLV,MWC,465,2002,1,5486
+UNLV,MWC,465,2003,1,5486
+UNLV,MWC,465,2004,1,5486
+UNLV,MWC,465,2005,1,5486
+UNLV,MWC,465,2006,1,5486
+UNLV,MWC,465,2007,1,5486
+UNLV,MWC,465,2008,1,5486
+UNLV,MWC,465,2009,1,5486
+UNLV,MWC,465,2010,1,5486
+UNLV,MWC,465,2011,1,5486
+UNLV,MWC,465,2012,1,5486
+UNLV,MWC,465,2013,1,5486
+UNLV,MWC,465,2014,1,5486
+UNLV,MWC,465,2015,1,5486
+UNLV,MWC,465,2016,1,5486
+UNLV,MWC,465,2017,1,5486
+UNLV,MWC,465,2018,1,5486
+UNLV,MWC,465,2019,1,5486
+Upper Iowa,Independent,728,2004,1,0
+Upper Iowa,Independent,728,2005,1,0
+Upper Iowa,Independent,728,2006,1,0
+USC Upstate,ASUN,10411,2008,1,920
+USC Upstate,ASUN,10411,2009,1,920
+USC Upstate,ASUN,10411,2010,1,920
+USC Upstate,ASUN,10411,2011,1,920
+USC Upstate,ASUN,10411,2012,1,920
+USC Upstate,ASUN,10411,2013,1,920
+USC Upstate,ASUN,10411,2014,1,920
+USC Upstate,ASUN,10411,2015,1,920
+USC Upstate,ASUN,10411,2016,1,920
+USC Upstate,ASUN,10411,2017,1,920
+USC Upstate,ASUN,10411,2018,1,920
+USC Upstate,Big South,10411,2019,1,826
+UT Arlington,Southland,702,2002,1,914
+UT Arlington,Southland,702,2003,1,914
+UT Arlington,Southland,702,2004,1,914
+UT Arlington,Southland,702,2005,1,914
+UT Arlington,Southland,702,2006,1,914
+UT Arlington,Southland,702,2007,1,914
+UT Arlington,Southland,702,2008,1,914
+UT Arlington,Southland,702,2009,1,914
+UT Arlington,Southland,702,2010,1,914
+UT Arlington,Southland,702,2011,1,914
+UT Arlington,Southland,702,2012,1,914
+UT Arlington,WAC,702,2013,1,923
+UT Arlington,Sun Belt,702,2014,1,818
+UT Arlington,Sun Belt,702,2015,1,818
+UT Arlington,Sun Belt,702,2016,1,818
+UT Arlington,Sun Belt,702,2017,1,818
+UT Arlington,Sun Belt,702,2018,1,818
+UT Arlington,Sun Belt,702,2019,1,818
+UT Martin,OVC,695,2002,1,902
+UT Martin,OVC,695,2003,1,902
+UT Martin,OVC,695,2004,1,902
+UT Martin,OVC,695,2005,1,902
+UT Martin,OVC,695,2006,1,902
+UT Martin,OVC,695,2007,1,902
+UT Martin,OVC,695,2008,1,902
+UT Martin,OVC,695,2009,1,902
+UT Martin,OVC,695,2010,1,902
+UT Martin,OVC,695,2011,1,902
+UT Martin,OVC,695,2012,1,902
+UT Martin,OVC,695,2013,1,902
+UT Martin,OVC,695,2014,1,902
+UT Martin,OVC,695,2015,1,902
+UT Martin,OVC,695,2016,1,902
+UT Martin,OVC,695,2017,1,902
+UT Martin,OVC,695,2018,1,902
+UT Martin,OVC,695,2019,1,902
+Utah,MWC,732,2002,1,5486
+Utah,MWC,732,2003,1,5486
+Utah,MWC,732,2004,1,5486
+Utah,MWC,732,2005,1,5486
+Utah,MWC,732,2006,1,5486
+Utah,MWC,732,2007,1,5486
+Utah,MWC,732,2008,1,5486
+Utah,MWC,732,2009,1,5486
+Utah,MWC,732,2010,1,5486
+Utah,MWC,732,2011,1,5486
+Utah,Pac-12,732,2012,1,905
+Utah,Pac-12,732,2013,1,905
+Utah,Pac-12,732,2014,1,905
+Utah,Pac-12,732,2015,1,905
+Utah,Pac-12,732,2016,1,905
+Utah,Pac-12,732,2017,1,905
+Utah,Pac-12,732,2018,1,905
+Utah,Pac-12,732,2019,1,905
+Utah Valley,GWC,30024,2010,1,30062
+Utah Valley,GWC,30024,2011,1,30062
+Utah Valley,GWC,30024,2012,1,30062
+Utah Valley,GWC,30024,2013,1,30156
+Utah Valley,WAC,30024,2014,1,923
+Utah Valley,WAC,30024,2015,1,923
+Utah Valley,WAC,30024,2016,1,923
+Utah Valley,WAC,30024,2017,1,923
+Utah Valley,WAC,30024,2018,1,923
+Utah Valley,WAC,30024,2019,1,923
+UTRGV,Independent,536,2002,1,0
+UTRGV,Independent,536,2003,1,0
+UTRGV,Independent,536,2004,1,0
+UTRGV,Independent,536,2005,1,0
+UTRGV,Independent,536,2006,1,0
+UTRGV,Independent,536,2007,1,0
+UTRGV,Independent,536,2008,1,0
+UTRGV,Independent,536,2009,1,0
+UTRGV,GWC,536,2010,1,30062
+UTRGV,GWC,536,2011,1,30062
+UTRGV,GWC,536,2012,1,30062
+UTRGV,GWC,536,2013,1,30156
+UTRGV,WAC,536,2014,1,923
+UTRGV,WAC,536,2015,1,923
+UTRGV,WAC,536,2016,1,923
+UTRGV,WAC,536,2017,1,923
+UTRGV,WAC,536,2018,1,923
+UTRGV,WAC,536,2019,1,923
+UTSA,Southland,706,2002,1,914
+UTSA,Southland,706,2003,1,914
+UTSA,Southland,706,2004,1,914
+UTSA,Southland,706,2005,1,914
+UTSA,Southland,706,2006,1,914
+UTSA,Southland,706,2007,1,914
+UTSA,Southland,706,2008,1,914
+UTSA,Southland,706,2009,1,914
+UTSA,Southland,706,2010,1,914
+UTSA,Southland,706,2011,1,914
+UTSA,Southland,706,2012,1,914
+UTSA,WAC,706,2013,1,923
+UTSA,C-USA,706,2014,1,24312
+UTSA,C-USA,706,2015,1,24312
+UTSA,C-USA,706,2016,1,24312
+UTSA,C-USA,706,2017,1,24312
+UTSA,C-USA,706,2018,1,24312
+UTSA,C-USA,706,2019,1,24312
+Valparaiso,Summit League,735,2002,1,819
+Valparaiso,Summit League,735,2003,1,819
+Valparaiso,Summit League,735,2004,1,819
+Valparaiso,Summit League,735,2005,1,819
+Valparaiso,Summit League,735,2006,1,819
+Valparaiso,Summit League,735,2007,1,819
+Valparaiso,Horizon,735,2008,1,881
+Valparaiso,Horizon,735,2009,1,881
+Valparaiso,Horizon,735,2010,1,881
+Valparaiso,Horizon,735,2011,1,881
+Valparaiso,Horizon,735,2012,1,881
+Valparaiso,Horizon,735,2013,1,881
+Valparaiso,Horizon,735,2014,1,881
+Valparaiso,Horizon,735,2015,1,881
+Valparaiso,Horizon,735,2016,1,881
+Valparaiso,Horizon,735,2017,1,881
+Valparaiso,MVC,735,2018,1,884
+Valparaiso,MVC,735,2019,1,884
+Vanderbilt,SEC,736,2002,1,911
+Vanderbilt,SEC,736,2003,1,911
+Vanderbilt,SEC,736,2004,1,911
+Vanderbilt,SEC,736,2005,1,911
+Vanderbilt,SEC,736,2006,1,911
+Vanderbilt,SEC,736,2007,1,911
+Vanderbilt,SEC,736,2008,1,911
+Vanderbilt,SEC,736,2009,1,911
+Vanderbilt,SEC,736,2010,1,911
+Vanderbilt,SEC,736,2011,1,911
+Vanderbilt,SEC,736,2012,1,911
+Vanderbilt,SEC,736,2013,1,911
+Vanderbilt,SEC,736,2014,1,911
+Vanderbilt,SEC,736,2015,1,911
+Vanderbilt,SEC,736,2016,1,911
+Vanderbilt,SEC,736,2017,1,911
+Vanderbilt,SEC,736,2018,1,911
+Vanderbilt,SEC,736,2019,1,911
+VCU,CAA,740,2002,1,837
+VCU,CAA,740,2003,1,837
+VCU,CAA,740,2004,1,837
+VCU,CAA,740,2005,1,837
+VCU,CAA,740,2006,1,837
+VCU,CAA,740,2007,1,837
+VCU,CAA,740,2008,1,837
+VCU,CAA,740,2009,1,837
+VCU,CAA,740,2010,1,837
+VCU,CAA,740,2011,1,837
+VCU,CAA,740,2012,1,837
+VCU,Atlantic 10,740,2013,1,820
+VCU,Atlantic 10,740,2014,1,820
+VCU,Atlantic 10,740,2015,1,820
+VCU,Atlantic 10,740,2016,1,820
+VCU,Atlantic 10,740,2017,1,820
+VCU,Atlantic 10,740,2018,1,820
+VCU,Atlantic 10,740,2019,1,820
+Vermont,America East,738,2002,1,845
+Vermont,America East,738,2003,1,845
+Vermont,America East,738,2004,1,845
+Vermont,America East,738,2005,1,845
+Vermont,America East,738,2006,1,845
+Vermont,America East,738,2007,1,845
+Vermont,America East,738,2008,1,845
+Vermont,America East,738,2009,1,845
+Villanova,AAC,739,2002,1,823
+Villanova,AAC,739,2003,1,823
+Villanova,AAC,739,2004,1,823
+Villanova,AAC,739,2005,1,823
+Villanova,AAC,739,2006,1,823
+Villanova,AAC,739,2007,1,823
+Villanova,AAC,739,2008,1,823
+Villanova,AAC,739,2009,1,823
+Villanova,AAC,739,2010,1,823
+Villanova,AAC,739,2011,1,823
+Villanova,AAC,739,2012,1,823
+Villanova,AAC,739,2013,1,823
+Villanova,Big East,739,2014,1,30184
+Villanova,Big East,739,2015,1,30184
+Villanova,Big East,739,2016,1,30184
+Villanova,Big East,739,2017,1,30184
+Villanova,Big East,739,2018,1,30184
+Villanova,Big East,739,2019,1,30184
+Virginia,ACC,746,2002,1,821
+Virginia,ACC,746,2003,1,821
+Virginia,ACC,746,2004,1,821
+Virginia,ACC,746,2005,1,821
+Virginia,ACC,746,2006,1,821
+Virginia,ACC,746,2007,1,821
+Virginia,ACC,746,2008,1,821
+Virginia,ACC,746,2009,1,821
+Virginia,ACC,746,2010,1,821
+Virginia,ACC,746,2011,1,821
+Virginia,ACC,746,2012,1,821
+Virginia,ACC,746,2013,1,821
+Virginia,ACC,746,2014,1,821
+Virginia,ACC,746,2015,1,821
+Virginia,ACC,746,2016,1,821
+Virginia,ACC,746,2017,1,821
+Virginia,ACC,746,2018,1,821
+Virginia,ACC,746,2019,1,821
+Virginia Tech,AAC,742,2002,1,823
+Virginia Tech,AAC,742,2003,1,823
+Virginia Tech,AAC,742,2004,1,823
+Virginia Tech,ACC,742,2005,1,821
+Virginia Tech,ACC,742,2006,1,821
+Virginia Tech,ACC,742,2007,1,821
+Virginia Tech,ACC,742,2008,1,821
+Virginia Tech,ACC,742,2009,1,821
+Virginia Tech,ACC,742,2010,1,821
+Virginia Tech,ACC,742,2011,1,821
+Virginia Tech,ACC,742,2012,1,821
+Virginia Tech,ACC,742,2013,1,821
+Virginia Tech,ACC,742,2014,1,821
+Virginia Tech,ACC,742,2015,1,821
+Virginia Tech,ACC,742,2016,1,821
+Virginia Tech,ACC,742,2017,1,821
+Virginia Tech,ACC,742,2018,1,821
+Virginia Tech,ACC,742,2019,1,821
+VMI,SoCon,741,2002,1,912
+VMI,SoCon,741,2003,1,912
+VMI,Big South,741,2004,1,826
+VMI,Big South,741,2005,1,826
+VMI,Big South,741,2006,1,826
+VMI,Big South,741,2007,1,826
+VMI,Big South,741,2008,1,826
+VMI,Big South,741,2009,1,826
+VMI,Big South,741,2010,1,826
+VMI,Big South,741,2011,1,826
+VMI,Big South,741,2012,1,826
+VMI,Big South,741,2013,1,826
+VMI,Big South,741,2014,1,826
+VMI,SoCon,741,2015,1,912
+VMI,SoCon,741,2016,1,912
+VMI,SoCon,741,2017,1,912
+VMI,SoCon,741,2018,1,912
+VMI,SoCon,741,2019,1,912
+Wagner,NEC,748,2002,1,846
+Wagner,NEC,748,2003,1,846
+Wagner,NEC,748,2004,1,846
+Wagner,NEC,748,2005,1,846
+Wagner,NEC,748,2006,1,846
+Wagner,NEC,748,2007,1,846
+Wagner,NEC,748,2008,1,846
+Wagner,NEC,748,2009,1,846
+Wagner,NEC,748,2010,1,846
+Wagner,NEC,748,2011,1,846
+Wagner,NEC,748,2012,1,846
+Wagner,NEC,748,2013,1,846
+Wagner,NEC,748,2014,1,846
+Wagner,NEC,748,2015,1,846
+Wagner,NEC,748,2016,1,846
+Wagner,NEC,748,2017,1,846
+Wagner,NEC,748,2018,1,846
+Wagner,NEC,748,2019,1,846
+Wake Forest,ACC,749,2002,1,821
+Wake Forest,ACC,749,2003,1,821
+Wake Forest,ACC,749,2004,1,821
+Wake Forest,ACC,749,2005,1,821
+Wake Forest,ACC,749,2006,1,821
+Wake Forest,ACC,749,2007,1,821
+Wake Forest,ACC,749,2008,1,821
+Wake Forest,ACC,749,2009,1,821
+Wake Forest,ACC,749,2010,1,821
+Wake Forest,ACC,749,2011,1,821
+Wake Forest,ACC,749,2012,1,821
+Wake Forest,ACC,749,2013,1,821
+Wake Forest,ACC,749,2014,1,821
+Wake Forest,ACC,749,2015,1,821
+Wake Forest,ACC,749,2016,1,821
+Wake Forest,ACC,749,2017,1,821
+Wake Forest,ACC,749,2018,1,821
+Wake Forest,ACC,749,2019,1,821
+Washington,Pac-12,756,2002,1,905
+Washington,Pac-12,756,2003,1,905
+Washington,Pac-12,756,2004,1,905
+Washington,Pac-12,756,2005,1,905
+Washington,Pac-12,756,2006,1,905
+Washington,Pac-12,756,2007,1,905
+Washington,Pac-12,756,2008,1,905
+Washington,Pac-12,756,2009,1,905
+Washington,Pac-12,756,2010,1,905
+Washington,Pac-12,756,2011,1,905
+Washington,Pac-12,756,2012,1,905
+Washington,Pac-12,756,2013,1,905
+Washington,Pac-12,756,2014,1,905
+Washington,Pac-12,756,2015,1,905
+Washington,Pac-12,756,2016,1,905
+Washington,Pac-12,756,2017,1,905
+Washington,Pac-12,756,2018,1,905
+Washington,Pac-12,756,2019,1,905
+Washington Adventist,Independent,1029,2002,1,0
+Washington Adventist,Independent,1029,2003,1,0
+Washington Adventist,Independent,1029,2004,1,0
+Washington Adventist,Independent,1029,2005,1,0
+Washington Adventist,Independent,1029,2006,1,0
+Washington Adventist,Independent,1029,2007,1,0
+Washington Adventist,Independent,1029,2008,1,0
+Washington Adventist,Independent,1029,2009,1,0
+Washington St.,Pac-12,754,2002,1,905
+Washington St.,Pac-12,754,2003,1,905
+Washington St.,Pac-12,754,2004,1,905
+Washington St.,Pac-12,754,2005,1,905
+Washington St.,Pac-12,754,2006,1,905
+Washington St.,Pac-12,754,2007,1,905
+Washington St.,Pac-12,754,2008,1,905
+Washington St.,Pac-12,754,2009,1,905
+Washington St.,Pac-12,754,2010,1,905
+Washington St.,Pac-12,754,2011,1,905
+Washington St.,Pac-12,754,2012,1,905
+Washington St.,Pac-12,754,2013,1,905
+Washington St.,Pac-12,754,2014,1,905
+Washington St.,Pac-12,754,2015,1,905
+Washington St.,Pac-12,754,2016,1,905
+Washington St.,Pac-12,754,2017,1,905
+Washington St.,Pac-12,754,2018,1,905
+Washington St.,Pac-12,754,2019,1,905
+West Virginia,AAC,768,2002,1,823
+West Virginia,AAC,768,2003,1,823
+West Virginia,AAC,768,2004,1,823
+West Virginia,AAC,768,2005,1,823
+West Virginia,AAC,768,2006,1,823
+West Virginia,AAC,768,2007,1,823
+West Virginia,AAC,768,2008,1,823
+West Virginia,AAC,768,2009,1,823
+West Virginia,AAC,768,2010,1,823
+West Virginia,AAC,768,2011,1,823
+West Virginia,AAC,768,2012,1,823
+West Virginia,Big 12,768,2013,1,25354
+West Virginia,Big 12,768,2014,1,25354
+West Virginia,Big 12,768,2015,1,25354
+West Virginia,Big 12,768,2016,1,25354
+West Virginia,Big 12,768,2017,1,25354
+West Virginia,Big 12,768,2018,1,25354
+West Virginia,Big 12,768,2019,1,25354
+Western Caro.,SoCon,769,2002,1,912
+Western Caro.,SoCon,769,2003,1,912
+Western Caro.,SoCon,769,2004,1,912
+Western Caro.,SoCon,769,2005,1,912
+Western Caro.,SoCon,769,2006,1,912
+Western Caro.,SoCon,769,2007,1,912
+Western Caro.,SoCon,769,2008,1,912
+Western Caro.,SoCon,769,2009,1,912
+Western Caro.,SoCon,769,2010,1,912
+Western Caro.,SoCon,769,2011,1,912
+Western Caro.,SoCon,769,2012,1,912
+Western Caro.,SoCon,769,2013,1,912
+Western Caro.,SoCon,769,2014,1,912
+Western Caro.,SoCon,769,2015,1,912
+Western Caro.,SoCon,769,2016,1,912
+Western Caro.,SoCon,769,2017,1,912
+Western Caro.,SoCon,769,2018,1,912
+Western Caro.,SoCon,769,2019,1,912
+Western Ill.,Summit League,771,2002,1,819
+Western Ill.,Summit League,771,2003,1,819
+Western Ill.,Summit League,771,2004,1,819
+Western Ill.,Summit League,771,2005,1,819
+Western Ill.,Summit League,771,2006,1,819
+Western Ill.,Summit League,771,2007,1,819
+Western Ill.,Summit League,771,2008,1,819
+Western Ill.,Summit League,771,2009,1,819
+Western Ill.,Summit League,771,2010,1,819
+Western Ill.,Summit League,771,2011,1,819
+Western Ill.,Summit League,771,2012,1,819
+Western Ill.,Summit League,771,2013,1,819
+Western Ill.,Summit League,771,2014,1,819
+Western Ill.,Summit League,771,2015,1,819
+Western Ill.,Summit League,771,2016,1,819
+Western Ill.,Summit League,771,2017,1,819
+Western Ill.,Summit League,771,2018,1,819
+Western Ill.,Summit League,771,2019,1,819
+Western Ky.,Sun Belt,772,2002,1,818
+Western Ky.,Sun Belt,772,2003,1,818
+Western Ky.,Sun Belt,772,2004,1,818
+Western Ky.,Sun Belt,772,2005,1,818
+Western Ky.,Sun Belt,772,2006,1,818
+Western Ky.,Sun Belt,772,2007,1,818
+Western Ky.,Sun Belt,772,2008,1,818
+Western Ky.,Sun Belt,772,2009,1,818
+Western Ky.,Sun Belt,772,2010,1,818
+Western Ky.,Sun Belt,772,2011,1,818
+Western Ky.,Sun Belt,772,2012,1,818
+Western Ky.,Sun Belt,772,2013,1,818
+Western Ky.,Sun Belt,772,2014,1,818
+Western Ky.,C-USA,772,2015,1,24312
+Western Ky.,C-USA,772,2016,1,24312
+Western Ky.,C-USA,772,2017,1,24312
+Western Ky.,C-USA,772,2018,1,24312
+Western Ky.,C-USA,772,2019,1,24312
+Western Mich.,MAC,774,2002,1,875
+Western Mich.,MAC,774,2003,1,875
+Western Mich.,MAC,774,2004,1,875
+Western Mich.,MAC,774,2005,1,875
+Western Mich.,MAC,774,2006,1,875
+Western Mich.,MAC,774,2007,1,875
+Western Mich.,MAC,774,2008,1,875
+Western Mich.,MAC,774,2009,1,875
+Western Mich.,MAC,774,2010,1,875
+Western Mich.,MAC,774,2011,1,875
+Western Mich.,MAC,774,2012,1,875
+Western Mich.,MAC,774,2013,1,875
+Western Mich.,MAC,774,2014,1,875
+Western Mich.,MAC,774,2015,1,875
+Western Mich.,MAC,774,2016,1,875
+Western Mich.,MAC,774,2017,1,875
+Western Mich.,MAC,774,2018,1,875
+Western Mich.,MAC,774,2019,1,875
+Westminster (PA),Independent,1451,2002,1,0
+Wichita St.,MVC,782,2002,1,884
+Wichita St.,MVC,782,2003,1,884
+Wichita St.,MVC,782,2004,1,884
+Wichita St.,MVC,782,2005,1,884
+Wichita St.,MVC,782,2006,1,884
+Wichita St.,MVC,782,2007,1,884
+Wichita St.,MVC,782,2008,1,884
+Wichita St.,MVC,782,2009,1,884
+Wichita St.,MVC,782,2010,1,884
+Wichita St.,MVC,782,2011,1,884
+Wichita St.,MVC,782,2012,1,884
+Wichita St.,MVC,782,2013,1,884
+Wichita St.,MVC,782,2014,1,884
+Wichita St.,MVC,782,2015,1,884
+Wichita St.,MVC,782,2016,1,884
+Wichita St.,MVC,782,2017,1,884
+Wichita St.,AAC,782,2018,1,823
+Wichita St.,AAC,782,2019,1,823
+William & Mary,CAA,786,2002,1,837
+William & Mary,CAA,786,2003,1,837
+William & Mary,CAA,786,2004,1,837
+William & Mary,CAA,786,2005,1,837
+William & Mary,CAA,786,2006,1,837
+William & Mary,CAA,786,2007,1,837
+William & Mary,CAA,786,2008,1,837
+William & Mary,CAA,786,2009,1,837
+William & Mary,CAA,786,2010,1,837
+William & Mary,CAA,786,2011,1,837
+William & Mary,CAA,786,2012,1,837
+William & Mary,CAA,786,2013,1,837
+William & Mary,CAA,786,2014,1,837
+William & Mary,CAA,786,2015,1,837
+William & Mary,CAA,786,2016,1,837
+William & Mary,CAA,786,2017,1,837
+William & Mary,CAA,786,2018,1,837
+William & Mary,CAA,786,2019,1,837
+Winthrop,Big South,792,2002,1,826
+Winthrop,Big South,792,2003,1,826
+Winthrop,Big South,792,2004,1,826
+Winthrop,Big South,792,2005,1,826
+Winthrop,Big South,792,2006,1,826
+Winthrop,Big South,792,2007,1,826
+Winthrop,Big South,792,2008,1,826
+Winthrop,Big South,792,2009,1,826
+Winthrop,Big South,792,2010,1,826
+Winthrop,Big South,792,2011,1,826
+Winthrop,Big South,792,2012,1,826
+Winthrop,Big South,792,2013,1,826
+Winthrop,Big South,792,2014,1,826
+Winthrop,Big South,792,2015,1,826
+Winthrop,Big South,792,2016,1,826
+Winthrop,Big South,792,2017,1,826
+Winthrop,Big South,792,2018,1,826
+Winthrop,Big South,792,2019,1,826
+Wofford,SoCon,2915,2002,1,912
+Wofford,SoCon,2915,2003,1,912
+Wofford,SoCon,2915,2004,1,912
+Wofford,SoCon,2915,2005,1,912
+Wofford,SoCon,2915,2006,1,912
+Wofford,SoCon,2915,2007,1,912
+Wofford,SoCon,2915,2008,1,912
+Wofford,SoCon,2915,2009,1,912
+Wofford,SoCon,2915,2010,1,912
+Wofford,SoCon,2915,2011,1,912
+Wofford,SoCon,2915,2012,1,912
+Wofford,SoCon,2915,2013,1,912
+Wofford,SoCon,2915,2014,1,912
+Wofford,SoCon,2915,2015,1,912
+Wofford,SoCon,2915,2016,1,912
+Wofford,SoCon,2915,2017,1,912
+Wofford,SoCon,2915,2018,1,912
+Wofford,SoCon,2915,2019,1,912
+Wright St.,Horizon,810,2002,1,881
+Wright St.,Horizon,810,2003,1,881
+Wright St.,Horizon,810,2004,1,881
+Wright St.,Horizon,810,2005,1,881
+Wright St.,Horizon,810,2006,1,881
+Wright St.,Horizon,810,2007,1,881
+Wright St.,Horizon,810,2008,1,881
+Wright St.,Horizon,810,2009,1,881
+Wright St.,Horizon,810,2010,1,881
+Wright St.,Horizon,810,2011,1,881
+Wright St.,Horizon,810,2012,1,881
+Wright St.,Horizon,810,2013,1,881
+Wright St.,Horizon,810,2014,1,881
+Wright St.,Horizon,810,2015,1,881
+Wright St.,Horizon,810,2016,1,881
+Wright St.,Horizon,810,2017,1,881
+Wright St.,Horizon,810,2018,1,881
+Wright St.,Horizon,810,2019,1,881
+Xavier,Atlantic 10,812,2002,1,820
+Xavier,Atlantic 10,812,2003,1,820
+Xavier,Atlantic 10,812,2004,1,820
+Xavier,Atlantic 10,812,2005,1,820
+Xavier,Atlantic 10,812,2006,1,820
+Xavier,Atlantic 10,812,2007,1,820
+Xavier,Atlantic 10,812,2008,1,820
+Xavier,Atlantic 10,812,2009,1,820
+Xavier,Atlantic 10,812,2010,1,820
+Xavier,Atlantic 10,812,2011,1,820
+Xavier,Atlantic 10,812,2012,1,820
+Xavier,Atlantic 10,812,2013,1,820
+Xavier,Big East,812,2014,1,30184
+Xavier,Big East,812,2015,1,30184
+Xavier,Big East,812,2016,1,30184
+Xavier,Big East,812,2017,1,30184
+Xavier,Big East,812,2018,1,30184
+Xavier,Big East,812,2019,1,30184
+Yale,Ivy League,813,2002,1,865
+Yale,Ivy League,813,2003,1,865
+Yale,Ivy League,813,2004,1,865
+Yale,Ivy League,813,2005,1,865
+Yale,Ivy League,813,2006,1,865
+Yale,Ivy League,813,2007,1,865
+Yale,Ivy League,813,2008,1,865
+Yale,Ivy League,813,2009,1,865
+Yale,Ivy League,813,2010,1,865
+Yale,Ivy League,813,2011,1,865
+Yale,Ivy League,813,2012,1,865
+Yale,Ivy League,813,2013,1,865
+Yale,Ivy League,813,2014,1,865
+Yale,Ivy League,813,2015,1,865
+Yale,Ivy League,813,2016,1,865
+Yale,Ivy League,813,2017,1,865
+Yale,Ivy League,813,2018,1,865
+Yale,Ivy League,813,2019,1,865
+Youngstown St.,Horizon,817,2002,1,881
+Youngstown St.,Horizon,817,2003,1,881
+Youngstown St.,Horizon,817,2004,1,881
+Youngstown St.,Horizon,817,2005,1,881
+Youngstown St.,Horizon,817,2006,1,881
+Youngstown St.,Horizon,817,2007,1,881
+Youngstown St.,Horizon,817,2008,1,881
+Youngstown St.,Horizon,817,2009,1,881
+Youngstown St.,Horizon,817,2010,1,881
+Youngstown St.,Horizon,817,2011,1,881
+Youngstown St.,Horizon,817,2012,1,881
+Youngstown St.,Horizon,817,2013,1,881
+Youngstown St.,Horizon,817,2014,1,881
+Youngstown St.,Horizon,817,2015,1,881
+Youngstown St.,Horizon,817,2016,1,881
+Youngstown St.,Horizon,817,2017,1,881
+Youngstown St.,Horizon,817,2018,1,881
+Youngstown St.,Horizon,817,2019,1,881
