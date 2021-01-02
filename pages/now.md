@@ -2,7 +2,7 @@
 permalink: /now
 layout: page
 title: Now
-date: 2020-11-06T00:00:00.000Z
+date: {}
 published: true
 ---
 Last updated: {{%page.date%}}
@@ -29,4 +29,4 @@ This is what I'm up to right now!!
 
 ### Currently Reading
 - *The Signal and the Noise* - Nate Silver
-- *The Rise of Superman* - Steven Kotler
+- *Stealing Fire* - Jaime Wheal & Steven Kotler
