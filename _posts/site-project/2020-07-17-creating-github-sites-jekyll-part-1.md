@@ -70,6 +70,7 @@ layout: default
   </div>
 
 </div>
+{% endraw %}
 ```
 The frontmatter means all of this html is inserted into the default layout where the {{content}} tag is placed. We have an if statement that will show the page title if it exists (this makes the very large "Home" at the top of the page). Then we have the content, which is everything in our `index.md` file. Finally we have a for loop that makes a link for each article in the `_posts` folder.
 
