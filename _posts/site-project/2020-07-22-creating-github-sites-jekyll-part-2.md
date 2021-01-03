@@ -3,7 +3,7 @@ published: true
 title: 'Creating a GitHub Pages Site with Jekyll, Part 2'
 subtitle: Styling Things Up
 categories: projects website
-date: {}
+date: 07-22-2020
 layout: post
 tags: jekyll webdev
 ---
