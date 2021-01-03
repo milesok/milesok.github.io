@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 title: 'Creating a GitHub Pages Site with Jekyll, Part 2'
 subtitle: Styling Things Up
 categories: projects website
-date: 2020-07-22T00:00:00.000Z
+date: {}
 layout: post
 tags: jekyll webdev
 ---
@@ -11,6 +11,7 @@ Okay so what we have right now is a website but it's reeeeeal ugly and that's mo
 
 ### Fonts and Colors
 To define the styles for this webpage, I decided to use [SASS](https://sass-lang.com/). I set it up by making a folder called `_sass` in the root directory. I created a SASS stylesheet called `main.scss` with these contents:
+{% raw %}
 ```{sass}
 $font-stack: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $primary-color: #000000;
@@ -89,5 +90,6 @@ nav {
   }
 }
 ```
+{% endraw %}
 ![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/creating-github-page/v2.PNG?raw=true)
 This is all fairly basic stuff but it makes a heck of a lot of difference. For the next post, I'm hoping to style up the home page and articles.
