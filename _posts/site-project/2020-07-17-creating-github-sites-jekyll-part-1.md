@@ -48,6 +48,7 @@ Basically anything that's not a blog. The frontmatter 'permalink' variable allow
 ### Layouts!
 This is how we'll make everything look all nice and pretty. For example, this is what our home page layout file looks like right now:
 ```
+{% raw %}
 ---
 layout: default
 ---
