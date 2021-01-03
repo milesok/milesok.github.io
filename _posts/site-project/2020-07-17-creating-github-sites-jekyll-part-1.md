@@ -71,7 +71,7 @@ layout: default
 
 </div>
 ```
-The frontmatter means all of this html is inserted into the default layout where the {{content}} tag is placed. We have an if statement that will show the page title if it exists (this makes the very large "Home" at the top of the page). Then we have the content, which is everything in our `index.md` file. Finally we have a for loop that makes a link for each article in the `_posts` folder.
+The frontmatter means all of this html is inserted into the default layout where the {{content}} {% endraw %} tag is placed. We have an if statement that will show the page title if it exists (this makes the very large "Home" at the top of the page). Then we have the content, which is everything in our `index.md` file. Finally we have a for loop that makes a link for each article in the `_posts` folder.
 
 That's about enough for one day. I have a site now though. Pretty cool. Next time I'll spice it up with some styling and navigation!
 
@@ -79,4 +79,3 @@ That's about enough for one day. I have a site now though. Pretty cool. Next tim
 
 Oops not done... I went and made a [404 page](https://milesokamoto.github.io/404) too just for fun. Now I'm done.
 
-{% endraw %}
