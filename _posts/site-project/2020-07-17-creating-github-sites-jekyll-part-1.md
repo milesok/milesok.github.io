@@ -48,7 +48,28 @@ Basically anything that's not a blog. The frontmatter 'permalink' variable allow
 ### Layouts!
 This is how we'll make everything look all nice and pretty. For example, this is what our home page layout file looks like right now:
 ```
+{% raw %}
+---
+layout: default
+---
 
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <div class="posts-list">
+    {% for post in site.posts %}
+    <article class="post-preview">
+      <a href="{{ post.url | relative_url }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+     </article>
+    {% endfor %}
+  </div>
+
+</div>
 ```
 The frontmatter means all of this html is inserted into the default layout where the {{content}} tag is placed. We have an if statement that will show the page title if it exists (this makes the very large "Home" at the top of the page). Then we have the content, which is everything in our `index.md` file. Finally we have a for loop that makes a link for each article in the `_posts` folder.
 
@@ -57,3 +78,5 @@ That's about enough for one day. I have a site now though. Pretty cool. Next tim
 ![](https://github.com/milesokamoto/milesokamoto.github.io/blob/master/assets/img/creating-github-page/v1.PNG)
 
 Oops not done... I went and made a [404 page](https://milesokamoto.github.io/404) too just for fun. Now I'm done.
+
+{% endraw %}
