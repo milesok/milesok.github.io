@@ -3,7 +3,7 @@ title: 'Creating a GitHub Pages Site with Jekyll, Part 1'
 subtitle: A page about how this page was made
 categories: projects website
 layout: post
-published: false
+published: true
 ---
 
 Jekyll is a static site generator that is integrated with GitHub Pages. That makes things pretty easy on us. It is a nice middle ground between being easy to build out of the box but fully customizable with HTML, CSS, etc.
@@ -18,7 +18,7 @@ I started by downloading the [RubyInstaller](https://github.com/oneclick/rubyins
 This is pretty simple - just make a new repository on github with the name \<username>.github.io. I cloned the repository to my computer
 
 ### Skeleton Site
-I navigated to the directory holding the cloned repository and ran ```jekyll new milesok.github.io```, which creates the skeleton Jekyll site in the folder. I then pushed it all up to the repository using Git and now I have a website. We can create a local development server with ```jekyll serve``` but GitHub will automatically build the page with any updated commits you push.
+I navigated to the directory holding the cloned repository and ran ```jekyll new milesokamoto.github.io```, which creates the skeleton Jekyll site in the folder. I then pushed it all up to the repository using Git and now I have a website. We can create a local development server with ```jekyll serve``` but GitHub will automatically build the page with any updated commits you push.
 
 ## The Basics of Jekyll
 ### Frontmatter
@@ -43,7 +43,7 @@ They can be written in Markdown which makes things easy
 Side note I'm using [prose.io](https://prose.io) to edit markdown and easily save changes/preview/etc. within the browser.
 
 ### Pages!
-Basically anything that's not a blog. The frontmatter 'permalink' variable allows us to override the link path. We can give it a string to define the path, or a pattern (e.g. /:categories/:year/:month/:day/:title). I made a ['/now' page](https://nownownow.com/about) to test this out which is now [here](https://milesok.github.io/now).
+Basically anything that's not a blog. The frontmatter 'permalink' variable allows us to override the link path. We can give it a string to define the path, or a pattern (e.g. /:categories/:year/:month/:day/:title). I made a ['/now' page](https://nownownow.com/about) to test this out which is now [here](https://milesokamoto.github.io/now).
 
 ### Layouts!
 This is how we'll make everything look all nice and pretty. For example, this is what our home page layout file looks like right now:
@@ -74,6 +74,6 @@ The frontmatter means all of this html is inserted into the default layout where
 
 That's about enough for one day. I have a site now though. Pretty cool. Next time I'll spice it up with some styling and navigation!
 
-![](https://github.com/milesok/milesok.github.io/blob/master/assets/img/creating-github-page/v1.PNG)
+![](https://github.com/milesokamoto/milesokamoto.github.io/blob/master/assets/img/creating-github-page/v1.PNG)
 
-I lied I went and made a [404 page](https://milesok.github.io/404) too just for fun. Now I'm done.
+Oops not done... I went and made a [404 page](https://milesokamoto.github.io/404) too just for fun. Now I'm done.
