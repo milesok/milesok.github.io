@@ -48,29 +48,7 @@ Basically anything that's not a blog. The frontmatter 'permalink' variable allow
 ### Layouts!
 This is how we'll make everything look all nice and pretty. For example, this is what our home page layout file looks like right now:
 ```
-{% raw %}
----
-layout: default
----
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
-
-  {{ content }}
-
-  <div class="posts-list">
-    {% for post in site.posts %}
-    <article class="post-preview">
-      <a href="{{ post.url | relative_url }}">
-        <h2 class="post-title">{{ post.title }}</h2>
-     </article>
-    {% endfor %}
-  </div>
-
-</div>
-{% endraw %}
 ```
 The frontmatter means all of this html is inserted into the default layout where the {{content}} tag is placed. We have an if statement that will show the page title if it exists (this makes the very large "Home" at the top of the page). Then we have the content, which is everything in our `index.md` file. Finally we have a for loop that makes a link for each article in the `_posts` folder.
 
