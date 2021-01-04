@@ -10,7 +10,7 @@ In comparing players from different years of Major League Baseball, or across di
 
 ### The Process
 First, I loaded the tidyverse package and loaded in [all of the data](https://github.com/milesok/milesok.github.io/tree/master/files/run_env_files) I'd need.
-```r
+```R
 require(tidyverse)
 headers <- read.csv('data/scores/headers.csv')
 scores2019 <- read_csv('data/scores/scores2019.csv', col_names =FALSE)
