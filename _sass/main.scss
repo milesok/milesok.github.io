@@ -8,7 +8,6 @@ body {
   color: $primary-color;
 }
 h1 {
-  text-align: center;
   font: 300% $font-stack;
   color: $primary-color;
 }
@@ -34,8 +33,12 @@ nav {
         }
   }
 }
+.home{
+  text-align: center;
+}
 .post-preview{
   padding: .1rem;
+  text-align: center;
 }
 .posts-list{
   margin: auto;
