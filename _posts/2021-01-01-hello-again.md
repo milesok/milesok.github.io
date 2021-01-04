@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-# Hello Again
-
 Welcome to 2021! I'm going to try and take another shot at publicly producing content this year.
 
 Here's a rough outline of what I think I want this space to look like. It will definitely change based on me not actually having as much time as I think I will, but right now, in an ideal world, it'd look something like this:
