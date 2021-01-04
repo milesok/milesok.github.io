@@ -35,6 +35,7 @@ nav {
 }
 .container-md{
   width: 60%;
+  margin: auto;
 }
 .page-heading{
   text-align: center;
@@ -44,8 +45,8 @@ nav {
 }
 .posts-list{
   margin: auto;
-  padding:1rem;
   width: 45%;
+  padding:1rem;
   a {
     color: black;
     text-decoration: none;
