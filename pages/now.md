@@ -2,10 +2,10 @@
 permalink: /now
 layout: page
 title: Now
-date: {}
+date: 01-03-21
 published: true
 ---
-Last updated: {{%page.date | date: "%Y-%m-%d" %}}
+Last updated: {{%page.date | date: "%Y %B %e" %}}
 
 This is what I'm up to right now!!
 
