@@ -5,7 +5,7 @@ title: Now
 date: {}
 published: true
 ---
-Last updated: {{%page.published_at | date: "%Y-%m-%d %H:%M" %}}
+Last updated: {{%article.published_at | date: "%Y-%m-%d %H:%M" %}}
 
 This is what I'm up to right now!!
 
