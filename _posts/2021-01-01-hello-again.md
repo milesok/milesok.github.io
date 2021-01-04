@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Hello Again
 
@@ -17,7 +17,7 @@ They say the best way to learn is to teach. So for stuff I've learned or am lear
 Inspired by Aristotle's (and many others after him) ideas of first principles thinking (explained [here](https://fs.blog/2018/04/first-principles/)), I'm going to try and dig deep into what I know (or think I know) and write it up here.
 
 ### What I'm Learning
-* **Feynman-inspired Crash Courses**: Any classes or online courses I take, I'm going to post my notes here. This is more for my own benefit than anything, for accountability so I can (1) find the weaknesses in my understanding and (2) record what I'm learning for whenever I might want to come back and review.
+* **Feynman-inspired Crash Courses**: Any classes or online courses I take, I'm going to post my notes here, with the goal of making the content [understandable to a sixth grader](https://fs.blog/2012/04/feynman-technique/). This is more for my own benefit than anything, for accountability so I can (1) find the weaknesses in my understanding and (2) record what I'm learning for whenever I might want to come back and review.
 
 * **Book "Reviews"**
 Not as much a "review" in the traditional sense, but write ups of what I'm learning from books I read, and how I think I can apply those lessons to what I'm interested in.
