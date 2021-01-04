@@ -1,4 +1,4 @@
-$font-stack: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-stack: 'Helvetica Neue', 'Open Sans', Helvetica, Arial, sans-serif;
 $primary-color: #000000;
 $nav-background: midnightblue;
 $nav-link: white;
@@ -42,10 +42,11 @@ nav {
 .posts-list{
   margin: auto;
   padding:1rem;
-  width: 40%;
+  width: 45%;
   a {
     color: black;
     font-weight: bold;
+    text-decoration: none;
     &:hover {
       text-decoration: underline;
     }
