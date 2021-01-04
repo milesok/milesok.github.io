@@ -11,6 +11,13 @@ h1 {
   font: 300% $font-stack;
   color: $primary-color;
 }
+a:link {
+  color: black;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
 nav {
   ul {
     list-style-type: none;
