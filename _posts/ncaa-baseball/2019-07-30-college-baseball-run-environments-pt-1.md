@@ -101,6 +101,7 @@ scores_conf %>%
   summarise(rpg = round(mean((home_score + away_score)/2),3)) %>%
   filter(home_conf %in% c("Big 12", "Pac-12", "Big Ten", "SEC", "ACC")) -> p5runenv
 ```  
+
 | home_conf | rpg 2012-14| rpg 2015-19|
 |----|----|----| 
 | ACC | 2012-2014 | 4.809 | 5.500 | 
