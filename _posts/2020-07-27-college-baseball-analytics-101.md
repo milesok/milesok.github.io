@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 title:The New Road to Omaha
 subtitle:Translating Analytics to College Baseball (2020 Edition)
 categories: blog
