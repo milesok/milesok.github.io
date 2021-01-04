@@ -44,11 +44,11 @@ nav {
   margin: auto;
   padding:1rem;
   width: 50%;
-  a:link {
+  a {
     color: black;
     font-weight: bold;
-  }
-  a:hover {
-    text-decoration: underline;
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
