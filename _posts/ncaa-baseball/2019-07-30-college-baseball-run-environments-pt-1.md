@@ -101,18 +101,13 @@ scores_conf %>%
   summarise(rpg = round(mean((home_score + away_score)/2),3)) %>%
   filter(home_conf %in% c("Big 12", "Pac-12", "Big Ten", "SEC", "ACC")) -> p5runenv
 ```  
-| home_conf | era       | rpg   |
-|-----------|-----------|-------|
-| ACC       | 2012-2014 | 4.809 |
-| ACC       | 2015-2019 | 5.500 |
-| Big 12    | 2012-2014 | 4.554 |
-| Big 12    | 2015-2019 | 5.310 |
-| Big Ten   | 2012-2014 | 4.841 |
-| Big Ten   | 2015-2019 | 5.152 |
-| Pac-12    | 2012-2014 | 4.643 |
-| Pac-12    | 2015-2019 | 5.258 |
-| SEC       | 2012-2014 | 4.518 |
-| SEC       | 2015-2019 | 5.172 |
+| home_conf | rpg 2012-14| rpg 2015-19|
+|----|----|----| 
+| ACC | 2012-2014 | 4.809 | 5.500 | 
+| Big 12 | 2012-2014 | 4.554 | 5.310 | 
+| Big Ten | 2012-2014 | 4.841 | 5.152 |
+| Pac-12 | 2012-2014 | 4.643 | 5.258 |
+| SEC | 2012-2014 | 4.518 | 5.172 |
 
 As expected and as intended by the NCAA, run scoring increased by about half a run per game following the changes to the baseball after the 2014 season. I also noticed that the average run scoring for the past 5 seasons was generally lower than this past season, so I grouped the 2015-2019 data by season to see if there was any noticeable trend in offense. Here is a graph showing the change in run environment from 2015 to 2019 for each conference:
 ![runenvdiff](https://github.com/milesok/milesok.github.io/blob/master/files/run_env_img/run_env_chg_15-19.PNG?raw=true)  
