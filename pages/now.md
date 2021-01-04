@@ -2,10 +2,10 @@
 permalink: /now
 layout: page
 title: Now
-date: 2021-01-01T00:00:00.000Z
+date: {}
 published: true
 ---
-Last updated: {{%page.date%}}
+Last updated: {{%page.published_at | date: "%Y-%m-%d %H:%M" %}}
 
 This is what I'm up to right now!!
 
