@@ -2,7 +2,7 @@
 permalink: /now
 layout: page
 title: Now
-date: 01-03-21
+date: 2021-01-03
 published: true
 ---
 Last updated: {{%page.date | date: "%Y %B %e" %}}
