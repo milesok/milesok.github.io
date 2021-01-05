@@ -34,6 +34,10 @@ plugins:
 sass:
   style: compressed
 
+
+# Google Analytics
+google-analytics: 'G-Y2HCMVV8ML'
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
