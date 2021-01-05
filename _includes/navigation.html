@@ -1,9 +1,16 @@
 <nav>
-  <ul>
-  {% for item in site.data.navigation %}
-    <li><a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>
-      {{ item.name }}
-      </a></li>
-  {% endfor %}
-  </ul>
+  <div class="home-link">
+    <a href="/">
+      Miles Okamoto
+      </a>
+  </div>
+  <div class="site-links">
+    <ul>
+    {% for item in site.data.navigation %}
+      <li><a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>
+        {{ item.name }}
+        </a></li>
+    {% endfor %}
+    </ul>
+</div>
 </nav>
