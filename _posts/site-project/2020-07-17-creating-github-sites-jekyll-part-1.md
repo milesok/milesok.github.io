@@ -3,7 +3,7 @@ title: 'Creating a GitHub Pages Site with Jekyll, Part 1'
 subtitle: A page about how this page was made
 categories: projects website
 layout: post
-published: true
+published: false
 ---
 
 Jekyll is a static site generator that is integrated with GitHub Pages. That makes things pretty easy on us. It is a nice middle ground between being easy to build out of the box but fully customizable with HTML, CSS, etc.
@@ -78,4 +78,3 @@ That's about enough for one day. I have a site now though. Pretty cool. Next tim
 ![](https://github.com/milesokamoto/milesokamoto.github.io/blob/master/assets/img/creating-github-page/v1.PNG)
 
 Oops not done... I went and made a [404 page](https://milesokamoto.github.io/404) too just for fun. Now I'm done.
-
