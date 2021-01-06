@@ -6,7 +6,14 @@ published: true
 ---
 follower of Christ.  
 baseball nerd.  
-dallas -> austin
+longhorn.  
+
+stuff i know a few things about:  
+biomechanics  
+deep learning  
+poker  
+guitars  
+cooking  
 
 [what i'm up to now](/now)
 
