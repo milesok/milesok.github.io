@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: 'Creating a GitHub Pages Site with Jekyll, Part 2'
 subtitle: Styling Things Up
 categories: projects website
