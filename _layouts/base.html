@@ -4,16 +4,18 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
-    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% if site.google-analytics and jekyll.environment == 'production' %}
       {% include analytics.html %}
     {% endif %}
   </head>
   <body>
-    {% if site.google-analytics %}
-    {% include navigation.html %}
+    {% if jekyll.environment == 'production' %}
+      <p>production</p>
     {% endif %}
-    <p>HELLO</p>
-    
+    {% if site.google-analytics %}
+      <p>analytics</p>
+    {% endif %}
+    {% include navigation.html %}  
     {{ content }}
     {% include footer.html %}
   </body>
