@@ -1,10 +1,11 @@
 $font-stack: 'Muli', 'Helvetica Neue', 'Open Sans', Helvetica, Arial, sans-serif;
+$body-font: 'Helvetica Neue', 'Open Sans', Helvetica, Arial, sans-serif;
 $primary-color: #000000;
 $nav-background: midnightblue;
 $nav-link: white;
 
 body {
-  font: 100% $font-stack;
+  font: 100% $body-font;
   margin:0px;
 }
 h1 {
