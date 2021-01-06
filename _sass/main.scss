@@ -1,4 +1,4 @@
-$font-stack: 'Helvetica Neue', 'Open Sans', Helvetica, Arial, sans-serif;
+$font-stack: 'Muli', 'Helvetica Neue', 'Open Sans', Helvetica, Arial, sans-serif;
 $primary-color: #000000;
 $nav-background: midnightblue;
 $nav-link: white;
@@ -8,7 +8,7 @@ body {
   margin:0px;
 }
 h1 {
-  font: small-caps 700 400% $font-stack;
+  font: 700 400% $font-stack;
   color: $primary-color;
 }
 nav {
