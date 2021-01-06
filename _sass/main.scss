@@ -11,25 +11,12 @@ h1 {
   color: $primary-color;
 }
 nav {
-  .home-link {
-    margin: 0;
-    padding: 0;
-    overflow:hidden;
-    background-color: $nav-background;
-    a{
-      color: $nav-link;
-      display: block;
-      padding: 14px 16px;
-      font-size: 150%;
-      text-decoration: none;
-      &:hover {
-        background-color: steelblue;
-      }
-    }
-  }
   ul {
+    position: fixed;
     list-style-type: none;
-    margin-right: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
     padding: 0;
     overflow:hidden;
     background-color: $nav-background;
