@@ -1,7 +1,8 @@
 ---
 layout: post
 published: true
-title: '"Gameday" Style Plate Appearance Visualizer'
+title: R Shiny Plate Appearance Visualizer
+subtitle: Like Gameday but with Trackman Data
 ---
 ### The Idea
 Looking through rows of Trackman data on a CSV file to find out what the pitch characteristics for a particular at bat typically requires a lot of work to navigate through tons of rows and columns to find each data point, remembering the values you've just found, and being able to process what the numbers mean. Because of this, last season, I created an R Shiny app to create "MLB Gameday"-like summaries for each plate appearance that we have Trackman data for, connected to our SQL database so it will dynamically update as more games are added to the database.
