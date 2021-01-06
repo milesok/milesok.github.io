@@ -8,7 +8,7 @@ follower of Christ.
 baseball nerd.  
 longhorn.  
 
-**stuff i know a few things about:**
+**stuff i know a few things about:**  
 biomechanics  
 deep learning  
 poker  
