@@ -9,12 +9,6 @@
     {% endif %}
   </head>
   <body>
-    {% if jekyll.environment == 'production' %}
-      <p>production</p>
-    {% endif %}
-    {% if site.google-analytics %}
-      <p>analytics</p>
-    {% endif %}
     {% include navigation.html %}  
     {{ content }}
     {% include footer.html %}
