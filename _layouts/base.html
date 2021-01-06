@@ -5,7 +5,11 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
     {% if site.google_analytics and jekyll.environment == 'production' %}
+      <p>test</p>
       {% include analytics.html %}
+    {% endif %}
+    {% if site.google_analytics }
+      <p>{{site.google_analytics}}</p>
     {% endif %}
   </head>
   <body>
