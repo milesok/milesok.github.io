@@ -20,3 +20,6 @@ cooking
 milesokamoto@gmail.com  
 [twitter](https://twitter.com/MilesOkamoto)  
 [linkedin](https://www.linkedin.com/in/miles-okamoto/)
+
+
+> *whatever you do, do all to the glory of God.* - 1 Corinthians 10:31
