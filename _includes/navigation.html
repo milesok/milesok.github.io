@@ -1,16 +1,16 @@
 <nav>
   <div class="site-links">
     <ul>
+    <li>
+      <a href="/">
+        miles okamoto
+      </a>
+    </li>
     {% for item in site.data.navigation %}
-      <li><a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>
+      <li style="float:right"><a href="{{ item.link }}" {% if page.url == item.link %}{% endif %}>
         {{ item.name }}
         </a></li>
     {% endfor %}
-    <li style="float:right">
-      <a href="/">
-        Miles Okamoto
-      </a>
-    </li>
     </ul>
 </div>
 </nav>

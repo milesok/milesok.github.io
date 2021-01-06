@@ -26,12 +26,13 @@ nav {
       display: inline;
       float: left;
       a {
-      color: $nav-link;
-      display: block;
-      padding: 14px 16px;
-      text-decoration: none;
-      &:hover {
-        background-color: steelblue;
+        font-size:120%;
+        color: $nav-link;
+        display: block;
+        padding: 14px 16px;
+        text-decoration: none;
+        &:hover {
+          background-color: steelblue;
       }
         }
   }
