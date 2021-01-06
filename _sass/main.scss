@@ -5,9 +5,10 @@ $nav-link: white;
 
 body {
   font: 100% $font-stack;
+  margin:0px;
 }
 h1 {
-  font: 300% $font-stack;
+  font: small-caps 700 400% $font-stack;
   color: $primary-color;
 }
 nav {
