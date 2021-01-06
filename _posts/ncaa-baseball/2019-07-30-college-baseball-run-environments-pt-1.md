@@ -2,6 +2,7 @@
 layout: post
 published: true
 title: 'College Baseball Run Environments, Pt. 1'
+subtitle: Fun with schedule strength and high altitudes
 ---
 ### The Idea
 
