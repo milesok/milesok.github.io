@@ -1,9 +1,4 @@
 <nav>
-  <div class="home-link">
-    <a href="/">
-      Miles Okamoto
-      </a>
-  </div>
   <div class="site-links">
     <ul>
     {% for item in site.data.navigation %}
@@ -11,6 +6,11 @@
         {{ item.name }}
         </a></li>
     {% endfor %}
+    <li style="float:right">
+      <a href="/">
+        Miles Okamoto
+      </a>
+    </li>
     </ul>
 </div>
 </nav>
