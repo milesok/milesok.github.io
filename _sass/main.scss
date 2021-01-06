@@ -54,6 +54,12 @@ nav {
         }
   }
 }
+blockquote {
+  border-left: 1px solid #999
+  p {
+    color: #8a8a8a
+  }
+}
 .container-md{
   width: 60%;
   margin: auto;
