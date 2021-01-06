@@ -11,14 +11,22 @@ body {
 h1 {
   font: 700 400% $font-stack;
   color: $primary-color;
+  margin:0px;
 }
 h2 {
   font: 500 300% $font-stack;
   color: $primary-color;
+  margin:0px;
 }
 h3 {
-  font: 300 200% $font-stack;
+  font: 200 250% $font-stack;
   color: $primary-color;
+  margin:0px;
+}
+h4 {
+  font: 100 150% $font-stack;
+  color: $primary-color;
+  margin:0px;
 }
 nav {
   ul {
