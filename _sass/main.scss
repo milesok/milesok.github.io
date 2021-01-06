@@ -11,6 +11,14 @@ h1 {
   font: 700 400% $font-stack;
   color: $primary-color;
 }
+h2 {
+  font: 500 300% $font-stack;
+  color: $primary-color;
+}
+h3 {
+  font: 300 200% $font-stack;
+  color: $primary-color;
+}
 nav {
   ul {
     position: fixed;
