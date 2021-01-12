@@ -3,6 +3,7 @@ layout: post
 published: true
 title: Win Expectations in College Baseball
 date: '2019-08-01'
+subtitle: 'Or, what happens when some teams are way better than others'
 ---
 ### The Idea
 Bill James' original idea of relating winning percentage to runs scored and runs allowed was a very influential piece of baseball analytics history. While this concept [may not predict "true talent" well] (https://library.fangraphs.com/principles/expected-wins-and-losses/), we can use the pythagorean expectation formula to determine a conversion between runs and wins. The [pythagenpat](http://gosu02.tripod.com/id69.html) formula developed by Symth/Patriot adjusted James' original format and is currently accepted as the most elegant way to represent this relationship, so that's what I'll use for this post.
