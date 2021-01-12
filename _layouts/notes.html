@@ -8,9 +8,10 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
+  <h1>UPDATE CHECK</h1>
   <div class="notes-list">
     {% for post in site.notes %}
+    <h1>TEST</h1>
     <article class="post-preview">
       <a href="{{ post.url | relative_url }}">
         <h3 class="post-title"><strong>{{ post.title }}</strong></h3>
