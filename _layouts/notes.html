@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="notes">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <div class="notes-list">
+    {% for post in site.notes %}
+    <article class="post-preview">
+      <a href="{{ post.url | relative_url }}">
+        <h3 class="post-title"><strong>{{ post.title }}</strong></h3>
+
+        {% if post.subtitle %}
+          <h4 class="post-subtitle">
+          {{ post.subtitle }}
+          </h4>
+        {% endif %}
+      </a>
+  
+      <p class="post-meta">
+        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        {{ post.date | date: date_format }}
+      </p>
+     </article>
+    {% endfor %}
+  </div>
+
+</div>
