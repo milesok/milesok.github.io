@@ -1,4 +1,5 @@
 ---
-title: Miles Okamoto
+permalink: /notes
+title: Notes
 layout: notes
 ---
