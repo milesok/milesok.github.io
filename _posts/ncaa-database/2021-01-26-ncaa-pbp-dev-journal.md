@@ -1,10 +1,7 @@
 ---
 published: true
+title:NCAA Play By Play Parser Introduction
 subtitle: 'Or, Fun with Bad Data'
----
----
-title:NCAA Play By Play Scraper Project Introduction
-published:false
 ---
 
 If you've ever visited the [NCAA Stats Portal](stats.ncaa.org) before, you know it's a very rudimentary website with not a ton of functionality. There's a _ton_ of data, but in a format that is not very easy at all to scrape and parse.
