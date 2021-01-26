@@ -1,6 +1,6 @@
 ---
 published: true
-title:NCAA Play By Play Parser Introduction
+title: NCAA Play By Play Parser Introduction
 subtitle: 'Or, Fun with Bad Data'
 ---
 
