@@ -1,6 +1,6 @@
 ---
 published: true
-subtitle: Fun with bad data
+subtitle: 'Or, Fun with Bad Data'
 ---
 ---
 title:NCAA Play By Play Scraper Project Introduction
