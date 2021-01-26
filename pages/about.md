@@ -22,4 +22,3 @@ milesokamoto@gmail.com
 [linkedin](https://www.linkedin.com/in/miles-okamoto/)
 
 
-*whatever you do, do all to the glory of God.* - 1 corinthians 10:31
