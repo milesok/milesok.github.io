@@ -7,7 +7,7 @@ published: true
 ---
 Last updated: {{%page.date | date: "%B %e, %Y" %}}
 
-This is what I'm up to right now!!
+This is what I'm up to right now:
 
 ### Texas Baseball
 - Redesigning team MySQL Database
