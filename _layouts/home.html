@@ -11,22 +11,24 @@ layout: default
 
   <div class="posts-list">
     {% for post in site.posts %}
-    <article class="post-preview">
-      <a href="{{ post.url | relative_url }}">
-        <h3 class="post-title"><strong>{{ post.title }}</strong></h3>
+      {% unless post.categories contains 'notes' %}
+        <article class="post-preview">
+          <a href="{{ post.url | relative_url }}">
+            <h3 class="post-title"><strong>{{ post.title }}</strong></h3>
 
-        {% if post.subtitle %}
-          <h4 class="post-subtitle">
-          {{ post.subtitle }}
-          </h4>
-        {% endif %}
-      </a>
-  
-      <p class="post-meta">
-        {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-        {{ post.date | date: date_format }}
-      </p>
-     </article>
+            {% if post.subtitle %}
+              <h4 class="post-subtitle">
+              {{ post.subtitle }}
+              </h4>
+            {% endif %}
+          </a>
+
+          <p class="post-meta">
+            {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+            {{ post.date | date: date_format }}
+          </p>
+         </article>
+      {% endunless %}
     {% endfor %}
   </div>
 
