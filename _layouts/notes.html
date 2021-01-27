@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
   <div class="posts-list">
-      {% for post in site.posts.categories.notes}
+      {% for post in site.categories.notes}
           <article class="post-preview">
             <a href="{{ post.url | relative_url }}">
               <h3 class="post-title"><strong>{{ post.title }}</strong></h3>
