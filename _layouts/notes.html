@@ -9,7 +9,7 @@ layout: default
 
   {{ content }}
   <div class="posts-list">
-      {% for post in site.posts}
+      {% for post in site.posts %}
         {% if post.categories contains 'notes' %}
           <article class="post-preview">
             <a href="{{ post.url | relative_url }}">
@@ -27,9 +27,7 @@ layout: default
               {{ post.date | date: date_format }}
             </p>
            </article>
-        {% endif %}
+         {% endif %}
       {% endfor %}
   </div>
-
-
 </div>
