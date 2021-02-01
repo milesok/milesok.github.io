@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 subtitle: A simple but very useful tool
 title: Building a Live Trackman Dashboard in Google Sheets
 ---
