@@ -17,7 +17,9 @@ cooking
 
 [what i'm up to now](/now)
 
-milesokamoto@gmail.com  
+[my resume](https://drive.google.com/file/d/1RMF5pLm7yTLv0hsPg33DAKJEmC6OuTSr/view?usp=sharing)
+
+email: milesokamoto@gmail.com  
 [twitter](https://twitter.com/MilesOkamoto)  
 [linkedin](https://www.linkedin.com/in/miles-okamoto/)
 
