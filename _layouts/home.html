@@ -11,7 +11,7 @@ layout: default
 
   <div class="posts-list">
     {% for post in site.posts %}
-      {% unless post.categories contains 'notes' %}
+      {% unless post.categories contains 'notes' or post.categories contains 'ideas %}
         <article class="post-preview">
           <a href="{{ post.url | relative_url }}">
             <h3 class="post-title"><strong>{{ post.title }}</strong></h3>
