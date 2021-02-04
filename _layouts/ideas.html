@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="notes">
+<div class="ideas">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -10,7 +10,7 @@ layout: default
   {{ content }}
   <div class="posts-list">
       {% for post in site.posts %}
-        {% if post.categories contains 'notes' %}
+        {% if post.categories contains 'ideas' %}
           <article class="post-preview">
             <a href="{{ post.url | relative_url }}">
               <h3 class="post-title"><strong>{{ post.title }}</strong></h3>
