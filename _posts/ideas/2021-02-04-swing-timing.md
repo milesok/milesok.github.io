@@ -1,6 +1,7 @@
 ---
 published: true
 subtitle: A plan to break down swings and takes
+categories: ideas
 ---
 #### Introduction
 Swings and misses, or "whiffs," have become an increasing focus for baseball analytics, especially as the practice of pitch design has become more and more ubiquitous in the baseball world. Pitch-tracking technologies like Rapsodo and Trackman have provided widespread accessibility to data that allows pitchers to connect their pitch characteristics to the probability of generating a whiff.
