@@ -1,6 +1,6 @@
 ---
 published: true
-subtitle: Breaking down whiffs and takes
+subtitle: A plan to break down swings and takes
 ---
 ### Introduction
 Swings and misses, or "whiffs," have become an increasing focus for baseball analytics, especially as the practice of pitch design has become more and more ubiquitous in the baseball world. Pitch-tracking technologies like Rapsodo and Trackman have provided widespread accessibility to data that allows pitchers to connect their pitch characteristics to the probability of generating a whiff.
@@ -31,6 +31,8 @@ Because there will only be one angle for videos, approximating 3D space will be 
 
 ### Data
 The primary source of data here would be the [baseball savant statcast search](https://baseballsavant.mlb.com/statcast_search) site, which will allow us to find videos of every pitch as well as the tagged results and any Trackman/Hawkeye pitch characteristics we could want.
+
+Some potential features to look to extract using computer vision could include the timing of the swing relative to the pitch crossing the plate, the distance between the bat and the ball, and the amount of movement the batter makes on a take or check swing.
 
 
 ### Methodology
