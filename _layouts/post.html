@@ -1,12 +1,15 @@
 ---
 layout: default
 ---
-  <div>
+  <div class="title">
   {%- if page.title -%}
     <h2>{{ page.title }}</h2>
   {%- endif -%}
   {%- if page.subtitle -%}
     <h4>{{ page.subtitle }}</h4>
   {%- endif -%}
+  <div class="container-md">
     {{ content }}
+  </div>
+    
   </div>
