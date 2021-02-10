@@ -6,10 +6,15 @@ published: false
 ### Introduction
 This is an idea that started from a class project where the assignment was modeling a pattern recognition application in biomedical engineering. I chose UCL tears in baseball players, aiming to use publicly available dataset to predict whether a player would incur an injury requiring UCL reconstruction surgery.
 
-From one estimate, Major League Baseball (MLB) teams lost over $70M in the 2019 season just from salary paid to players who were recovering from UCL reconstruction surgery.[^1] This figure fails to account for medical costs, losses that stem from a decrease in the team’s ability to win, and the effects of a possible impact to the player’s skill level. Injury risk is also an important factor to a player’s value, so the ability to quantify injury risk and take preventative measures is mutually beneficial for all stakeholders. For amateur baseball players, the procedure can end a player’s prospects of a professional baseball career, especially because a lost year of skill development in a player’s teenage years can stunt a player’s ability to improve, and teams’ desire to sign them.
+From one estimate, Major League Baseball (MLB) teams lost over $70M in the 2019 season just from salary paid to major league players who were recovering from UCL reconstruction surgery.[^1] This figure fails to account for medical costs ($25-40k for the procedure as reported by NYTimes)[^2], losses that stem from a decrease in the team’s ability to win, and the effects of a possible impact to the player’s skill level. Injury risk is also an important factor to a player’s value, so the ability to quantify injury risk and take preventative measures is mutually beneficial for all stakeholders. For amateur baseball players, the procedure can end a player’s prospects of a professional baseball career, especially because a lost year of skill development in a player’s teenage years can stunt a player’s ability to improve, and teams’ desire to sign them.
 
-### Possible Approaches
-While the causes of a torn UCL are still relatively unclear and the subject of a lot of biomechanics research, 
+### Strategy
+While the causes of a torn UCL are still relatively unclear, trying to prevent the injury has become a major point of influence for coaches at all levels of baseball. 
+
+There are three "levels" of analysis I could see as useful for this question:
+1. 
+2. "Statcast"/Trackman pitch-level data:
+3. Biomechanical analysis: Given a large enough sample of kinematics data from marker-based or markerless motion capture, calculating 
 
 ### Limitations and Potential Problems
 
@@ -22,8 +27,8 @@ The data used in this study would be a combination of publicly available informa
 ### Methodology
 
 
-### Prior Work
 
 
 ### References
 [^1] [Sportrac MLB Injured List Tracker](https://www.spotrac.com/mlb/disabled-list/2019/cumulative-reason/)
+[^2][Mets’ Harvey Is Covered Like Any Other Employee With a Workplace Injury](https://www.nytimes.com/2013/09/19/sports/baseball/harvey-is-covered-like-any-worker.html)
