@@ -1,5 +1,6 @@
 ---
 published: true
+title: "Ideas: Swing Timing"
 subtitle: A plan to break down swings and takes
 categories: ideas
 ---
