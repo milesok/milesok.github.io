@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 subtitle: Breaking down whiffs and takes
 ---
 ### Introduction
